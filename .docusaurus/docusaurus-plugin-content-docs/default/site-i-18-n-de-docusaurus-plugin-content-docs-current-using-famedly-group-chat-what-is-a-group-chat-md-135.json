@@ -1,0 +1,25 @@
+{
+  "unversionedId": "using-famedly/Group chat/what-is-a-group-chat",
+  "id": "using-famedly/Group chat/what-is-a-group-chat",
+  "title": "What is a group chat?",
+  "description": "Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/using-famedly/Group chat/what-is-a-group-chat.md",
+  "sourceDirName": "using-famedly/Group chat",
+  "slug": "/using-famedly/Group chat/what-is-a-group-chat",
+  "permalink": "/company/helpcenter/de/docs/using-famedly/Group chat/what-is-a-group-chat",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "What is a group chat?",
+    "title": "What is a group chat?",
+    "displayed_sidebar": "using_famedlySidebar",
+    "sidebar_position": 1
+  },
+  "sidebar": "using_famedlySidebar",
+  "next": {
+    "title": "Join group Chat",
+    "permalink": "/company/helpcenter/de/docs/using-famedly/Group chat/join-group-chat"
+  }
+}

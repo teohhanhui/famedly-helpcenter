@@ -1,0 +1,21 @@
+{
+  "unversionedId": "first-steps",
+  "id": "first-steps",
+  "title": "First Steps",
+  "description": "",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/first-steps.md",
+  "sourceDirName": ".",
+  "slug": "/first-steps",
+  "permalink": "/company/helpcenter/de/docs/first-steps",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "docId": "first-steps",
+    "displayed_sidebar": "first_stepsSidebar",
+    "sidebar_position": 1,
+    "title": "First Steps"
+  },
+  "sidebar": "first_stepsSidebar"
+}

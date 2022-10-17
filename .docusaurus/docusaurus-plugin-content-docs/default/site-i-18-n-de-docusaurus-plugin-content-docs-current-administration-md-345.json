@@ -1,0 +1,21 @@
+{
+  "unversionedId": "administration",
+  "id": "administration",
+  "title": "Administration",
+  "description": "",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/administration.md",
+  "sourceDirName": ".",
+  "slug": "/administration",
+  "permalink": "/company/helpcenter/de/docs/administration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "docId": "administration",
+    "displayed_sidebar": "administrationSidebar",
+    "sidebar_position": 1,
+    "title": "Administration"
+  },
+  "sidebar": "administrationSidebar"
+}

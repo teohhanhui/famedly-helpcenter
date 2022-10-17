@@ -1,0 +1,21 @@
+{
+  "unversionedId": "famedly-nutzen",
+  "id": "famedly-nutzen",
+  "title": "Using Famedly",
+  "description": "",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/famedly-nutzen.md",
+  "sourceDirName": ".",
+  "slug": "/famedly-nutzen",
+  "permalink": "/company/helpcenter/de/docs/famedly-nutzen",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "docId": "using-famedly",
+    "displayed_sidebar": "using_famedlySidebar",
+    "sidebar_position": 1,
+    "title": "Using Famedly"
+  },
+  "sidebar": "using_famedlySidebar"
+}

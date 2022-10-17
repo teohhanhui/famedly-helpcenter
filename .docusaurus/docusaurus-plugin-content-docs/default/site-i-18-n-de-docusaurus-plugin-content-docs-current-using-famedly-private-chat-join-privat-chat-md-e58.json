@@ -1,0 +1,25 @@
+{
+  "unversionedId": "using-famedly/Private chat/join-privat-chat",
+  "id": "using-famedly/Private chat/join-privat-chat",
+  "title": "Joining private chats",
+  "description": "",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/using-famedly/Private chat/join-privat-chat.md",
+  "sourceDirName": "using-famedly/Private chat",
+  "slug": "/using-famedly/Private chat/join-privat-chat",
+  "permalink": "/company/helpcenter/de/docs/using-famedly/Private chat/join-privat-chat",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Joining private chats",
+    "title": "Joining private chats",
+    "displayed_sidebar": "using_famedlySidebar",
+    "sidebar_position": 2
+  },
+  "sidebar": "using_famedlySidebar",
+  "previous": {
+    "title": "What are private chats?",
+    "permalink": "/company/helpcenter/de/docs/using-famedly/Private chat/what-are-private-chats"
+  }
+}

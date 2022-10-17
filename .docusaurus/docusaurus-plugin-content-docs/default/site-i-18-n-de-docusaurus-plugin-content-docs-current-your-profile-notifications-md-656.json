@@ -1,0 +1,25 @@
+{
+  "unversionedId": "your-profile/notifications",
+  "id": "your-profile/notifications",
+  "title": "Notifications",
+  "description": "Enable or disable notifications only for this device.",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/your-profile/notifications.md",
+  "sourceDirName": "your-profile",
+  "slug": "/your-profile/notifications",
+  "permalink": "/company/helpcenter/de/docs/your-profile/notifications",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Notifications",
+    "title": "Notifications",
+    "displayed_sidebar": "your_profileSidebar",
+    "sidebar_position": 1
+  },
+  "sidebar": "your_profileSidebar",
+  "next": {
+    "title": "Style",
+    "permalink": "/company/helpcenter/de/docs/your-profile/style"
+  }
+}
