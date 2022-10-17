@@ -7,20 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Famedly Help Center',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'We are here to make youe work easier',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/company/helpcenter/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
- 
-
 
   presets: [
     [
@@ -34,15 +26,8 @@ const config = {
          // editUrl:
           // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/output.css'),
         },
       }),
     ],
@@ -54,7 +39,7 @@ const config = {
       navbar: {
         title: 'Famedly Help Center',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Famedly Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -66,7 +51,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'famedly-nutzen',
+            docId: 'using-famedly',
             position: 'left',
             label: 'Using Famedly',
           },
@@ -90,7 +75,7 @@ const config = {
           },
           {
             type: 'localeDropdown',
-            position: 'left',
+            position: 'right',
           }
 
         
@@ -99,15 +84,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -129,17 +105,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Gitlab',
+                href: 'https://gitlab.com/famedly',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Famedly Helpcenter, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -159,6 +131,20 @@ const config = {
         },
       },
     },
+
+    plugins: [
+      async function myPlugin(context, options) {
+        return {
+          name: "docusaurus-tailwindcss",
+          configurePostCss(postcssOptions) {
+            // Appends TailwindCSS and AutoPrefixer.
+            postcssOptions.plugins.push(require("tailwindcss"));
+            postcssOptions.plugins.push(require("autoprefixer"));
+            return postcssOptions;
+          },
+        };
+      },
+    ],
 };
 
 module.exports = config;
