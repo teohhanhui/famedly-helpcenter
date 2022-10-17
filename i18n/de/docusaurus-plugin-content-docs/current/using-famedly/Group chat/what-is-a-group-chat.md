@@ -1,11 +1,11 @@
 ---
-sidebar_label: What is a group chat?
-title: What is a group chat?
+sidebar_label: Was ist ein Gruppenchat?
+title: Was ist ein Gruppenchat?
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 1
 ---
 
-# What is a group chat?
+# Was ist ein Gruppenchat?
 
 <Translate>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.</Translate>
 

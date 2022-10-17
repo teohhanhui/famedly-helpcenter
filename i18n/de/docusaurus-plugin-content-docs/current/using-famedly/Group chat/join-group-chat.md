@@ -5,24 +5,24 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 2
 ---
 
-Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben.
 
-# **Join group chat**
+# **Gruppenchat beitreten**
 
-To join a group chat, you must be [added](https://www.notion.so/Add-people-to-a-group-Personen-zu-einer-Gruppe-hinzuf-gen-c10862c9548346629b928ce9949ed8d0) to it by a member of that group chats.
+Um einem Gruppenchat beitreten zu können, müssen Sie von einem Mitglied dieses Gruppenchats hinzugefügt werden.
 
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. You can only join a group chat if you have received an invitation. 
-2. All invitations can be found at the top of the chats list.
-3. Click on the group chat you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the inviting person again to invite you again.
+    Sollten Sie die Einladung ablehnen, müssen Sie erneut die einladenden Person Sie bitten, dass Sie erneut eingeladen werden.
     
 </aside>
 
@@ -31,13 +31,13 @@ To join a group chat, you must be [added](https://www.notion.so/Add-people-to-a
 <details>
 <summary>Mobil</summary>
 
-1. You can only join a group chat if you have received an invitation. 
-2. All invitations can be found at the top of the chats list.
-3. Click on the group chat you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the inviting person again to invite you again.
+    Sollten Sie die Einladung ablehnen, müssen Sie erneut die einladenden Person Sie bitten, dass Sie erneut eingeladen werden.
     
 </aside>
 
