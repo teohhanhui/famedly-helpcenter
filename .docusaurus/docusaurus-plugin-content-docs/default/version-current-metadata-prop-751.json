@@ -1,0 +1,253 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Administration",
+        "href": "/company/helpcenter/docs/administration",
+        "docId": "administration"
+      },
+      {
+        "type": "link",
+        "label": "Using Famedly",
+        "href": "/company/helpcenter/docs/famedly-nutzen",
+        "docId": "famedly-nutzen"
+      },
+      {
+        "type": "link",
+        "label": "First Steps",
+        "href": "/company/helpcenter/docs/first-steps",
+        "docId": "first-steps"
+      },
+      {
+        "type": "link",
+        "label": "Common Mistakes",
+        "href": "/company/helpcenter/docs/mistakes",
+        "docId": "mistakes"
+      },
+      {
+        "type": "link",
+        "label": "Your Profile",
+        "href": "/company/helpcenter/docs/your-profile",
+        "docId": "your-profile"
+      },
+      {
+        "type": "category",
+        "label": "Using Famedly",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Group chat",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "What is a group chat?",
+                "href": "/company/helpcenter/docs/using-famedly/Group chat/what-is-a-group-chat",
+                "docId": "using-famedly/Group chat/what-is-a-group-chat"
+              },
+              {
+                "type": "link",
+                "label": "Join group Chat",
+                "href": "/company/helpcenter/docs/using-famedly/Group chat/join-group-chat",
+                "docId": "using-famedly/Group chat/join-group-chat"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Private chat",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "What are private chats?",
+                "href": "/company/helpcenter/docs/using-famedly/Private chat/what-are-private-chats",
+                "docId": "using-famedly/Private chat/what-are-private-chats"
+              },
+              {
+                "type": "link",
+                "label": "Joining private chats",
+                "href": "/company/helpcenter/docs/using-famedly/Private chat/join-privat-chat",
+                "docId": "using-famedly/Private chat/join-privat-chat"
+              }
+            ]
+          }
+        ],
+        "href": "/company/helpcenter/docs/category/using-famedly"
+      },
+      {
+        "type": "category",
+        "label": "Your Profile",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Notifications",
+            "href": "/company/helpcenter/docs/your-profile/notifications",
+            "docId": "your-profile/notifications"
+          },
+          {
+            "type": "link",
+            "label": "Style",
+            "href": "/company/helpcenter/docs/your-profile/style",
+            "docId": "your-profile/style"
+          }
+        ],
+        "href": "/company/helpcenter/docs/category/your-profile"
+      },
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/company/helpcenter/docs/intro",
+        "docId": "intro"
+      }
+    ],
+    "first_stepsSidebar": [],
+    "using_famedlySidebar": [
+      {
+        "type": "category",
+        "label": "Group chat",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "What is a group chat?",
+            "href": "/company/helpcenter/docs/using-famedly/Group chat/what-is-a-group-chat",
+            "docId": "using-famedly/Group chat/what-is-a-group-chat"
+          },
+          {
+            "type": "link",
+            "label": "Join group Chat",
+            "href": "/company/helpcenter/docs/using-famedly/Group chat/join-group-chat",
+            "docId": "using-famedly/Group chat/join-group-chat"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Private chat",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "What are private chats?",
+            "href": "/company/helpcenter/docs/using-famedly/Private chat/what-are-private-chats",
+            "docId": "using-famedly/Private chat/what-are-private-chats"
+          },
+          {
+            "type": "link",
+            "label": "Joining private chats",
+            "href": "/company/helpcenter/docs/using-famedly/Private chat/join-privat-chat",
+            "docId": "using-famedly/Private chat/join-privat-chat"
+          }
+        ]
+      }
+    ],
+    "mistakesSidebar": [],
+    "your_profileSidebar": [
+      {
+        "type": "link",
+        "label": "Notifications",
+        "href": "/company/helpcenter/docs/your-profile/notifications",
+        "docId": "your-profile/notifications"
+      },
+      {
+        "type": "link",
+        "label": "Style",
+        "href": "/company/helpcenter/docs/your-profile/style",
+        "docId": "your-profile/style"
+      }
+    ],
+    "administrationSidebar": []
+  },
+  "docs": {
+    "administration": {
+      "id": "administration",
+      "title": "Administration",
+      "description": "",
+      "sidebar": "administrationSidebar"
+    },
+    "famedly-nutzen": {
+      "id": "famedly-nutzen",
+      "title": "Using Famedly",
+      "description": "",
+      "sidebar": "using_famedlySidebar"
+    },
+    "first-steps": {
+      "id": "first-steps",
+      "title": "First Steps",
+      "description": "",
+      "sidebar": "first_stepsSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "mistakes": {
+      "id": "mistakes",
+      "title": "Common Mistakes",
+      "description": "",
+      "sidebar": "mistakesSidebar"
+    },
+    "using-famedly/Group chat/join-group-chat": {
+      "id": "using-famedly/Group chat/join-group-chat",
+      "title": "Join Group Chat",
+      "description": "Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.",
+      "sidebar": "using_famedlySidebar"
+    },
+    "using-famedly/Group chat/what-is-a-group-chat": {
+      "id": "using-famedly/Group chat/what-is-a-group-chat",
+      "title": "What is a group chat?",
+      "description": "Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.",
+      "sidebar": "using_famedlySidebar"
+    },
+    "using-famedly/Private chat/join-privat-chat": {
+      "id": "using-famedly/Private chat/join-privat-chat",
+      "title": "Joining private chats",
+      "description": "",
+      "sidebar": "using_famedlySidebar"
+    },
+    "using-famedly/Private chat/what-are-private-chats": {
+      "id": "using-famedly/Private chat/what-are-private-chats",
+      "title": "What are private chats?",
+      "description": "",
+      "sidebar": "using_famedlySidebar"
+    },
+    "your-profile": {
+      "id": "your-profile",
+      "title": "Your Profile",
+      "description": "",
+      "sidebar": "your_profileSidebar"
+    },
+    "your-profile/notifications": {
+      "id": "your-profile/notifications",
+      "title": "Notifications",
+      "description": "Enable or disable notifications only for this device.",
+      "sidebar": "your_profileSidebar"
+    },
+    "your-profile/style": {
+      "id": "your-profile/style",
+      "title": "Style",
+      "description": "Dark mode helps make working in Famedly easier on your eyes. Additionally you can choose a background style.",
+      "sidebar": "your_profileSidebar"
+    }
+  }
+}

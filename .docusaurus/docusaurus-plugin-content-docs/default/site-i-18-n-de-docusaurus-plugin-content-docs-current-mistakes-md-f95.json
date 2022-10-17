@@ -1,0 +1,21 @@
+{
+  "unversionedId": "mistakes",
+  "id": "mistakes",
+  "title": "Common Mistakes",
+  "description": "",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/mistakes.md",
+  "sourceDirName": ".",
+  "slug": "/mistakes",
+  "permalink": "/company/helpcenter/de/docs/mistakes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "docId": "mistakes",
+    "displayed_sidebar": "mistakesSidebar",
+    "sidebar_position": 1,
+    "title": "Common Mistakes"
+  },
+  "sidebar": "mistakesSidebar"
+}

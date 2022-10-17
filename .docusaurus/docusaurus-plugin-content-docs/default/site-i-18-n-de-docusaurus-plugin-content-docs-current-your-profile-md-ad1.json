@@ -1,0 +1,21 @@
+{
+  "unversionedId": "your-profile",
+  "id": "your-profile",
+  "title": "Your Profile",
+  "description": "",
+  "source": "@site/i18n/de/docusaurus-plugin-content-docs/current/your-profile.md",
+  "sourceDirName": ".",
+  "slug": "/your-profile",
+  "permalink": "/company/helpcenter/de/docs/your-profile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "docId": "your-profile",
+    "displayed_sidebar": "your_profileSidebar",
+    "sidebar_position": 1,
+    "title": "Your Profile"
+  },
+  "sidebar": "your_profileSidebar"
+}
