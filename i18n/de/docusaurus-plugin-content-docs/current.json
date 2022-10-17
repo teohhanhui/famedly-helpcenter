@@ -11,13 +11,13 @@
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
   },
-  "sidebar.famedly_nutzenSidebar.category.Gruppenchat": {
+  "sidebar.using-famedlySidebar.category.Gruppenchat": {
     "message": "Gruppenchat",
-    "description": "The label for category Gruppenchat in sidebar famedly_nutzenSidebar"
+    "description": "The label for category Gruppenchat in sidebar using-famedlySidebar"
   },
-  "sidebar.famedly_nutzenSidebar.category.Privatchat": {
+  "sidebar.using-famedlySidebar.category.Privatchat": {
     "message": "Privatchat",
-    "description": "The label for category Privatchat in sidebar famedly_nutzenSidebar"
+    "description": "The label for category Privatchat in sidebar using-famedlySidebar"
   },
   "sidebar.tutorialSidebar.category.Using Famedly": {
     "message": "Using Famedly",
