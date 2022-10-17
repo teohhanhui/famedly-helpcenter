@@ -1,0 +1,26 @@
+{
+  "item.label.First Steps": {
+    "message": "Erste Schritte",
+    "description": "Navbar item with label First Steps"
+  },
+  "item.label.Using Famedly": {
+    "message": "Famedly benutzen",
+    "description": "Navbar item with label Using Famedly"
+  },
+  "item.label.Your Profile": {
+    "message": "Ihr Profil",
+    "description": "Navbar item with label Your Profile"
+  },
+  "item.label.Common Mistakes": {
+    "message": "Häufige Fehler",
+    "description": "Navbar item with label Common Mistakes"
+  },
+  "item.label.Administration": {
+    "message": "Administration",
+    "description": "Navbar item with label Administration"
+  },
+  "title": {
+    "message": "Famedly Help Center",
+    "description": "The title in the navbar"
+  }
+}
