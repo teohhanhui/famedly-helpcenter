@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Was ist ein Gruppenchat?
 
-<Translate>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.</Translate>
+<Translate>Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben.</Translate>
 
 # Group chat ****tips and best practices****
 
