@@ -22,7 +22,7 @@ Um einem Gruppenchat beitreten zu können, müssen Sie von einem Mitglied dieses
 4. Akzeptieren Sie die Einladung.
 
 <aside>
-    Sollten Sie die Einladung ablehnen, müssen Sie erneut die einladenden Person Sie bitten, dass Sie erneut eingeladen werden.
+    Sollten Sie die Einladung ablehnen, müssen Sie die einladenden Person bitten, Sie erneut einzuladen.
     
 </aside>
 
@@ -37,7 +37,7 @@ Um einem Gruppenchat beitreten zu können, müssen Sie von einem Mitglied dieses
 4. Akzeptieren Sie die Einladung.
 
 <aside>
-    Sollten Sie die Einladung ablehnen, müssen Sie erneut die einladenden Person Sie bitten, dass Sie erneut eingeladen werden.
+    Sollten Sie die Einladung ablehnen, müssen Sie die einladenden Person bitten, Sie erneut einzuladen.
     
 </aside>
 
