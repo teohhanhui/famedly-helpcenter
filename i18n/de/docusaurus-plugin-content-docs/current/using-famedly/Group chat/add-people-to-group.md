@@ -17,13 +17,14 @@ You can add an unlimited number of people to a group. The larger the groups beco
 1. Click ℹ in the top right corner of a group's screen to open the group details.
 2. Click on **Members**.
 3. Click **＋** in the upper right corner.
-4. Click on the person you want to add. </details>
+4. Click on the person you want to add.
+
+</details>
 
 <details>
 <summary>Mobile</summary>
 
 1. Tap **⠇** in the top right corner of a group's header.
 2. Select the person you want to add.
-
 
 </details>
