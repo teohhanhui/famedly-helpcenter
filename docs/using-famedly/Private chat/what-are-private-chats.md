@@ -5,3 +5,5 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 1
 ---
 
+Private chats are conversations between two people in Famedly.
+
