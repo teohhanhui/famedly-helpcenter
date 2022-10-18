@@ -23,7 +23,6 @@ To create a group chat, follow the steps below or see how it works.
 5. Add members to the group chat.
 6. Click **Create Group** to complete the process.
 
-
 </details>
 
 <details>
