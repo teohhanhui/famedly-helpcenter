@@ -1,32 +1,32 @@
 ---
-sidebar_label: Mute private chats
-title: Mute private chats
+sidebar_label: Privatchats stummschalten
+title: Privatchats stummschalten
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 6
 ---
 
-It is possible to mute notifications for private chats.
+Es ist möglich, Benachrichtigungen für Privatchats stumm zu schalten.
 
-# Mute private chats
+# Privatchats stummschalten
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a privat chat to open the private chat details.
-2. Click on 🔔 to mute the private chat.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms eines Privatchats, um die Details zu öffnen.
+2. Klicken Sie auf 🔔, um den Privatchat stumm zu schalten.
 
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the header of a privat chat to open the privat chat details.
-2. Tap 🔔 to mute the group.
+1. Tippe auf die Kopfzeile eines Privatchats, um die Details zu öffnen.
+2. Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.
 
 </details>
 
 <aside>
-🚧 You can unmute the privat chat again, by following the same steps and clicking 🔕.
+🚧 Sie können die Stummschaltung des Privatchats wieder aufheben, indem Sie die gleichen Schritte ausführen und auf 🔕 klicken.
 
 </aside>
