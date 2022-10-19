@@ -1,35 +1,35 @@
 ---
-sidebar_label: Leave a group
-title: Leave a group
+sidebar_label: Gruppe verlassen
+title: Gruppe verlassen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 8
 ---
 
-Famedly organises conversations between multiple people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to promote collaboration. If a group is no longer relevant, you can leave it at any time.
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Gruppe nicht mehr relevant ist, können Sie sie jederzeit verlassen.
 
-# Leave a group
+# Gruppe verlassen
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details.
-2. Click on Leave **Group**.
-3. Click **Exit**.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.
+2. Klicken Sie auf **Leave Gruppe**.
+3. Klicken Sie auf **Beenden**.
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the header of a group to open the group details.
-2. Tap **Exit Chat** at the bottom of the page.
-3. Select **Yes**
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippen Sie auf **Chat verlassen** am unteren Ende der Seite.
+3. Wählen Sie **Ja**
 
 </details>
 
 <aside>
-🚧 The group has been archived for you. You can find the archive in the settings and thus read older content.
+🚧 Die Gruppe wurde für Sie archiviert. Sie können das Archiv in den Einstellungen finden und somit ältere Inhalte nachlesen.
 
 </aside>
