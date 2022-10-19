@@ -1,15 +1,15 @@
 ---
-sidebar_label: Set a group subject or description
-title: Set a group subject or description
+sidebar_label: Gruppenbetreff oder Beschreibung festlegen
+title: Gruppenbetreff oder Beschreibung festlegen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 4
 ---
 
-With a group subject, people can find out what the purpose of the group is. With the group description, members can get more information and important general information can be shared. Only administrators of a group can edit the subject or description.
+Mit einem Gruppenthema können die Teilnehmer herausfinden, was der Zweck der Gruppe ist. Mit der Gruppenbeschreibung können Mitglieder mehr Informationen erhalten und wichtige allgemeine Informationen weitergegeben werden. Nur Administratoren einer Gruppe können den Betreff oder die Beschreibung bearbeiten.
 
-# E**dit a group subject**
+# Einen Gruppenbetreff bearbeiten
 
-The room subject appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. ✨ However we suggest to keep the subject short. can be up to 250 characters in length and can include emoji.
+Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Administratoren der Gruppe geändert werden. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨ Wir empfehlen jedoch, das Gruppenbetreff kurz zu halten. can be up to 250 characters in length and can include emoji.
 
 
 <details>
