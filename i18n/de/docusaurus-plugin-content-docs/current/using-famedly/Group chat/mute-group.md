@@ -1,32 +1,32 @@
 ---
-sidebar_label: Mute a group
-title: Mute a group
+sidebar_label: Gruppe stummschalten
+title: Gruppe stummschalten
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 10
 ---
 
-It is possible to mute notifications for groups. This can be helpful if many members communicate in a group and you do not necessarily want to be informed about new messages.
+Es ist möglich, Benachrichtigungen für Gruppenchats stumm zu schalten. Dies kann hilfreich sein, wenn viele Mitglieder in einer Gruppe kommunizieren und Sie nicht unbedingt über neue Nachrichten informiert werden möchten.
 
-# Mute a group
+# Gruppe stummschalten
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details.
-2. Click on 🔔 to mute the group.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.
 
 </details>
 
 <details>
-<summary>Desktop</summary>
+<summary>Mobil</summary>
 
-1. Tap the header of a group to open the group details.
-2. Tap 🔔 to mute the group.
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.
 
 </details>
 
 <aside>
-🚧 You can unmute the group again, by following the same steps and clicking 🔕.
+🚧 Sie können die Stummschaltung des Gruppenchats wieder aufheben, indem Sie die gleichen Schritte ausführen und auf 🔕 klicken.
 
 </aside>
