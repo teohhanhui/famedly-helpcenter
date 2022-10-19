@@ -1,30 +1,30 @@
 ---
-sidebar_label: Add people to a group
-title: Add people to a group
+sidebar_label: Personen zu einer Gruppe hinzufügen
+title: Personen zu einer Gruppe hinzufügen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 6
 ---
 
-Groups are the best way to keep conversations about various projects, topics or teams organised in Famedly. Add people to groups to bring the right people and information together in one place.
+Gruppen sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Themen oder Teams in Famedly zu organisieren. Fügen Sie Personen zu Gruppen hinzu, um die richtigen Personen und Informationen an einem Ort zusammenzubringen.
 
-# **Add people to a group**
+# **Personen zu einer Gruppe hinzufügen**
 
-You can add an unlimited number of people to a group. The larger the groups become, the more confusing the collaboration can become. We therefore recommend consciously considering which people are added.
+Sie können eine unbegrenzte Anzahl von Personen zu einer Gruppe hinzufügen. Je größer die Gruppen werden, desto unübersichtlicher kann die Zusammenarbeit werden. Wir empfehlen daher bewusst zu überlegen, welche Personen hinzugefügt werden.
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details.
-2. Click on **Members**.
-3. Click **＋** in the upper right corner.
-4. Click on the person you want to add.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.
+2. Klicken Sie auf **Mitglieder**.
+3. Klicken Sie auf **+** in der oberen rechten Ecke.
+4. Klicken Sie auf die Person, die Sie hinzufügen möchten.
 
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap **⠇** in the top right corner of a group's header.
-2. Select the person you want to add.
+1. Tippen Sie auf **⠇** in der rechten oberen Ecke der Kopfzeile einer Gruppe.
+2. Wählen Sie die Person aus, die Sie hinzufügen möchten.
 
 </details>
