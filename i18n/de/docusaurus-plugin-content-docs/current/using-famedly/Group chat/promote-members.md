@@ -16,16 +16,16 @@ sidebar_position: 12
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap on the header of a group to open the group details.
-2. Tap on **Participants**.
-3. **Tap and hold** on the person you want to remove.
-4. Tap **Promote to Admin**.
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippen Sie auf **Teilnehmer**.
+3. **Tippe und halte** auf die Person, die Sie entfernen möchtest.
+4. Tippen Sie auf **Zum Administrator ernennen**.
 
 </details>
 
 <aside>
-🚧 You cannot devote other admins of a group.
+🚧 Sie können andere Administratoren einer Gruppe nicht herabstufen.
 
 </aside>
