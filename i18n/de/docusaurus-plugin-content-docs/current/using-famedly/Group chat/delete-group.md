@@ -1,43 +1,43 @@
 ---
-sidebar_label: Delete a group
-title: Delete a group
+sidebar_label: Gruppe löschen
+title: Gruppe löschen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 9
 ---
 
-To save disk space on your device, you can delete archived groups. To be able to delete a group on the device, you must first leave it.
+Um Speicherplatz auf Ihrem Gerät zu sparen, können Sie archivierte Gruppen löschen. Um eine Gruppe auf dem Gerät löschen zu können, müssen Sie diese zuerst verlassen.
 
 <aside>
-🚧 It is currently not possible to delete a group for all members as an administrator.
+🚧 Es ist momentan nicht möglich, eine Gruppe für alle Mitglieder als Administrator zu löschen.
 
 </aside>
 
-# Delete a group
+# Gruppe löschen
 
 <aside>
-🚧 Note: Loading the archive may take some time
+🚧 Hinweis: Das Laden des Archivs kann einige Zeit in Anspruch nehmen
 
 </aside>
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click on your **profile picture or name initials** to the right of the filter field to open the settings.
-2. Click on **Archive**.
-3. Click ☑ in the top right corner of the screen.
-4. Select one or more groups you want to delete.
-5. Click 🗑.
-6. Click **Yes.**
+1. Tippen Sie rechts neben dem Filterfeld auf Ihr **Profilbild oder Namens Initialen** um die Einstellungen zu öffnen.
+2. Klicken Sie auf **Archiv**.
+3. Klicken Sie auf ☑ oben rechts auf dem Bildschirm.
+4. Wählen Sie eine oder mehrere Gruppen aus, die Sie löschen möchten.
+5. Klicken Sie auf 🗑.
+6. Klicken Sie **Ja.**
 
 </details>
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Mobil</summary>
 
-1. Tap **Profile Picture or Name Initials** at the top right of the screen to open the settings.
-2. Tap **Archive**.
-3. Tap **Empty archive**.
-4. Tap **Delete** to remove all Private Messages & groups.
+1. Tippen Sie rechts neben dem Filterfeld auf Ihr **Profilbild oder Namens Initialen** um die Einstellungen zu öffnen.
+2. Tippen Sie auf **Archiv**.
+3. Tippen Sie auf **Archiv leeren**.
+4. Tippen Sie **Löschen** um alle privaten Chats & Gruppen zu entfernen.
 
 </details>
