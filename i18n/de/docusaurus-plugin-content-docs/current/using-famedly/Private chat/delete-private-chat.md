@@ -26,9 +26,9 @@ sidebar_position: 5
 <details>
 <summary>Mobil</summary>
 
-1. Tap **Profile Picture or Name Initials** at the top right of the screen to open the settings.
-2. Tap **Archive**.
-3. Tap **Empty archive**.
-4. Tap **Delete** to remove all private chats & group chats.
+1. Tippen Sie rechts neben dem Filterfeld auf Ihr **Profilbild oder Namens Initialen** um die Einstellungen zu öffnen.
+2. Tippen Sie auf **Archiv**.
+3. Tippen Sie auf **Archiv leeren**.
+4. Tippen Sie **Löschen** um alle privaten Chats & Gruppen zu entfernen.
 
 </details>
