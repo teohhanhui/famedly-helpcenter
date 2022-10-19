@@ -1,17 +1,17 @@
 ---
-sidebar_label: Promote members to group admin
-title: Promote members to group admin
+sidebar_label: Mitglieder zum Gruppen-Admin ernennen
+title: Mitglieder zum Gruppen-Admin ernennen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 12
 ---
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details.
-2. Click on **Members**.
-3. Click on **Promote to Administrator**.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.
+2. Klicken Sie auf **Mitglieder**.
+3. Klicken Sie auf **Zum Administrator ernennen**.
 
 </details>
 
