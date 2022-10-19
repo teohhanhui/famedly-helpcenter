@@ -1,54 +1,54 @@
 ---
-sidebar_label: Set or change group picture
-title: Set or change group picture
+sidebar_label: Gruppenbild festlegen oder ändern
+title: Gruppenbild festlegen oder ändern
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
 
-The group picture appears in the chat list and helps people to identify groups.
+Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen zu unterscheiden.
 
-# Set group picture
+# Gruppenbild festlegen
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details
-2. Click on **＋** next to the Group initials
-3. Select picture from your file system
-4. Click **Open**.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen
+2. Klicken Sie auf **+** neben den Initialen der Gruppe
+3. Wählen Sie ein Bild aus Ihrem Dateisystem
+4. Klicken Sie auf **Öffnen**.
 
 </details>
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Mobil</summary>
 
-1. Tap the header of a group to open the group details.
-2. Tap on **＋** next to the Group initials
-3. Select picture from your file system
-4. Click **Open**.
-
-</details>
-
-# Change group picture
-
-
-<details>
-<summary>Desktop</summary>
-
-1. Click ℹ in the top right corner of a group's screen to open the group details
-2. Click on ✎ next to the group picture.
-3. Select picture from your file system
-4. Click **Open**.
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippe auf **+** neben den Initialen der Gruppe
+3. Wählen Sie ein Bild aus Ihrem Dateisystem
+4. Klicken Sie auf **Öffnen**.
 
 </details>
 
-<details>
-<summary>Desktop</summary>
+# Gruppenbild ändern
 
-1. Tap the header of a group to open the group details.
-2. Tap on ✎ next to the group picture.
-3. Select picture from your file system
-4. Click **Open**.
+
+<details>
+<summary>Computer</summary>
+
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen
+2. Klicken Sie auf ✎ neben dem Gruppenbild.
+3. Wählen Sie ein Bild aus Ihrem Dateisystem
+4. Klicken Sie auf **Öffnen**.
+
+</details>
+
+<details>
+<summary>Mobil</summary>
+
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippe auf ✎ neben dem Gruppenbild.
+3. Wählen Sie ein Bild aus Ihrem Dateisystem
+4. Klicken Sie auf **Öffnen**.
 
 </details>
