@@ -1,33 +1,33 @@
 ---
-sidebar_label: Leave private chats
-title: Leave private chats
+sidebar_label: Privatchats verlassen
+title: Privatchats verlassen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 4
 ---
 
-# Leave private chats
+# Privatchats verlassen
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a private chat’s screen to open the group details.
-2. Click on **Leave Group**.
-3. Click **Exit**.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms eines Privatchats, um die Details zu öffnen.
+2. Klicken Sie auf **Chat verlassen**.
+3. Klicken Sie auf **Beenden**.
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the header of a private chat to open the privat chat details.
-2. Tap **Exit Chat** at the bottom of the page.
-3. Select **Yes**
+1. Tippe auf die Kopfzeile eines Privatchats, um die Details zu öffnen.
+2. Tippen Sie auf **Chat verlassen** am unteren Ende der Seite.
+3. Wählen Sie **Ja**
 
 </details>
 
 <aside>
-🚧 The private chat has been archived for you. You can find the archive in the settings and to read historical content.
+🚧 Der Privatchat wurde für Sie archiviert. Sie können das Archiv in den Einstellungen finden und somit ältere Inhalte nachlesen.
 
 </aside>
