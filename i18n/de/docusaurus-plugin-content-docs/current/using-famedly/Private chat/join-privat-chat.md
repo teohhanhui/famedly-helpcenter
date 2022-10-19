@@ -5,21 +5,21 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 2
 ---
 
-# Join private chats
+# Privatchats beitreten
 
-To join a private chats, another person would need to start a private chat with you first.
+Um Privatchats beitreten zu können, muss eine Person zunächst einen Privatchat mit Ihnen gestartet haben.
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. You can only join private chats if you have received an invitation.
-2. All invitations can be found at the top of the chats list.
-3. Click on the private chats you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Privatchats nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf die Privatchats zu denen Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the person again to stat a private chat with you, or you can start the private chat.
+    🚧 Wenn Sie die Einladung ablehnen, müssen Sie die Person erneut bitten, einen Privatchat mit Ihnen zu beginnen oder Sie können den Privatchat starten.
     
 </aside>
 
@@ -27,15 +27,15 @@ To join a private chats, another person would need to start a private chat with 
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Mobil</summary>
 
-1. You can only join private chats if you have received an invitation.
-2. All invitations can be found at the top of the chats list.
-3. Tap on the private chat you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Privatchats nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf die Privatchats zu denen Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the person again to stat a private chat with you, or you can start the private chat.
+    🚧 Wenn Sie die Einladung ablehnen, müssen Sie die Person erneut bitten, einen Privatchat mit Ihnen zu beginnen oder Sie können den Privatchat starten.
     
 </aside>
 
