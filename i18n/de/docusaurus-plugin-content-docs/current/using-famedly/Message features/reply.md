@@ -1,31 +1,31 @@
 ---
-sidebar_label: Reply to messages
-title: Reply to messages
+sidebar_label: Auf Nachrichten antworten
+title: Auf Nachrichten antworten
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 3
 ---
 
-The reply function allows you to reply to a specific message in group chat or private chat.
+Mit der Antwortfunktion können Sie in Gruppenchat oder Privatchat auf eine bestimmte Nachricht antworten.
 
-# Reply to messages
+# Auf Nachrichten antworten
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
- 1. Hover over the message you want to answer.
-2. Click the ↪ **reply** **icon**.
-3. Enter your reply in the textfield.
-4. Press **enter** or click the → **Send icon** to send reply.
+ 1. Bewegen Sie den Mauszeiger über die Nachricht, die Sie beantworten möchten.
+2. Klicken Sie auf das ↪ **Antworten** **Symbol**.
+3. Geben Sie Ihre Antwort in das Textfeld ein.
+4. Drücken Sie **Enter** oder klicken Sie auf das → **Symbol senden**, um die Antwort zu senden.
 
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the message you want to answer.
-2. Tap **Answer**.
-3. Enter your reply in the textfield.
-4. Tap the → **Send icon** to send reply.
+1. Tippen Sie auf die Nachricht, die Sie beantworten möchten.
+2. Tippen Sie **Antworten**.
+3. Geben Sie Ihre Antwort in das Textfeld ein.
+4. Klicken Sie auf das →**Senden Symbol**.
 
 </details>
