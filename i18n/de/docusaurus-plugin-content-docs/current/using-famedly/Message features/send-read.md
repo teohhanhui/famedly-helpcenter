@@ -1,36 +1,36 @@
 ---
-sidebar_label: Send and read messages
-title: Send and read messages
+sidebar_label: Nachrichten senden und lesen
+title: Nachrichten senden und lesen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 1
 ---
 
-In Famedly, conversations happen in group chats and private chats. To start and join conversations, learn how to send and read messages.
+In Famedly finden Unterhaltungen in Gruppenchats und privaten Chats statt. Um Unterhaltungen zu beginnen und ihnen beizutreten, lernen Sie, wie man Nachrichten sendet und liest.
 
-# This is a message
+# Dies ist eine Nachricht
 
-Messages can be more than just words. As you’re typing your message, you can select the icons below the message field to add attachments, formatting and more:
+Nachrichten können aus mehr als nur Wörtern bestehen. Während Sie Ihre Nachricht schreiben, können Sie die Symbole unter dem Nachrichtenfeld auswählen, um Anhänge, Formatierungen und mehr hinzuzufügen.
 
-- Add a file
-- Record an audio clip
-- Add an emoji
-- Mention someone
-- Format messages
+- Eine Datei hinzufügen
+- Eine Sprachnachricht aufnehmen
+- Ein Emoji hinzufügen
+- Jemanden erwähnen
+- Nachrichten formatieren
 
-# **Send messages**
+# **Nachrichten senden**
 
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Open a group chat or private chat that you’d like to send a message to.
-2. Click on the message input field.
-3. Type your message and add any emoji, mentions or formatting that you want.
-4. Press **Enter** or click → to send it.
+1. Öffnen Sie den Gruppenchat oder Privatchat, an den Sie eine Nachricht senden möchten.
+2. Klicken Sie auf das Nachrichtenfeld.
+3. Geben Sie Ihre Nachricht ein und fügen Sie alle gewünschten Emoji, Erwähnungen oder Formatierungen hinzu.
+4. Drücken Sie **Enter** oder klicken Sie →, um sie zu senden.
 
 <aside>
-    🚧 **Tip**: With shift + enter, you can jump in a new line.
+    🚧 <strong x-id="1">Tipp:</strong> Mit Shift + Eingabe können in die nächste Zeile springen.
     
 </aside>
 
@@ -38,17 +38,17 @@ Messages can be more than just words. As you’re typing your message, you can s
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Open a group chat or private chat that you’d like to send a message to.
-2. Tap on the message input field.
-3. Type your message and add any emoji, mentions or formatting that you want.
-4. Tap → to send it.
+1. Öffnen Sie den Gruppenchat oder Privatchat, an den Sie eine Nachricht senden möchten.
+2. Tippen Sie auf das Nachrichtenfeld.
+3. Geben Sie Ihre Nachricht ein und fügen Sie alle gewünschten Emoji, Erwähnungen oder Formatierungen hinzu.
+4. Tippen Sie → um es zu senden.
 
 </details>
 
-# **Read messages**
+# **Nachrichten lesen**
 
-## **Read new messages**
+## **Neue Nachrichten lesen**
 
-A **bold** group chat or private chat in your chat list means that there are unread messages in the conversation. Click on or tap the bold conversation name to view the unread messages.
+Wird ein Gruppenchat oder Privatchat Chat-Liste **fett** angezeigt, bedeutet das, dass es in der Unterhaltung ungelesene Nachrichten gibt. Click on or tap the bold conversation name to view the unread messages.
