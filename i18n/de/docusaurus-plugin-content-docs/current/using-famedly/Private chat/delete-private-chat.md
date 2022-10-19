@@ -1,30 +1,30 @@
 ---
-sidebar_label: Delete private chats
-title: Delete private chats
+sidebar_label: Privatchats löschen
+title: Privatchats löschen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
 
 <aside>
-🚧 Note: Loading the archive may take some time
+🚧 Hinweis: Das Laden des Archivs kann einige Zeit in Anspruch nehmen
 
 </aside>
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click on your **profile picture or name initials** to the right of the filter field to open the settings.
-2. Click on **Archive**.
-3. Click ☑ in the top right corner of the screen.
-4. Select one or more private chats you want to delete.
-5. Click 🗑.
-6. Click **Yes.**
+1. Klicken Sie rechts neben dem Filterfeld auf Ihr **Profilbild oder Namens Initialen** um die Einstellungen zu öffnen.
+2. Klicken Sie auf **Archiv**.
+3. Klicken Sie auf ☑ oben rechts auf dem Bildschirm.
+4. Wählen Sie einen oder mehrere private Chats, die Sie löschen möchten.
+5. Klicken Sie auf 🗑.
+6. Klicken Sie **Ja.**
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
 1. Tap **Profile Picture or Name Initials** at the top right of the screen to open the settings.
 2. Tap **Archive**.
