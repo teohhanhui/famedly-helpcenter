@@ -1,19 +1,19 @@
 ---
-sidebar_label: Edit or delete messages
-title: Edit or delete messages
+sidebar_label: Nachrichten bearbeiten oder löschen
+title: Nachrichten bearbeiten oder löschen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 2
 ---
 
-Because mistakes happen, it’s possible to edit and delete messages in Famedly. 
+Weil sich gelegentlich Fehler einschleichen, ist es in Famedly möglich, Nachrichten zu bearbeiten und zu löschen. 
 
-# **Edit a message**
+# **Nachrichten bearbeiten**
 
-By default, any member can edit their messages.
+Standardmäßig können alle Mitglieder ihre Nachrichten bearbeiten.
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
 1. Move the cursor over the message you want to edit.
 2. Click on the ✎ **pencil** **icon**.
