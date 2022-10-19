@@ -1,36 +1,36 @@
 ---
-sidebar_label: Remove people from a group
-title: Remove people from a group
+sidebar_label: Personen aus einer Gruppe entfernen
+title: Personen aus einer Gruppe entfernen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 7
 ---
 
-Famedly organises conversations between several people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to encourage collaboration. If a person no longer needs to be part of a group, the person can be removed. Administrators of a group can remove people from the group.
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Person nicht mehr Teil einer Gruppe sein muss, kann die Person entfernt werden. Administratoren einer Gruppe können Personen aus der Gruppe entfernen.
 
-# Remove people from a group
+# Personen aus einer Gruppe entfernen
 
-If you remove a person from a group, that person can no longer participate in the communication, but still has access to old messages within the group.
+Wenn Sie eine Person aus einer Gruppe entfernen, kann diese Person nicht mehr an der Kommunikation teilnehmen aber hat noch Zugriff auf alte Nachrichten innerhalb der Gruppe.
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details.
-2. Click on **Members**.
-3. Click on **Remove User**.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.
+2. Klicken Sie auf **Mitglieder**.
+3. Klicken Sie auf **Benutzer entfernen**.
 
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap on the header of a group to open the group details.
-2. Tap on **Participants**.
-3. **Tap and hold** on the person you want to remove.
-4. Tap **Remove Person Name**.
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Tippen Sie auf **Teilnehmer**.
+3. **Tippe und halte** auf die Person, die Sie entfernen möchtest.
+4. Tippen Sie auf **"Name der Person" entfernen**.
 
 </details>
 
 <aside>
-🚧 You cannot remove the person if they are also an administrator. In this case, you must ask the person to leave the group on their own.
+🚧 Sie können die Person nicht entfernen, wenn sie auch ein Administrator ist. In diesem Fall müssen Sie die Person bitten, die Gruppe eigenständig zu verlassen.
 
 </aside>
