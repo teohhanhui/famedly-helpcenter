@@ -15,48 +15,48 @@ Standardmäßig können alle Mitglieder ihre Nachrichten bearbeiten.
 <details>
 <summary>Computer</summary>
 
-1. Move the cursor over the message you want to edit.
-2. Click on the ✎ **pencil** **icon**.
-3. Edit your message in the text field.
-4. Click on the → **Send icon** to finish.
+1. Bewegen Sie den Cursor über die Nachricht, die Sie bearbeiten möchten.
+2. Klicken Sie auf das ✎**Bleistift** **Symbol**.
+3. Bearbeiten Sie Ihre Nachricht im Textfeld.
+4. Klicken Sie auf das →**Senden Symbol**.
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the message you want to edit.
-2. Tap **Edit** to make changes.
-3. Edit your message in the text field.
-4. Tap the *✔️* **checkmark icon** to complete the process.
+1. Tippen Sie auf die Nachricht, die Sie bearbeiten möchten.
+2. Tippen Sie auf **Bearbeiten**, um Änderungen vorzunehmen.
+3. Bearbeiten Sie Ihre Nachricht im Textfeld.
+4. Tippen Sie auf das *✔️* **Häkchen-Symbol**, um den Vorgang abzuschließen.
 
 </details>
 
-# **Delete a message**
+# **Nachrichten löschen**
 
-By default, any member can delete their messages.
+Standardmäßig können alle Mitglieder ihre Nachrichten löschen.
 
 <aside>
-🚧 **Note:** Deleting a message is permanent, so please proceed with care.
+🚧 <strong x-id="1">Hinweis:</strong> Löschen einer Nachricht ist permanent, also überlegen Sie es sich vorher gut.
 
 </aside>
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Hover over the message you want to delete.
-2. Click the 🗑 **bin** **icon**.
-3. Click **Yes** to confirm.
+1. Bewegen Sie den Mauszeiger über die Nachricht, die Sie bearbeiten möchten.
+2. Klicken Sie auf das 🗑**Papierkorb Symbol**.
+3. Klicken Sie zum Bestätigen auf **Ja**.
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the message you want to delete.
-2. Tap **Delete** to delete the message.
-3. Tap **Yes** to confirm.
+1. Tippen Sie auf die Nachricht, die Sie bearbeiten möchten.
+2. Tippen Sie auf **Löschen**, um die Nachricht zu löschen.
+3. Klicken Sie zum Bestätigen auf **Ja**.
 
 </details>
