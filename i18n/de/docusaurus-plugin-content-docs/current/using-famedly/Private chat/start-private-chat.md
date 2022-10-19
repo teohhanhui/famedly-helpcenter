@@ -1,32 +1,32 @@
 ---
-sidebar_label: Start private chats
-title: Start aprivate chats
+sidebar_label: Privatchats starten
+title: Privatchats starten
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 3
 ---
 
-# Start private chats
+# Privatchats starten
 
-To start private chats with a person, follow the steps below or see how it works.
+Um Privatchats mit einer Person zu starten, folgen Sie den folgenden Schritten.
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click on the Start Chat button in the top left corner.
-2. Click on **Start Chat**.
-3. Click on the person name you want to start a private chat with.
-4. Click **Start Chat** or **Open Chat**
+1. Klicken Sie auf die Schaltfläche Chat starten in der oberen linken Ecke.
+2. Klicken Sie auf **Chat starten**.
+3. Klicken Sie auf den Namen der Person, mit der Sie einen Privatchat starten möchten.
+4. Klicken Sie auf **Chat starten** oder **Chat öffnen**.
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap **Chats** at the bottom of the screen.
-2. Tap the **+New** button at the bottom right of your screen.
-3. Tap on the person name you want to start a private chat with.
-4. Tap on **💬.**
+1. Tippen Sie auf **Chats** am unteren Bildschirmrand.
+2. Tippen Sie auf die **+Neu** Schaltfläche unten rechts auf Ihrem Bildschirm.
+3. Tippen Sie auf den Namen der Person, mit der Sie einen Privatchat starten möchten.
+4. Tippen Sie auf **:speech_ballon:.**
 
 </details>
