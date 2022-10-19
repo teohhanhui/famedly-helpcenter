@@ -1,19 +1,19 @@
 ---
-sidebar_label: Use mentions
-title: Use mentions
+sidebar_label: Personen erwähnen
+title: Personen erwähnen
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
 
-Mentions allow you to directly notify people about something that requires their attention in Famedly. Learn how to mention people in your messages.
+Mit Erwähnungen können Sie Personen direkt über etwas benachrichtigen, dass ihre Aufmerksamkeit in Famedly erfordert. Erfahren Sie, wie sie Personen in ihren Nachrichten erwähnen können.
 
-# **Mention someone in a message**
+# **Jemand in einer Nachricht erwähnen**
 
-1. While you are writing a message, type the **@** **symbol**.
-2. Enter a member's name or select a member from the member list. You can repeat this step for each person you want to mention in your message.
-3. Send your message.
+1. Während Sie eine Nachricht schreiben, geben Sie das **@** **Symbol** ein.
+2. Geben Sie den Namen eines Mitglieds ein oder wählen Sie ein Mitglied aus der Mitgliederliste. Sie können diesen Schritt für jede Person wiederholen, die Sie in Ihrer Nachricht erwähnen möchten.
+3. Senden Sie Ihre Nachricht.
 
 <aside>
-🚧 Only members of a group chat or the person within the private chat can be mentioned. If you want to mention a person who is not a member of the group, this person must first be added to the group.
+🚧 Es können nur Mitglieder eines Gruppenchats, oder die Person innerhalb des Privatchats erwähnt werden. Möchten Sie eine Person erwähnen, welche nicht Mitglied der Gruppe ist, muss diese Person zunächst der Gruppe hinzugefügt werden.
 
 </aside>
