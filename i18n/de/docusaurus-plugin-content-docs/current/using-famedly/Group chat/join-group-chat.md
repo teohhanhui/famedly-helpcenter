@@ -1,5 +1,5 @@
 ---
-sidebar_label: Join group Chat
+sidebar_label: Gruppenchat beitreten
 title: Gruppenchat beitreten
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 2
