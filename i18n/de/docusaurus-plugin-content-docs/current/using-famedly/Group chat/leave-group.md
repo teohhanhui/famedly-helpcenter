@@ -5,10 +5,9 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 8
 ---
 
+## Gruppe verlassen
+
 Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Gruppe nicht mehr relevant ist, können Sie sie jederzeit verlassen.
-
-# Gruppe verlassen
-
 
 <details>
 <summary>Computer</summary>
