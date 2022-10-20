@@ -5,9 +5,9 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 11
 ---
 
-Gruppen können so eingestellt werden, dass nur Administratoren Nachrichten senden können. Dies kann besonders für Gruppen mit vielen Personen nützlich sein, in denen Ankündigungen geteilt werden sollen. In diesem Fall können nur Administratoren einer Gruppe Ankündigungen verschicken.
+## Nachrichtenversand auf Gruppen-Admins beschränken
 
-# Nachrichtenversand auf Gruppen-Admins beschränken
+Gruppen können so eingestellt werden, dass nur Administratoren Nachrichten senden können. Dies kann besonders für Gruppen mit vielen Personen nützlich sein, in denen Ankündigungen geteilt werden sollen. In diesem Fall können nur Administratoren einer Gruppe Ankündigungen verschicken.
 
 <details>
 <summary>Computer</summary>
