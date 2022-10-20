@@ -4,11 +4,9 @@ title: Leave a group
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 8
 ---
+## Leave a group
 
 Famedly organises conversations between multiple people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to promote collaboration. If a group is no longer relevant, you can leave it at any time.
-
-# Leave a group
-
 
 <details>
 <summary>Desktop</summary>

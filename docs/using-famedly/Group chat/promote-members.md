@@ -4,7 +4,7 @@ title: Promote members to group admin
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 12
 ---
-
+## Promote members to group admin
 
 <details>
 <summary>Desktop</summary>

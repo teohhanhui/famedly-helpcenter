@@ -5,7 +5,7 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 2
 ---
 
-# Join private chats
+## Join private chats
 
 To join a private chats, another person would need to start a private chat with you first.
 
@@ -27,7 +27,7 @@ To join a private chats, another person would need to start a private chat with 
     
    
 <details>
-<summary>Desktop</summary>
+<summary>Mobile</summary>
 
 1. You can only join private chats if you have received an invitation. 
 2. All invitations can be found at the top of the chats list.

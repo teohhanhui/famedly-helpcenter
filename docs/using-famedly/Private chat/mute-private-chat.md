@@ -4,11 +4,9 @@ title: Mute private chats
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 6
 ---
+## Mute private chats
 
 It is possible to mute notifications for private chats.
-
-# Mute private chats
-
 
 <details>
 <summary>Desktop</summary>

@@ -4,10 +4,11 @@ title: Set a group subject or description
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 4
 ---
+## Set a group subject or description
 
 With a group subject, people can find out what the purpose of the group is. With the group description, members can get more information and important general information can be shared. Only administrators of a group can edit the subject or description.
 
-# E**dit a group subject**
+# Edit a group subject
 
 The room subject appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. ✨ However we suggest to keep the subject short. can be up to 250 characters in length and can include emoji. 
 

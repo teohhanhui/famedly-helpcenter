@@ -4,10 +4,11 @@ title: Set or change group picture
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
+## Set or change group picture
 
 The group picture appears in the chat list and helps people to identify groups.
 
-# Set group picture
+### Set group picture
 
 <details>
 <summary>Desktop</summary>
@@ -30,7 +31,7 @@ The group picture appears in the chat list and helps people to identify groups.
 
 </details>
 
-# Change group picture
+### Change group picture
 
     
 <details>
