@@ -5,6 +5,7 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 12
 ---
 
+## Promote members to group admin
 
 <details>
 <summary>Computer</summary>
