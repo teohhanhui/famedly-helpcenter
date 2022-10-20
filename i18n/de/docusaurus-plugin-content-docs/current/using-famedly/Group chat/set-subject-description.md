@@ -5,9 +5,11 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 4
 ---
 
+## Set a group subject or description
+
 Mit einem Gruppenthema können die Teilnehmer herausfinden, was der Zweck der Gruppe ist. Mit der Gruppenbeschreibung können Mitglieder mehr Informationen erhalten und wichtige allgemeine Informationen weitergegeben werden. Nur Administratoren einer Gruppe können den Betreff oder die Beschreibung bearbeiten.
 
-# Einen Gruppenbetreff bearbeiten
+# Edit a group subject
 
 Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Administratoren der Gruppe geändert werden. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨ Wir empfehlen jedoch, das Gruppenbetreff kurz zu halten. can be up to 250 characters in length and can include emoji.
 
