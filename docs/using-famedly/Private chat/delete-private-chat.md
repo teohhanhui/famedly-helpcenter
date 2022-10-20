@@ -4,6 +4,7 @@ title: Delete private chats
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
+## Delete private chats
 
 <aside>
 🚧 Note: Loading the archive may take some time

@@ -5,7 +5,7 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 4
 ---
 
-# Leave private chats
+## Leave private chats
 
     
 <details>

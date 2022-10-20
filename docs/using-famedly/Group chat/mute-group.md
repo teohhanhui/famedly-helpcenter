@@ -4,10 +4,9 @@ title: Mute a group
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 10
 ---
+## Mute a group
 
 It is possible to mute notifications for groups. This can be helpful if many members communicate in a group and you do not necessarily want to be informed about new messages.
-
-# Mute a group
 
 
 <details>
