@@ -1,6 +1,6 @@
 ---
 docId: administration
-displayed_sidebar: administrationSidebar
+displayed_sidebar: tutorialSidebar
 sidebar_position: 1
 title: Administration
 ---

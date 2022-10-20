@@ -1,7 +1,7 @@
 ---
 sidebar_label: Group Chat
 title: Group Chat
-displayed_sidebar: using_famedlySidebar
+displayed_sidebar: tutorialSidebar
 sidebar_position: 0
 ---
 
