@@ -1,29 +1,29 @@
 ---
-sidebar_label: Private chat
-title: Private chat
+sidebar_label: Privatchat
+title: Privatchat
 displayed_sidebar: using_famedlySidebar
 sidebar_position: 0
 ---
 
-## What ar private chats?
+## Was sind Privatchats?
 
-Private chats are conversations between two people in Famedly.
+Privatchats sind Unterhaltungen zwischen zwei Personen in Famedly.
 
-## Join private chats
+## Privatchats beitreten
 
-To join a private chats, another person would need to start a private chat with you first.
+Um Privatchats beitreten zu können, muss eine Person zunächst einen Privatchat mit Ihnen gestartet haben.
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. You can only join private chats if you have received an invitation.
-2. All invitations can be found at the top of the chats list.
-3. Click on the private chats you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Privatchats nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf die Privatchats zu denen Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the person again to stat a private chat with you, or you can start the private chat.
+    🚧 Wenn Sie die Einladung ablehnen, müssen Sie die Person erneut bitten, einen Privatchat mit Ihnen zu beginnen oder Sie können den Privatchat starten.
     
 </aside>
 
@@ -31,127 +31,127 @@ To join a private chats, another person would need to start a private chat with 
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. You can only join private chats if you have received an invitation.
-2. All invitations can be found at the top of the chats list.
-3. Tap on the private chat you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Privatchats nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf die Privatchats zu denen Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the person again to stat a private chat with you, or you can start the private chat.
+    🚧 Wenn Sie die Einladung ablehnen, müssen Sie die Person erneut bitten, einen Privatchat mit Ihnen zu beginnen oder Sie können den Privatchat starten.
     
 </aside>
 
 </details>
 
 
-## Start private chats
+## Privatchats starten
 
-To start private chats with a person, follow the steps below or see how it works.
+Um Privatchats mit einer Person zu starten, folgen Sie den folgenden Schritten.
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click on the Start Chat button in the top left corner.
-2. Click on **Start Chat**.
-3. Click on the person name you want to start a private chat with.
-4. Click **Start Chat** or **Open Chat**
+1. Klicken Sie auf die Schaltfläche Chat starten in der oberen linken Ecke.
+2. Klicken Sie auf **Chat starten**.
+3. Klicken Sie auf den Namen der Person, mit der Sie einen Privatchat starten möchten.
+4. Klicken Sie auf **Chat starten** oder **Chat öffnen**.
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap **Chats** at the bottom of the screen.
-2. Tap the **+New** button at the bottom right of your screen.
-3. Tap on the person name you want to start a private chat with.
-4. Tap on **💬.**
-
-</details>
-
-## Leave private chats
-
-
-<details>
-<summary>Desktop</summary>
-
-1. Click ℹ in the top right corner of a private chat’s screen to open the group details.
-2. Click on **Leave Group**.
-3. Click **Exit**.
+1. Tippen Sie auf **Chats** am unteren Bildschirmrand.
+2. Tippen Sie auf die **+Neu** Schaltfläche unten rechts auf Ihrem Bildschirm.
+3. Tippen Sie auf den Namen der Person, mit der Sie einen Privatchat starten möchten.
+4. Tippen Sie auf **:speech_ballon:.**
 
 </details>
 
+## Privatchats verlassen
+
 
 <details>
-<summary>Mobile</summary>
+<summary>Computer</summary>
 
-1. Tap the header of a private chat to open the privat chat details.
-2. Tap **Exit Chat** at the bottom of the page.
-3. Select **Yes**
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms eines Privatchats, um die Details zu öffnen.
+2. Klicken Sie auf **Chat verlassen**.
+3. Klicken Sie auf **Beenden**.
+
+</details>
+
+
+<details>
+<summary>Mobil</summary>
+
+1. Tippe auf die Kopfzeile eines Privatchats, um die Details zu öffnen.
+2. Tippen Sie auf **Chat verlassen** am unteren Ende der Seite.
+3. Wählen Sie **Ja**
 
 </details>
 
 <aside>
-🚧 The private chat has been archived for you. You can find the archive in the settings and to read historical content.
+🚧 Der Privatchat wurde für Sie archiviert. Sie können das Archiv in den Einstellungen finden und somit ältere Inhalte nachlesen.
 
 </aside>
 
-## Delete private chats
+## Privatchats löschen
 
 <aside>
 
-🚧 Note: Loading the archive may take some time
+🚧 Hinweis: Das Laden des Archivs kann einige Zeit in Anspruch nehmen
 
 </aside>
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click on your **profile picture or name initials** to the right of the filter field to open the settings.
-2. Click on **Archive**.
-3. Click ☑ in the top right corner of the screen.
-4. Select one or more private chats you want to delete.
-5. Click 🗑.
-6. Click **Yes.**
+1. Tippen Sie rechts neben dem Filterfeld auf Ihr **Profilbild oder Namens Initialen** um die Einstellungen zu öffnen.
+2. Klicken Sie auf **Archiv**.
+3. Klicken Sie auf ☑ oben rechts auf dem Bildschirm.
+4. Wählen Sie einen oder mehrere private Chats, die Sie löschen möchten.
+5. Klicken Sie auf 🗑.
+6. Klicken Sie **Ja.**
 
 </details>
 
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap **Profile Picture or Name Initials** at the top right of the screen to open the settings.
-2. Tap **Archive**.
-3. Tap **Empty archive**.
-4. Tap **Delete** to remove all private chats & group chats.
-
-</details>
-
-## Mute private chats
-
-It is possible to mute notifications for private chats.
-
-<details>
-<summary>Desktop</summary>
-
-1. Click ℹ in the top right corner of a privat chat to open the private chat details.
-2. Click on 🔔 to mute the private chat.
+1. Tippen Sie rechts neben dem Filterfeld auf Ihr **Profilbild oder Namens Initialen** um die Einstellungen zu öffnen.
+2. Tippen Sie auf **Archiv**.
+3. Tippen Sie auf **Archiv leeren**.
+4. Tippen Sie **Löschen** um alle privaten Chats & Gruppen zu entfernen.
 
 </details>
 
-<details>
-<summary>Mobile</summary>
+## Privatchats stummschalten
 
-1. Tap the header of a privat chat to open the privat chat details.
-2. Tap 🔔 to mute the group.
+Es ist möglich, Benachrichtigungen für Privatchats stumm zu schalten.
+
+<details>
+<summary>Computer</summary>
+
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms eines Privatchats, um die Details zu öffnen.
+2. Klicken Sie auf 🔔, um den Privatchat stumm zu schalten.
+
+</details>
+
+<details>
+<summary>Mobil</summary>
+
+1. Tippe auf die Kopfzeile eines Privatchats, um die Details zu öffnen.
+2. Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.
 
 </details>
 
 <aside>
 
-🚧 You can unmute the private chat again, by following the same steps and clicking 🔕.
+🚧 Sie können die Stummschaltung des Privatchats wieder aufheben, indem Sie die gleichen Schritte ausführen und auf 🔕 klicken.
 
 </aside>
