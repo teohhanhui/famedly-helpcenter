@@ -2,7 +2,7 @@
 sidebar_label: Message features
 title: Message features
 displayed_sidebar: tutorialSidebar
-sidebar_position: 0
+sidebar_position: 3
 ---
 
 

@@ -2,7 +2,7 @@
 sidebar_label: Group Chat
 title: Group Chat
 displayed_sidebar: tutorialSidebar
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 ## What is a group chat?
