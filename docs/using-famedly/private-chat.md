@@ -2,7 +2,7 @@
 sidebar_label: Private chat
 title: Private chat
 displayed_sidebar: tutorialSidebar
-sidebar_position: 0
+sidebar_position: 2
 ---
 
 ## What ar private chats?
