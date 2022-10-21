@@ -1,7 +1,7 @@
 ---
 sidebar_label: Nachrichtenfunktionen
 title: Nachrichtenfunktionen
-displayed_sidebar: using_famedlySidebar
+displayed_sidebar: tutorialSidebar
 sidebar_position: 0
 ---
 
