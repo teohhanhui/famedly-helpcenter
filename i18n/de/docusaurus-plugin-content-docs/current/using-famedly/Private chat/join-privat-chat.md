@@ -5,7 +5,7 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 2
 ---
 
-# Privatchats beitreten
+## Privatchats beitreten
 
 Um Privatchats beitreten zu können, muss eine Person zunächst einen Privatchat mit Ihnen gestartet haben.
 
@@ -27,7 +27,7 @@ Um Privatchats beitreten zu können, muss eine Person zunächst einen Privatchat
 
 
 <details>
-<summary>Mobil</summary>
+<summary>Mobile</summary>
 
 1. Sie können einer Privatchats nur beitreten, wenn Sie eine Einladung erhalten haben.
 2. Alle Einladungen finden sich am oberen Ende der Chats Liste.

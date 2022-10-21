@@ -5,9 +5,9 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 7
 ---
 
-Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Person nicht mehr Teil einer Gruppe sein muss, kann die Person entfernt werden. Administratoren einer Gruppe können Personen aus der Gruppe entfernen.
+## Personen aus einer Gruppe entfernen
 
-# Personen aus einer Gruppe entfernen
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Person nicht mehr Teil einer Gruppe sein muss, kann die Person entfernt werden. Administratoren einer Gruppe können Personen aus der Gruppe entfernen.
 
 Wenn Sie eine Person aus einer Gruppe entfernen, kann diese Person nicht mehr an der Kommunikation teilnehmen aber hat noch Zugriff auf alte Nachrichten innerhalb der Gruppe.
 

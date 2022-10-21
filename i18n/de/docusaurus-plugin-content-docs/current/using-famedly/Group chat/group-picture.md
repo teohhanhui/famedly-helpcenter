@@ -5,9 +5,11 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
 
+## Set or change group picture
+
 Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen zu unterscheiden.
 
-# Gruppenbild festlegen
+### Gruppenbild festlegen
 
 <details>
 <summary>Computer</summary>
@@ -30,7 +32,7 @@ Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen
 
 </details>
 
-# Gruppenbild ändern
+### Gruppenbild ändern
 
 
 <details>

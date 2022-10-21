@@ -5,10 +5,9 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 6
 ---
 
+## Privatchats stummschalten
+
 Es ist möglich, Benachrichtigungen für Privatchats stumm zu schalten.
-
-# Privatchats stummschalten
-
 
 <details>
 <summary>Computer</summary>

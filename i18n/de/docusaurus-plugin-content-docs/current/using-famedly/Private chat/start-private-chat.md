@@ -5,7 +5,7 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 3
 ---
 
-# Privatchats starten
+## Privatchats starten
 
 Um Privatchats mit einer Person zu starten, folgen Sie den folgenden Schritten.
 

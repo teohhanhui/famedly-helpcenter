@@ -5,6 +5,8 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 5
 ---
 
+## Delete private chats
+
 <aside>
 🚧 Hinweis: Das Laden des Archivs kann einige Zeit in Anspruch nehmen
 

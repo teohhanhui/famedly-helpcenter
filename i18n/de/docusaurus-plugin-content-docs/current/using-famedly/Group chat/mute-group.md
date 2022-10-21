@@ -5,9 +5,9 @@ displayed_sidebar: using_famedlySidebar
 sidebar_position: 10
 ---
 
-Es ist möglich, Benachrichtigungen für Gruppenchats stumm zu schalten. Dies kann hilfreich sein, wenn viele Mitglieder in einer Gruppe kommunizieren und Sie nicht unbedingt über neue Nachrichten informiert werden möchten.
+## Gruppe stummschalten
 
-# Gruppe stummschalten
+Es ist möglich, Benachrichtigungen für Gruppenchats stumm zu schalten. Dies kann hilfreich sein, wenn viele Mitglieder in einer Gruppe kommunizieren und Sie nicht unbedingt über neue Nachrichten informiert werden möchten.
 
 
 <details>
