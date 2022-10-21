@@ -39,6 +39,7 @@ const config = {
       docs: {
         sidebar: {
           hideable: true,
+          autoCollapseCategories: true,
         },
       },
       navbar: {
@@ -51,34 +52,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'first-steps',
+            docId: 'start',
             position: 'left',
-            label: 'First Steps',
+            label: 'Tutorial',
           },
-          {
-            type: 'doc',
-            docId: 'using-famedly',
-            position: 'left',
-            label: 'Using Famedly',
-          },
-          {
-            type: 'doc',
-            docId: 'your-profile',
-            position: 'left',
-            label: 'Your Profile',
-          },
+          
+        
           {
             type: 'doc',
             docId: 'mistakes',
             position: 'left',
             label: 'Common Mistakes',
           },
-          {
-            type: 'doc',
-            docId: 'administration',
-            position: 'left',
-            label: 'Administration',
-          },
+          
           {
             type: 'localeDropdown',
             position: 'right',
