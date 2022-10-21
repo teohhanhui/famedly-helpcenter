@@ -11,28 +11,28 @@ sidebar_position: 0
 
 ### Gruppenchat **Tipps und Best Practices**
 
-- Make sure that the group chats you create or maintain have a clear topic and description so that people understand what they’re used for.
-- Make your group chats unique by setting up a profile picture for your group chat
-- Archive group chats when they’re no longer needed.
+- Vergewissern Sie sich, dass die Gruppenchats, die Sie erstellen oder pflegen, ein klares Thema und eine klare Beschreibung haben, damit die Leute verstehen, wofür sie verwendet werden.
+- Individualisieren Sie Ihre Gruppenchats, indem Sie ein Profilbild für Ihren Gruppenchat erstellen
+- Archivieren Sie Gruppenchats, wenn sie nicht mehr benötigt werden.
 
 Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.
 
-## Join group chat
+## Gruppenchat beitreten
 
-To join a group chat, you must be added to it by a member of that group chats.
+Um einem Gruppenchat beizutreten, müssen Sie von einem Mitglied dieses Gruppenchats hinzugefügt werden.
 
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. You can only join a group chat if you have received an invitation.
-2. All invitations can be found at the top of the chats list.
-3. Click on the group chat you have been invited to.
-4. Accept the invitation.
+1. Sie können einer Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the inviting person again to invite you again.
+    🚧 Sollten Sie die Einladung ablehnen, müssen Sie die einladenden Person bitten, Sie erneut einzuladen.
     
 </aside>
 
@@ -41,91 +41,91 @@ To join a group chat, you must be added to it by a member of that group chats.
 <details>
 <summary>Mobil</summary>
 
-1. You can only join a group chat if you have received an invitation.
-2. All invitations can be found at the top of the chats list.
-3. Click on the group chat you have been invited to.
-4. Accept the invitation.
+1. Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.
+2. Alle Einladungen finden sich am oberen Ende der Chats Liste.
+3. Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.
+4. Akzeptieren Sie die Einladung.
 
 <aside>
-    🚧 If you decline the invitation, you will have to ask the inviting person again to invite you again.
+    🚧 Sollten Sie die Einladung ablehnen, müssen Sie die einladenden Person bitten, Sie erneut einzuladen.
     
 </aside>
 
 </details>
 
-## Create a group chat
+## Gruppenchat erstellen
 
-Group chats are the best way to keep conversations about various projects, topics or teams organised in Famedly. There’s no limit to how many group chats you can have in Famedly – go ahead, create as many as you like! To create a group chat, follow the steps below or see how it works.
+Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Themen oder Teams in Famedly zu organisieren. Es gibt keine Begrenzung, wie viele Gruppenchats Sie in Famedly haben können - erstellen Sie so viele, wie Sie möchten! Um einen Gruppenchat zu erstellen, folgen Sie den unten stehenden Schritten.
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click on the Start Chat button in the top left corner.
-2. Click on **Start Chat**.
-3. Click on **New Group**.
-4. Enter a group chat name.
-5. Add members to the group chat.
-6. Click **Create Group** to complete the process.
+1. Klicken Sie auf die Schaltfläche Chat starten in der oberen linken Ecke.
+2. Klicken Sie auf **Chat starten**.
+3. Klicken Sie auf **Neue Gruppe**.
+4. Geben Sie einen Gruppennamen ein.
+5. Fügen Sie Mitglieder zum Gruppenchat hinzu.
+6. Klicken Sie auf **Gruppe erstellen**, um den Vorgang abzuschließen.
 
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap **Chats** at the bottom of the screen.
-2. Tap the **+New** button at the bottom right of your screen.
-3. Tap **Start Chat**.
-4. Tap **New Group**.
-5. Enter a group chat subject.
-6. Add members to the group chat.
-7. Tap ✔️ in the top right corner to create the group.
+1. Tippen Sie auf **Chats** am unteren Bildschirmrand.
+2. Tippen Sie auf die **+Neu** Schaltfläche unten rechts auf Ihrem Bildschirm.
+3. Klicken Sie auf **Chat starten**.
+4. Tippen Sie auf **Neue Gruppe**.
+5. Geben Sie einen Gruppennamen ein.
+6. Fügen Sie Mitglieder zum Gruppenchat hinzu.
+7. Tippe auf ✔️ in der oberen rechten Ecke, um die Gruppe zu erstellen.
 
 </details>
 
 <aside>
-🚧 Tip: You can also create a group chat without members and use it as a notepad.
+🚧 Tipp: Sie können auch einem Gruppenchat ohne Mitglieder erstellen, und diese als Notizblock zu verwenden.
 
 </aside>
 
-## Set a group subject or description
+## Gruppenbetreff oder Beschreibung festlegen
 
-With a group subject, people can find out what the purpose of the group is. With the group description, members can get more information and important general information can be shared. Only administrators of a group can edit the subject or description.
+Mit einem Gruppenthema können die Teilnehmer herausfinden, was der Zweck der Gruppe ist. Mit der Gruppenbeschreibung können Mitglieder mehr Informationen erhalten und wichtige allgemeine Informationen weitergegeben werden. Nur Administratoren einer Gruppe können den Betreff oder die Beschreibung bearbeiten.
 
-### Edit a group subject
+### Gruppenbetreff bearbeiten
 
-The room subject appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. ✨ However we suggest to keep the subject short. Can be up to 250 characters in length and can include emoji.
+Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Administratoren der Gruppe geändert werden. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨ Wir empfehlen jedoch, den Gruppenbetreff kurz zu halten. Kann bis zu 250 Zeichen lang sein und kann Emoji enthalten.
 
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details
-2. Click on **Set Chat Name**.
-3. Enter a name.
-4. Click **Done** to finish the process.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen
+2. Klicken Sie auf **Chat starten**.
+3. Geben Sie einen Namen ein.
+4. Klicken Sie auf **Gruppe erstellen**, um den Vorgang abzuschließen.
 
 </details>
 
 <details>
-<summary>Mobile</summary>
+<summary>Mobil</summary>
 
-1. Tap the header of a group to open the group details.
-2. Tap ⠇ in the top right corner of the screen.
-3. Tap **Change subject**.
-4. Enter a subject
-5. Tap **Done** to finish the process.
+1. Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.
+2. Klicken Sie auf ⠇ oben rechts auf dem Bildschirm.
+3. Tippen Sie auf **Betreff ändern**.
+4. Geben Sie einen Betreff ein
+5. Tippen Sie auf **Fertig** um den Prozess abzuschließen.
 
 </details>
 
-### Add or edit a group description
+### Gruppenbeschreibung hinzufügen oder bearbeiten
 
-From both your desktop and mobile devices, you can see group descriptions when viewing group details. There is no limitation in the subject length and it can include emoji. ✨
+Sowohl auf Ihrem Desktop als auch auf mobilen Geräten können Sie Gruppenbeschreibungen sehen, wenn Sie Gruppendetails ansehen. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨
 
 <details>
-<summary>Desktop</summary>
+<summary>Computer</summary>
 
-1. Click ℹ in the top right corner of a group's screen to open the group details.
-2. Click **Set chat description**.
+1. Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.
+2. Klicken Sie auf **Chatbeschreibung festlegen**.
 3. Enter a description.
 4. Click **Done** to finish the process.
 
