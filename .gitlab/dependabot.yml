@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    commit-message:
+      prefix: dep
+    reviewers:
+      - larodar
+    auto-merge: true
+
