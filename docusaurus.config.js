@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Famedly Help Center',
+  title: 'Help Center',
   tagline: 'We are here to make youe work easier',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/company/helpcenter/',
@@ -23,8 +23,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-         // editUrl:
-          // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl:
+           'https://gitlab.com/famedly/company/helpcenter/-/tree/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -103,7 +103,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Famedly Helpcenter, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Famedly Helpcenter, Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
