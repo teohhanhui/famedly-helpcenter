@@ -1,7 +1,7 @@
 ---
-docID: welcome
-sidebar_label: Welcome
-title: Welcome
+docID: Willkommen
+sidebar_label: Willkommen
+title: Willkommen
 displayed_sidebar: tutorialSidebar
 sidebar_position: 1
 ---
