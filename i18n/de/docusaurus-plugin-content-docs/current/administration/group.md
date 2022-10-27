@@ -1,6 +1,6 @@
 ---
-sidebar_label: Manage groups
-title: Manage groups
+sidebar_label: Gruppen verwalten
+title: Gruppen verwalten
 displayed_sidebar: tutorialSidebar
 sidebar_position: 2
 ---
