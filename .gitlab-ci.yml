@@ -19,6 +19,8 @@ pages:
   stage: deploy
   script:
     - yarn install
+    - yarn write-translations
+    - yarn write-translations -- --locale de
     - yarn build:gitlab
   artifacts:
       paths:

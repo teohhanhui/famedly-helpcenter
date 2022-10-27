@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.First Steps": {
+    "message": "First Steps",
+    "description": "The label for category First Steps in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Using Famedly": {
+    "message": "Using Famedly",
+    "description": "The label for category Using Famedly in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Your Profile": {
+    "message": "Your Profile",
+    "description": "The label for category Your Profile in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Administration": {
+    "message": "Administration",
+    "description": "The label for category Administration in sidebar tutorialSidebar"
+  }
+}
