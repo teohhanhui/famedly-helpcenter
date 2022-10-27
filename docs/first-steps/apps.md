@@ -1,0 +1,53 @@
+---
+sidebar_label: Famedly Apps
+title: Famedly Apps
+displayed_sidebar: tutorialSidebar
+sidebar_position: 2
+---
+
+## Famedly for web
+
+Famedly is a cloud-based app, and you can access it from multiple web browsers - Chrome, Firefox, Safari. As long as you're connected to the web, all of your messages syncs automatically 💻
+
+### Accessing the web app
+
+To use Famedly in your browser, go to https://messenger.famedly.com and click Log In at the top right corner. If you are an on-premise customer, there is a high chance, that you need to use another link. Please ask your organization.
+
+1. Enter the domain of your instance
+2. Enter your username & password
+
+### Supported browsers
+
+- We fully support Famedly on Safari, Google Chrome and Microsoft Edge.
+- For Firefox users, we recommend using the standard edition of Firefox for the best experience — Developer Edition and Nightly are not fully supported. 
+- Unfortunately, Internet Explorer is not supported at this time.
+
+## Famedly for desktop
+
+You can use Famedly on your Mac or PC as a downloadable desktop application. Here's what you need to know 🖥️
+
+### Why use the desktop app?
+
+Famedly's desktop app is a clean, distraction-free interface without all the temptation of tabs. You'll receive notifications when something important happens inside Famedly – i.e. someone sends you a message and you see in the app symbol if there are unread chat rooms.
+
+### Install the app
+
+Famedly ships the desktop as a progressive web app. To install the app, please visit https://messenger.famedly.com and watch the video how to install:
+
+![Install Famedly on desktop](/img/install-famedly.gif)
+
+### Update the app
+
+Famedly updates automatically! We push updates on a regular basis with bug fixes and performance improvements.
+- Very rarely, you may need to re-install Famedly to see an update. We'll let you know when that's the case and tell you exactly what to do.
+
+## Famedly for mobile
+
+You can download Famedly on your iOS or Android device for best messaging experience. 🤳
+
+### Download the app
+
+To download the app, please go to the App Store or Play Store and search for Famedly.
+
+1. Enter your instance URL or scan the QR-Code
+2. Sign in with your username & password
