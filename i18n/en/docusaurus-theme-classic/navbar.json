@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Famedly Help Center",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Common Mistakes": {
+    "message": "Common Mistakes",
+    "description": "Navbar item with label Common Mistakes"
+  }
+}
