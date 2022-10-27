@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Help Center',
+  title: 'Famedly Help Center',
   tagline: 'We are here to make youe work easier',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/company/helpcenter/',
@@ -43,7 +43,7 @@ const config = {
         },
       },
       navbar: {
-        hideOnScroll: true,
+        hideOnScroll: false,
         title: 'Famedly Help Center',
         logo: {
           alt: 'Famedly Logo',
@@ -56,21 +56,10 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          
-        
-          {
-            type: 'doc',
-            docId: 'mistakes',
-            position: 'left',
-            label: 'Common Mistakes',
-          },
-          
           {
             type: 'localeDropdown',
             position: 'right',
           }
-
-        
         ],
       },
       footer: {

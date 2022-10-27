@@ -1,19 +1,4 @@
 {
-  "Welcome to Famedly Help Center": {
-    "message": "Willkommen zum Famedly Help Center"
-  },
-  "homepage.visitMyBlog": {
-    "message": "You can also visit my {blogLink}",
-    "description": "The homepage message to ask the user to visit my blog"
-  },
-  "homepage.visitMyBlog.linkLabel": {
-    "message": "blog",
-    "description": "The label for the link to my blog"
-  },
-  "Home icon": {
-    "message": "Home icon",
-    "description": "The homepage icon alt message"
-  },
   "theme.ErrorPageContent.title": {
     "message": "Die Seite ist abgestürzt.",
     "description": "The title of the fallback page when the page crashed"
