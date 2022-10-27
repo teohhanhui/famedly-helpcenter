@@ -11,7 +11,7 @@ Famedly is a cloud-based app, and you can access it from multiple web browsers -
 
 ### Accessing the web app
 
-To use Famedly in your browser, go to https://messenger.famedly.com and click Log In at the top right corner. If you are an on-premise customer, there is a high chance, that you need to use another link. Please ask your organization.
+To use Famedly in your browser, go to https://messenger.famedly.de and click Log In at the top right corner. If you are an on-premise customer, there is a high chance, that you need to use another link. Please ask your organization.
 
 1. Enter the domain of your instance
 2. Enter your username & password
@@ -32,7 +32,7 @@ Famedly's desktop app is a clean, distraction-free interface without all the tem
 
 ### Install the app
 
-Famedly ships the desktop as a progressive web app. To install the app, please visit https://messenger.famedly.com and watch the video how to install:
+Famedly ships the desktop as a progressive web app. To install the app, please visit https://messenger.famedly.de and watch the video how to install:
 
 ![Install Famedly on desktop](/img/install-famedly.gif)
 
