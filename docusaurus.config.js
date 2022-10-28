@@ -20,10 +20,11 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://gitlab.com/famedly/company/helpcenter/-/tree/main',
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
-            // Filters index files out of the
+            // Filters index files out of the sidebar
             let items = await defaultSidebarItemsGenerator(args);
             items = items.filter((e) => !(e.type === 'doc' && e.id.endsWith('index')));
             return items;
