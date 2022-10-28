@@ -18,10 +18,10 @@ cache:
 pages:
   stage: deploy
   script:
-    - yarn install
-    - yarn write-translations
-    - yarn write-translations -- --locale de
-    - yarn build:gitlab
+    - npm install
+    - npm run write-translations
+    - npm run write-translations -- --locale de
+    - npm run build:gitlab
   artifacts:
       paths:
         - public
