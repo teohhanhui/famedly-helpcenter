@@ -67,9 +67,19 @@ const config = {
             label: 'API',
           },
           {
+            to: 'https://famedly.com/',
+            label: 'Website',
+            position: 'right',
+          },
+          {
+            to: 'https://gitlab.com/famedly',
+            label: 'Gitlab',
+            position: 'right',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
-          }
+          },
         ],
       },
       footer: {
