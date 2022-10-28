@@ -28,6 +28,9 @@ pages:
         - public
   only:
     - main
+  rules:
+    - !reference [workflow, rules]
+
 
 .dependabot-gitlab:
   stage: dependabot
