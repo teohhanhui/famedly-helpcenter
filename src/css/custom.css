@@ -21,6 +21,7 @@
   --ifm-font-color-base: #171E27;
   --ifm-font-color-base-inverse: #FFFFFF;
   --ifm-background-color: #F2F4F9;
+  --ifm-footer-background-color: #FFFFFF;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -36,6 +37,7 @@
   --ifm-font-color-base: #F8F9FB;
   --ifm-font-color-base-inverse: #000000;
   --ifm-background-color: #0B0E13;
+  --ifm-footer-background-color: #18202B;
 }
 
 /* ibm-plex-mono-100 - latin */

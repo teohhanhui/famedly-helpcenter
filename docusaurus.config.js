@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Famedly Help Center',
   tagline: 'We are here to make youe work easier',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.famedly.com',
   baseUrl: '/company/helpcenter/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -21,10 +21,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-           'https://gitlab.com/famedly/company/helpcenter/-/tree/main',
+          editUrl: 'https://gitlab.com/famedly/company/helpcenter/-/tree/main',
+          async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
+            // Filters index files out of the
+            let items = await defaultSidebarItemsGenerator(args);
+            items = items.filter((e) => !(e.type === 'doc' && e.id.endsWith('index')));
+            return items;
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -52,9 +55,15 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'home',
+            docId: 'help-center/first-steps/index',
             position: 'left',
             label: 'Help Center',
+          },
+          {
+            type: 'doc',
+            docId: 'api/index',
+            position: 'left',
+            label: 'API',
           },
           {
             type: 'localeDropdown',
@@ -63,7 +72,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         links: [
           {
             title: 'Community',
@@ -92,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Famedly Helpcenter, Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Famedly GmbH`,
       },
       prism: {
         theme: lightCodeTheme,
