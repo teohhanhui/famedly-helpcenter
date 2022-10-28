@@ -3,20 +3,20 @@
     "message": "Weiter",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.First Steps": {
-    "message": "Erste Schritte",
-    "description": "The label for category First Steps in sidebar tutorialSidebar"
+  "sidebar.helpcenterSidebar.category.Welcome to Famedly": {
+    "message": "Willkommen bei Famedly",
+    "description": "The label for category Welcome to Famedly in sidebar helpcenterSidebar"
   },
-  "sidebar.tutorialSidebar.category.Using Famedly": {
+  "sidebar.helpcenterSidebar.category.Using Famedly": {
     "message": "Famedly nutzen",
-    "description": "The label for category Using Famedly in sidebar tutorialSidebar"
+    "description": "The label for category Using Famedly in sidebar helpcenterSidebar"
   },
-  "sidebar.tutorialSidebar.category.Your Profile": {
+  "sidebar.helpcenterSidebar.category.Your profile": {
     "message": "Ihr Profil",
-    "description": "The label for category Your Profile in sidebar tutorialSidebar"
+    "description": "The label for category Your profile in sidebar helpcenterSidebar"
   },
-  "sidebar.tutorialSidebar.category.Administration": {
+  "sidebar.helpcenterSidebar.category.Administration": {
     "message": "Verwaltung",
-    "description": "The label for category Administration in sidebar tutorialSidebar"
+    "description": "The label for category Administration in sidebar helpcenterSidebar"
   }
 }

@@ -253,8 +253,5 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
-  },
-  "Welcome to my website": {
-    "message": "Welcome to my website"
   }
 }
