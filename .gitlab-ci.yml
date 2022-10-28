@@ -26,11 +26,6 @@ pages:
   artifacts:
       paths:
         - public
-  only:
-    - main
-  rules:
-    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
-
 
 .dependabot-gitlab:
   stage: dependabot
