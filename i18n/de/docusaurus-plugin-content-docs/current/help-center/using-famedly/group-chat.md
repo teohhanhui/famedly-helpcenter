@@ -354,7 +354,7 @@ It is possible to mute notifications for groups. This can be helpful if many mem
   </TabItem>
 </Tabs>
 
-:::hint
+:::tip
 
 You can unmute the group again, by following the same steps and clicking 🔕.
 
@@ -400,7 +400,7 @@ Groups can be set so that only administrators can send messages. This can be par
   </TabItem>
 </Tabs>
 
-:::hint
+:::danger
 
 You cannot devote other admins of a group.
 
