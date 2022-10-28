@@ -5,8 +5,9 @@ include:
 image: node:latest
 
 stages:
-  - deploy
   - dependabot
+  - deploy
+
 
 # allow caching for faster deployment
 cache:
