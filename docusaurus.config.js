@@ -38,13 +38,13 @@ const config = {
     ({
       docs: {
         sidebar: {
-          hideable: true,
-          autoCollapseCategories: true,
+          hideable: false,
+          autoCollapseCategories: false,
         },
       },
       navbar: {
         hideOnScroll: false,
-        title: 'Famedly Help Center',
+        title: 'Famedly',
         logo: {
           alt: 'Famedly Logo',
           src: 'img/logo.svg',
@@ -52,9 +52,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'first-steps/welcome',
+            docId: 'home',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Help Center',
           },
           {
             type: 'localeDropdown',
