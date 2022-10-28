@@ -1,7 +1,7 @@
 ---
 sidebar_label: Message features
 title: Message features
-displayed_sidebar: tutorialSidebar
+displayed_sidebar: helpcenterSidebar
 sidebar_position: 3
 ---
 

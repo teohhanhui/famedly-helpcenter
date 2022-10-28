@@ -1,7 +1,7 @@
 ---
 sidebar_label: Manage groups
 title: Manage groups
-displayed_sidebar: tutorialSidebar
+displayed_sidebar: helpcenterSidebar
 sidebar_position: 2
 ---
 

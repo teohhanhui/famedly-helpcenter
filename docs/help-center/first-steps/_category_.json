@@ -1,0 +1,11 @@
+{
+  "label": "First Steps",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "First Steps",
+    "slug": "helpcenter/first-steps",
+    "description": "YOur fist steps inside Famedly",
+    "keywords": ["helpcenter"]
+  }
+}
