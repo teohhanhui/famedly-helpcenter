@@ -122,18 +122,18 @@ The room subject appears in the group header, and admins of the group can modify
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details</li>
-    <li>Click on **Set Chat Name**.</li>
+    <li>Click on <b>Set Chat Name</b>.</li>
     <li>Enter a name.</li>
-    <li>Click **Done** to finish the process.</li>
+    <li>Click <b>Done</b> to finish the process.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the header of a group to open the group details.</li>
     <li>Tap ⠇ in the top right corner of the screen.</li>
-    <li>Tap **Change subject**.</li>
+    <li>Tap <b>Change subject</b>.</li>
     <li>Enter a subject</li>
-    <li>Tap **Done** to finish the process.</li>
+    <li>Tap <b>Done</b> to finish the process.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -146,18 +146,18 @@ From both your desktop and mobile devices, you can see group descriptions when v
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click **Set chat description**.</li>
+    <li>Click <b>Set chat description</b>.</li>
     <li>Enter a description.</li>
-    <li>Click **Done** to finish the process.</li>
+    <li>Click <b>Done</b> to finish the process.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap on the header of a group to open the group details.</li>
     <li>Tap ⠇ in the top right corner of the screen.</li>
-    <li>Tap on **Change description**.</li>
+    <li>Tap on <b>Change description</b>.</li>
     <li>Enter a description.</li>
-    <li>Tap **Done** to finish the process.</li>
+    <li>Tap <b>Done</b> to finish the process.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -174,17 +174,17 @@ The group picture appears in the chat list and helps people to identify groups.
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **＋** next to the Group initials.</li>
+    <li>Click on <b>＋</b> next to the Group initials.</li>
     <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
+    <li>Click <b>Open</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the header of a group to open the group details.</li>
-    <li>Tap on **＋** next to the Group initials.</li>
+    <li>Tap on <b>＋</b> next to the Group initials.</li>
     <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
+    <li>Click <b>Open</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -197,7 +197,7 @@ The group picture appears in the chat list and helps people to identify groups.
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
     <li>Click on ✎ next to the group picture.</li>
     <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
+    <li>Click <b>Open</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
@@ -205,7 +205,7 @@ The group picture appears in the chat list and helps people to identify groups.
     <li>Tap the header of a group to open the group details.</li>
     <li>Tap on ✎ next to the group picture.</li>
     <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
+    <li>Click <b>Open</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -220,14 +220,14 @@ Groups are the best way to keep conversations about various projects, topics or
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **Members**.</li>
-    <li>Click **＋** in the upper right corner.</li>
+    <li>Click on <b>Members</b>.</li>
+    <li>Click <b>＋</b> in the upper right corner.</li>
     <li>Click on the person you want to add.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap **⠇** in the top right corner of a group's header.</li>
+    <li>Tap <b>⠇</b> in the top right corner of a group's header.</li>
     <li>Select the person you want to add.</li>
   </ol>
   </TabItem>
@@ -245,16 +245,16 @@ If you remove a person from a group, that person can no longer participate in th
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **Members**.</li>
-    <li>Click on **Remove User**.</li>
+    <li>Click on <b>Members</b>.</li>
+    <li>Click on <b>Remove User</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap on the header of a group to open the group details.</li>
-    <li>Tap on **Participants**.</li>
-    <li>**Tap and hold** on the person you want to remove.</li>
-    <li>Tap **Remove Person Name**.</li>
+    <li>Tap on <b>Participants</b>.</li>
+    <li><b>Tap and hold</b> on the person you want to remove.</li>
+    <li>Tap <b>Remove Person Name</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -275,15 +275,15 @@ Famedly organises conversations between multiple people in groups. Groups provid
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on Leave **Group**.</li>
-    <li>Click **Exit**.</li>
+    <li>Click on Leave <b>Group</b>.</li>
+    <li>Click <b>Exit</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the header of a group to open the group details.</li>
-    <li>Tap **Exit Chat** at the bottom of the page.</li>
-    <li>Select **Yes**</li>
+    <li>Tap <b>Exit Chat</b> at the bottom of the page.</li>
+    <li>Select <b>Yes</b></li>
   </ol>
   </TabItem>
 </Tabs>
@@ -315,20 +315,20 @@ Note: Loading the archive may take some time.
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your **profile picture or name initials** to the right of the filter field to open the settings.</li>
-    <li>Click on **Archive**.</li>
+    <li>Click on your <b>profile picture or name initials</b> to the right of the filter field to open the settings.</li>
+    <li>Click on <b>Archive</b>.</li>
     <li>Click ☑ in the top right corner of the screen.</li>
     <li>Select one or more groups you want to delete.</li>
     <li>Click 🗑.</li>
-    <li>Click **Yes.**</li>
+    <li>Click <b>Yes.</b></li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap **Profile Picture or Name Initials** at the top right of the screen to open the settings.</li>
-    <li>Tap **Archive**.</li>
-    <li>Tap **Empty archive**.</li>
-    <li>Tap **Delete** to remove all Private Messages & groups.</li>
+    <li>Tap <b>Profile Picture or Name Initials</b> at the top right of the screen to open the settings.</li>
+    <li>Tap <b>Archive</b>.</li>
+    <li>Tap <b>Empty archive</b>.</li>
+    <li>Tap <b>Delete</b> to remove all Private Messages & groups.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -373,7 +373,7 @@ Groups can be set so that only administrators can send messages. This can be par
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the header of a group to open the group details.</li>
-    <li>Tap **Restrict messaging to group admins** to activate it.</li>
+    <li>Tap <b>Restrict messaging to group admins</b> to activate it.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -386,16 +386,16 @@ Groups can be set so that only administrators can send messages. This can be par
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **Members**.</li>
-    <li>Click on **Promote to Administrator**.</li>
+    <li>Click on <b>Members</b>.</li>
+    <li>Click on <b>Promote to Administrator</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap on the header of a group to open the group details.</li>
-    <li>Tap on **Participants**.</li>
-    <li>**Tap and hold** on the person you want to remove.</li>
-    <li>Tap **Promote to Admin**.</li>
+    <li>Tap on <b>Participants</b>.</li>
+    <li><b>Tap and hold</b> on the person you want to remove.</li>
+    <li>Tap <b>Promote to Admin</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
