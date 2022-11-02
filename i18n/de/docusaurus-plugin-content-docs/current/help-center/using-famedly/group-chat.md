@@ -1,6 +1,6 @@
 ---
-sidebar_label: Group Chat
-title: Group Chat
+sidebar_label: Gruppenchat
+title: Gruppenchat
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
 ---
@@ -12,51 +12,51 @@ import TabItem from '@theme/TabItem';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Group Chat</h2>
-    <p class="hero__subtitle">What is a Group Chat?</p>
-    <p>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work. As Famedly relies on the Matrix Communication protocol it is posible to add people to Group Chats which uses Matrix Clients from other vendors.</p>
+    <h2 class="hero__title">Gruppenchat</h2>
+    <p class="hero__subtitle">Was ist ein Gruppenchat?</p>
+    <p>Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben. Da Famedly sich auf das Matrix-Kommunikationsprotokoll stützt, kann man Personen zu Gruppenchats hinzufügen, die Matrix-Clients von anderen Anbietern verwenden.</p>
   </div>
 </div>
 
-## Create a group chat
+## Gruppenchat erstellen
 
-Group chats are the best way to keep conversations about various projects, topics or teams organised in Famedly. There’s no limit to how many group chats you can have in Famedly – go ahead, create as many as you like! To create a group chat, follow the steps below or see how it works.
+Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Themen oder Teams in Famedly zu organisieren. Es gibt keine Begrenzung, wie viele Gruppenchats Sie in Famedly haben können - erstellen Sie so viele, wie Sie möchten! Um einen Gruppenchat zu erstellen, folgen Sie den unten stehenden Schritten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on the Start Chat button in the top left corner.</li>
-    <li>Click on <b>Start Chat</b>.</li>
-    <li>Click on <b>New Group</b>.</li>
-    <li>Enter a group chat name.</li>
-    <li>Add members to the group chat.</li>
-    <li>Click <b>Create Group</b> to complete the process.</li>
+    <li>Klicken Sie auf die Schaltfläche Chat starten in der oberen linken Ecke.</li>
+    <li>Klicken Sie auf <b>Chat starten</b>.</li>
+    <li>Klicken Sie auf <b>Neue Gruppe</b>.</li>
+    <li>Geben Sie einen Gruppennamen ein.</li>
+    <li>Fügen Sie Mitglieder zum Gruppenchat hinzu.</li>
+    <li>Klicken Sie auf <b>Gruppe erstellen</b>, um den Vorgang abzuschließen.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap <b>Chats</b> at the bottom of the screen.</li>
-    <li>Tap the <b>+New</b> button at the bottom right of your screen.</li>
-    <li>Tap <b>Start Chat</b>.</li>
-    <li>Tap <b>New Group</b>.</li>
-    <li>Enter a group chat subject.</li>
-    <li>Add members to the group chat.</li>
-    <li>Tap ✔️ in the top right corner to create the group.</li>
+    <li>Tippen Sie auf <b>Chats</b> am unteren Bildschirmrand.</li>
+    <li>Tippen Sie auf die <b>+Neu</b> Schaltfläche unten rechts auf Ihrem Bildschirm.</li>
+    <li>Tippen Sie <b>Chat starten</b>.</li>
+    <li>Tippen Sie <b>Neue Gruppe</b>.</li>
+    <li>Geben Sie einen Gruppennamen ein.</li>
+    <li>Fügen Sie Mitglieder zum Gruppenchat hinzu.</li>
+    <li>Tippen Sie auf ✔️ in der oberen rechten Ecke, um die Gruppe zu erstellen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::info
 
-You can also create a group chat without members and use it as a secure notepad.
+Sie können auch einen Gruppenchat ohne Mitglieder erstellen und ihn als sicheres Notizpad verwenden.
 
 :::
 
 ---
 
-## Join group chat
+## Gruppenchat beitreten
 
-To join a group chat, you must be added to it by a member of that group chats.
+Um einem Gruppenchat beizutreten, müssen Sie von einem Mitglied dieses Gruppenchats hinzugefügt werden.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
