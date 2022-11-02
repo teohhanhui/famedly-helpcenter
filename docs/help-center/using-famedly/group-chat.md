@@ -61,31 +61,6 @@ To join a group chat, you must be added to it by a member of that group chats.
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>You can only join private chats if you have received an invitation.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the private chats you have been invited to.</li>
-    <li>Accept the invitation.</li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>You can only join private chats if you have received an invitation.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
-    <li>Tap on the private chats you have been invited to.</li>
-    <li>Accept the invitation.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
-:::danger
-
-If you decline the invitation, you will have to ask the person again to stat a private chat with you, or you can start the private chat.
-
-:::
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
     <li>You can only join a group chat if you have received an invitation.</li>
     <li>All invitations can be found at the top of the chats list.</li>
     <li>Click on the group chat you have been invited to.</li>
