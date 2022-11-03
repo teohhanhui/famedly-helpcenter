@@ -9,7 +9,7 @@ import DocCardList from '@theme/DocCardList';
 <div class="hero hero--primary">
   <div class="container">
     <h2 class="hero__title">Famedly Help Center 👋</h2>
-    <p class="hero__subtitle">We are here to help you! </p>
+    <p class="hero__subtitle">Wir sind hier um Ihnen zu helfen! </p>
   </div>
 </div>
 <br></br>
