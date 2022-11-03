@@ -1,13 +1,13 @@
 ---
-sidebar_label: Manage your profile
+sidebar_label: Ihr Profil verwalten
 sidebar_position: 1
 ---
 
-# Manage your profile
+# Ihr Profil verwalten
 
-## Upload or edit a profile picture
+## Ein Profilbild hochladen oder bearbeiten
 
-Your profile picture helps to identify you in Famedly. And if your photo is clear, it'll be easier for someone to pick you out in a crowd or a meeting!
+Ihr Profilbild hilft Sie in Famedly zu identifizieren. And if your photo is clear, it'll be easier for someone to pick you out in a crowd or a meeting!
 
 ### Add profile picture
 
