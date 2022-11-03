@@ -1,5 +1,5 @@
 ---
-sidebar_label: Register
+sidebar_label: Registrieren
 sidebar_position: 1
 ---
 
@@ -7,19 +7,19 @@ sidebar_position: 1
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Register as healthcare provider</h2>
-    <p class="hero__subtitle">To get started, you need to register as a healthcare provider.</p>
-    <p>Just send us a message using this link. We will contact you ASAP and set everything up!</p>
+    <h2 class="hero__title">Als Gesundheitsdienstleister registrieren</h2>
+    <p class="hero__subtitle">Um loszulegen, müssen Sie sich als Anbieter von Gesundheitsdienstleistungen registrieren.</p>
+    <p>Senden Sie uns einfach eine Nachricht mit diesem Link. Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen und alles einrichten!</p>
   </div>
 </div>
 <br></br>
 
 :::info
 
-We are working on a self-service, that everyone is able to onboard a healthcare organization.
+Wir arbeiten an einem Self-Service, der es jedem ermöglicht, eine Gesundheitsorganisation aufzusetzten.
 
 :::
 
-## My organization already uses Famedly, how can I login?
+## Meine Organisation verwendet bereits Famedly, wie kann ich mich anmelden?
 
-You will get the credentials and the links from your organization. If you have any questions, please contact us using this link.
+Sie erhalten die Anmeldedaten und die Links von Ihrer Organisation. Wenn Sie Fragen haben, kontaktieren Sie uns bitte über diesen Link.

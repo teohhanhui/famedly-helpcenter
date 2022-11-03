@@ -1,6 +1,6 @@
 ---
-sidebar_label: Group Chat
-title: Group Chat
+sidebar_label: Gruppenchat
+title: Gruppenchat
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
 ---
@@ -12,91 +12,66 @@ import TabItem from '@theme/TabItem';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Group Chat</h2>
-    <p class="hero__subtitle">What is a Group Chat?</p>
-    <p>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work. As Famedly relies on the Matrix Communication protocol it is posible to add people to Group Chats which uses Matrix Clients from other vendors.</p>
+    <h2 class="hero__title">Gruppenchat</h2>
+    <p class="hero__subtitle">Was ist ein Gruppenchat?</p>
+    <p>Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben. Da Famedly sich auf das Matrix-Kommunikationsprotokoll stützt, kann man Personen zu Gruppenchats hinzufügen, die Matrix-Clients von anderen Anbietern verwenden.</p>
   </div>
 </div>
 
-## Create a group chat
+## Gruppenchat erstellen
 
-Group chats are the best way to keep conversations about various projects, topics or teams organised in Famedly. There’s no limit to how many group chats you can have in Famedly – go ahead, create as many as you like! To create a group chat, follow the steps below or see how it works.
+Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Themen oder Teams in Famedly zu organisieren. Es gibt keine Begrenzung, wie viele Gruppenchats Sie in Famedly haben können - erstellen Sie so viele, wie Sie möchten! Um einen Gruppenchat zu erstellen, folgen Sie den unten stehenden Schritten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on the Start Chat button in the top left corner.</li>
-    <li>Click on <b>Start Chat</b>.</li>
-    <li>Click on <b>New Group</b>.</li>
-    <li>Enter a group chat name.</li>
-    <li>Add members to the group chat.</li>
-    <li>Click <b>Create Group</b> to complete the process.</li>
+    <li>Klicken Sie auf die Schaltfläche Chat starten in der oberen linken Ecke.</li>
+    <li>Klicken Sie auf <b>Chat starten</b>.</li>
+    <li>Klicken Sie auf <b>Neue Gruppe</b>.</li>
+    <li>Geben Sie einen Gruppennamen ein.</li>
+    <li>Fügen Sie Mitglieder zum Gruppenchat hinzu.</li>
+    <li>Klicken Sie auf <b>Gruppe erstellen</b>, um den Vorgang abzuschließen.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap <b>Chats</b> at the bottom of the screen.</li>
-    <li>Tap the <b>+New</b> button at the bottom right of your screen.</li>
-    <li>Tap <b>Start Chat</b>.</li>
-    <li>Tap <b>New Group</b>.</li>
-    <li>Enter a group chat subject.</li>
-    <li>Add members to the group chat.</li>
-    <li>Tap ✔️ in the top right corner to create the group.</li>
+    <li>Tippen Sie auf <b>Chats</b> am unteren Bildschirmrand.</li>
+    <li>Tippen Sie auf die <b>+Neu</b> Schaltfläche unten rechts auf Ihrem Bildschirm.</li>
+    <li>Tippen Sie <b>Chat starten</b>.</li>
+    <li>Tippen Sie <b>Neue Gruppe</b>.</li>
+    <li>Geben Sie einen Gruppennamen ein.</li>
+    <li>Fügen Sie Mitglieder zum Gruppenchat hinzu.</li>
+    <li>Tippen Sie auf ✔️ in der oberen rechten Ecke, um die Gruppe zu erstellen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::info
 
-You can also create a group chat without members and use it as a secure notepad.
+Sie können auch einen Gruppenchat ohne Mitglieder erstellen und ihn als sicheres Notizpad verwenden.
 
 :::
 
 ---
 
-## Join group chat
+## Gruppenchat beitreten
 
-To join a group chat, you must be added to it by a member of that group chats.
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
-    <li>You can only join private chats if you have received an invitation.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the private chats you have been invited to.</li>
-    <li>Accept the invitation.</li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>You can only join private chats if you have received an invitation.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
-    <li>Tap on the private chats you have been invited to.</li>
-    <li>Accept the invitation.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
-:::danger
-
-If you decline the invitation, you will have to ask the person again to stat a private chat with you, or you can start the private chat.
-
-:::
+Um einem Gruppenchat beizutreten, müssen Sie von einem Mitglied dieses Gruppenchats hinzugefügt werden.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>You can only join a group chat if you have received an invitation.</li>
+    <li>Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.</li>
     <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the group chat you have been invited to.</li>
+    <li>Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.</li>
     <li>Accept the invitation.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
     <ol>
-    <li>You can only join a group chat if you have received an invitation.</li>
+    <li>Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.</li>
     <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the group chat you have been invited to.</li>
+    <li>Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.</li>
     <li>Accept the invitation.</li>
   </ol>
   </TabItem>
@@ -104,316 +79,316 @@ If you decline the invitation, you will have to ask the person again to stat a p
 
 :::danger
 
-If you decline the invitation, you will have to ask the inviting person again to invite you again.
+Sollten Sie die Einladung ablehnen, müssen Sie die einladenden Person bitten, Sie erneut einzuladen.
 
 :::
 
 ---
 
-## Set a group subject or description
+## Gruppenbetreff oder Beschreibung festlegen
 
-With a group subject, people can find out what the purpose of the group is. With the group description, members can get more information and important general information can be shared. Only administrators of a group can edit the subject or description.
+Mit einem Gruppenthema können die Teilnehmer herausfinden, was der Zweck der Gruppe ist. Mit der Gruppenbeschreibung können Mitglieder mehr Informationen erhalten und wichtige allgemeine Informationen weitergegeben werden. Nur Administratoren einer Gruppe können den Betreff oder die Beschreibung bearbeiten.
 
-### Edit a group subject
+### Gruppenbetreff bearbeiten
 
-The room subject appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. ✨ However we suggest to keep the subject short. Can be up to 250 characters in length and can include emoji.
+Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Administratoren der Gruppe geändert werden. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨ Wir empfehlen jedoch, den Gruppenbetreff kurz zu halten. Kann bis zu 250 Zeichen lang sein und kann Emoji enthalten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details</li>
-    <li>Click on **Set Chat Name**.</li>
-    <li>Enter a name.</li>
-    <li>Click **Done** to finish the process.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen</li>
+    <li>Klicken Sie auf <b>Chat-Name festlegen</b>.</li>
+    <li>Geben Sie einen Namen ein.</li>
+    <li>Klicken Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap ⠇ in the top right corner of the screen.</li>
-    <li>Tap **Change subject**.</li>
-    <li>Enter a subject</li>
-    <li>Tap **Done** to finish the process.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf ⠇ oben rechts auf dem Bildschirm.</li>
+    <li>Tippen Sie <b>Betreff ändern</b>.</li>
+    <li>Geben Sie einen Betreff ein</li>
+    <li>Tippen Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
-### Add or edit a group description
+### Gruppenbeschreibung hinzufügen oder bearbeiten
 
-From both your desktop and mobile devices, you can see group descriptions when viewing group details. There is no limitation in the subject length and it can include emoji. ✨
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click **Set chat description**.</li>
-    <li>Enter a description.</li>
-    <li>Click **Done** to finish the process.</li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>Tap on the header of a group to open the group details.</li>
-    <li>Tap ⠇ in the top right corner of the screen.</li>
-    <li>Tap on **Change description**.</li>
-    <li>Enter a description.</li>
-    <li>Tap **Done** to finish the process.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
----
-
-## Set or change group picture
-
-The group picture appears in the chat list and helps people to identify groups.
-
-### Set group picture
+Sowohl auf Ihrem Desktop als auch auf mobilen Geräten können Sie Gruppenbeschreibungen sehen, wenn Sie Gruppendetails ansehen. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **＋** next to the Group initials.</li>
-    <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf <b>Chatbeschreibung festlegen</b>.</li>
+    <li>Geben Sie eine Beschreibung ein.</li>
+    <li>Klicken Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap on **＋** next to the Group initials.</li>
-    <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
-### Change group picture
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on ✎ next to the group picture.</li>
-    <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap on ✎ next to the group picture.</li>
-    <li>Select picture from your file system.</li>
-    <li>Click **Open**.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf ⠇ oben rechts auf dem Bildschirm.</li>
+    <li>Tippen Sie auf <b>Beschreibung ändern</b>.</li>
+    <li>Geben Sie eine Beschreibung ein.</li>
+    <li>Tippen Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Add people to a group
+## Gruppenbild festlegen oder ändern
 
-Groups are the best way to keep conversations about various projects, topics or teams organised in Famedly. Add people to groups to bring the right people and information together in one place. You can add an unlimited number of people to a group. The larger the groups become, the more confusing the collaboration can become. We therefore recommend consciously considering which people are added.
+Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen zu unterscheiden.
+
+### Gruppenbild festlegen
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **Members**.</li>
-    <li>Click **＋** in the upper right corner.</li>
-    <li>Click on the person you want to add.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf <b>+</b> neben den Initialen der Gruppe.</li>
+    <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
+    <li>Klicken Sie auf <b>Öffnen</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap **⠇** in the top right corner of a group's header.</li>
-    <li>Select the person you want to add.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippe auf <b>+</b> neben den Initialen der Gruppe.</li>
+    <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
+    <li>Klicken Sie auf <b>Öffnen</b>.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+### Gruppenbild ändern
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf ✎ neben dem Gruppenbild.</li>
+    <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
+    <li>Klicken Sie auf <b>Öffnen</b>.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippe auf ✎ neben dem Gruppenbild.</li>
+    <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
+    <li>Klicken Sie auf <b>Öffnen</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Remove people from a group
+## Personen zu einer Gruppe hinzufügen
 
-Famedly organises conversations between several people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to encourage collaboration. If a person no longer needs to be part of a group, the person can be removed. Administrators of a group can remove people from the group.
-
-If you remove a person from a group, that person can no longer participate in the communication, but still has access to old messages within the group.
+Gruppen sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Themen oder Teams in Famedly zu organisieren. Fügen Sie Personen zu Gruppen hinzu, um die richtigen Personen und Informationen an einem Ort zusammenzubringen. Sie können eine unbegrenzte Anzahl von Personen zu einer Gruppe hinzufügen. Je größer die Gruppen werden, desto unübersichtlicher kann die Zusammenarbeit werden. Wir empfehlen daher bewusst zu überlegen, welche Personen hinzugefügt werden.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **Members**.</li>
-    <li>Click on **Remove User**.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf <b>Mitglieder</b>.</li>
+    <li>Klicken Sie auf <b>+</b> in der oberen rechten Ecke.</li>
+    <li>Klicken Sie auf die Person, die Sie hinzufügen möchten.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap on the header of a group to open the group details.</li>
-    <li>Tap on **Participants**.</li>
-    <li>**Tap and hold** on the person you want to remove.</li>
-    <li>Tap **Remove Person Name**.</li>
+    <li>Tippen Sie auf <b>⠇</b> in der rechten oberen Ecke der Kopfzeile einer Gruppe.</li>
+    <li>Wählen Sie die Person aus, die Sie hinzufügen möchten.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+---
+
+## Personen aus einer Gruppe entfernen
+
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Person nicht mehr Teil einer Gruppe sein muss, kann die Person entfernt werden. Administratoren einer Gruppe können Personen aus der Gruppe entfernen.
+
+Wenn Sie eine Person aus einer Gruppe entfernen, kann diese Person nicht mehr an der Kommunikation teilnehmen aber hat noch Zugriff auf alte Nachrichten innerhalb der Gruppe.
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicke auf <b>Speichern</b>.</li>
+    <li>Klicken Sie auf <b>Benutzer entfernen</b>.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippe auf <b>Teilnehmer</b>.</li>
+    <li><b>Tippen und halten</b> Sie auf die Person, die Sie entfernen möchtest.</li>
+    <li>Tippen Sie <b>"Personenname" entfernen</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::danger
 
-You cannot remove the person if they are also an administrator. In this case, you must ask the person to leave the group on their own.
+Sie können die Person nicht entfernen, wenn sie auch ein Administrator ist. In diesem Fall müssen Sie die Person bitten, die Gruppe eigenständig zu verlassen.
 
 :::
 
 ---
 
-## Leave a group
+## Gruppen verlassen
 
-Famedly organises conversations between multiple people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to promote collaboration. If a group is no longer relevant, you can leave it at any time.
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppen oder Gruppen für Teams, um die Zusammenarbeit zu fördern. Wenn eine Gruppe nicht mehr relevant ist, können Sie sie jederzeit verlassen.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on Leave **Group**.</li>
-    <li>Click **Exit**.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf <b>Gruppe verlassen</b>.</li>
+    <li>Klicken Sie auf <b>Beenden</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap **Exit Chat** at the bottom of the page.</li>
-    <li>Select **Yes**</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippen Sie auf <b>Chat verlassen</b> am unteren Ende der Seite.</li>
+    <li>Wählen Sie <b>Ja</b></li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::note
 
-The group has been archived for you. You can find the archive in the settings and thus read older content.
+Die Gruppe wurde für Sie archiviert. Sie können das Archiv in den Einstellungen finden und somit ältere Inhalte nachlesen.
 
 :::
 
 ---
 
-## Delete a group
+## Gruppe löschen
 
-To save disk space on your device, you can delete archived groups. To be able to delete a group on the device, you must first leave it.
+Um Speicherplatz auf Ihrem Gerät zu sparen, können Sie archivierte Gruppen löschen. Um eine Gruppe auf dem Gerät löschen zu können, müssen Sie diese zuerst verlassen.
 
 :::note
 
-It is currently not possible to delete a group for all members as an administrator.
+Es ist momentan nicht möglich, eine Gruppe für alle Mitglieder als Administrator zu löschen.
 
 :::
 
 :::note
 
-Note: Loading the archive may take some time.
+Das Laden des Archivs kann einige Zeit in Anspruch nehmen.
 
 :::
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your **profile picture or name initials** to the right of the filter field to open the settings.</li>
-    <li>Click on **Archive**.</li>
-    <li>Click ☑ in the top right corner of the screen.</li>
-    <li>Select one or more groups you want to delete.</li>
-    <li>Click 🗑.</li>
-    <li>Click **Yes.**</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicken Sie auf <b>Archiv</b>.</li>
+    <li>Klicken Sie auf ☑ oben rechts auf dem Bildschirm.</li>
+    <li>Wählen Sie eine oder mehrere Gruppen aus, die Sie löschen möchten.</li>
+    <li>Klicken Sie auf 🗑.</li>
+    <li>Klicken Sie <b>Ja.</b></li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap **Profile Picture or Name Initials** at the top right of the screen to open the settings.</li>
-    <li>Tap **Archive**.</li>
-    <li>Tap **Empty archive**.</li>
-    <li>Tap **Delete** to remove all Private Messages & groups.</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
+    <li>Tippen Sie <b>Archiv</b>.</li>
+    <li>Tippen Sie <b>Archiv leeren</b>.</li>
+    <li>Tippen Sie <b>Löschen</b> um alle privaten Chats & Gruppen zu entfernen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Mute a group
+## Gruppe stummschalten
 
-It is possible to mute notifications for groups. This can be helpful if many members communicate in a group and you do not necessarily want to be informed about new messages.
+Es ist möglich, Benachrichtigungen für Gruppenchats stumm zu schalten. Dies kann hilfreich sein, wenn viele Mitglieder in einer Gruppe kommunizieren und Sie nicht unbedingt über neue Nachrichten informiert werden möchten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on 🔔 to mute the group.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap 🔔 to mute the group.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::tip
 
-You can unmute the group again, by following the same steps and clicking 🔕.
+Sie können die Stummschaltung des Gruppenchats wieder aufheben, indem Sie die gleichen Schritte ausführen und auf 🔕 klicken.
 
 :::
 
 ---
 
-## Restrict messaging to group admins
+## Nachrichtenversand auf Gruppen-Admins beschränken
 
-Groups can be set so that only administrators can send messages. This can be particularly useful for groups with many people in which announcements are to be shared. In this case, only admins of a group can send announcements.
+Gruppen können so eingestellt werden, dass nur Administratoren Nachrichten senden können. Dies kann besonders für Gruppen mit vielen Personen nützlich sein, in denen Ankündigungen geteilt werden sollen. In diesem Fall können nur Administratoren einer Gruppe Ankündigungen verschicken.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
-    This feature is not available on desktop.
+    Diese Funktion ist auf dem Computer nicht verfügbar.
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap **Restrict messaging to group admins** to activate it.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippen Sie <b>Beschränke Nachrichten auf Gruppenadmins</b> um die Funkrtion zu aktivieren.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Promote members to group admin
+## Mitglieder zum Gruppen-Admin ernennen
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on **Members**.</li>
-    <li>Click on **Promote to Administrator**.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf <b>Mitglieder</b>.</li>
+    <li>Klicken Sie auf <b>Zum Administrator ernennen</b>.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap on the header of a group to open the group details.</li>
-    <li>Tap on **Participants**.</li>
-    <li>**Tap and hold** on the person you want to remove.</li>
-    <li>Tap **Promote to Admin**.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Tippen Sie auf <b>Teilnehmer</b>.</li>
+    <li><b>Tippen und halten</b> Sie auf die Person, die Sie befördern wollen.</li>
+    <li>Tippen Sie auf <b>Zum Admin befördern</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::danger
 
-You cannot devote other admins of a group.
+Sie können andere Administratoren einer Gruppe nicht herabstufen.
 
 :::
 
 ---
 
-## Group chat tips and best practices
+## Tipps und Best Practices
 
-- Make sure that the group chats you create or maintain have a clear topic and description so that people understand what they’re used for.
-- Make your group chats unique by setting up a profile picture for your group chat
-- Archive group chats when they’re no longer needed.
+- Vergewissern Sie sich, dass die Gruppenchats, die Sie erstellen oder pflegen, ein klares Thema und eine klare Beschreibung haben, damit die Leute verstehen, wofür sie verwendet werden.
+- Individualisieren Sie Ihre Gruppenchats, indem Sie ein Profilbild für Ihren Gruppenchat erstellen
+- Archivieren Sie Gruppenchats, wenn sie nicht mehr benötigt werden.
 
-Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.
+Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben.
 
 ---

@@ -1,49 +1,49 @@
 ---
-sidebar_label: First login
+sidebar_label: Erste Anmeldung
 sidebar_position: 3
 ---
 
 #
 
-## General
+## Allgemein
 
-User accounts are always created by the employer. The employer will provide you with a welcome sheet that will give you quick and easy access to Famedly.
+Benutzerkonten werden immer vom Arbeitgeber erstellt. Der Arbeitgeber wird Ihnen ein Willkommensblatt zur Verfügung stellen, das Ihnen einen schnellen und einfachen Zugang zu Famedly ermöglicht.
 
-## 1. Launch app
+## 1. App starten
 
-1. Launch the Famedly app by tapping the app icon.
-2. Choose a method by which you want to log in.
+1. Starten Sie die Famedly App, indem Sie auf das App-Symbol tippen.
+2. Wählen Sie eine Methode, mit der Sie sich anmelden möchten.
 
-## 2a. Scan QR-Code
+## 2a. QR-Code scannen
 
 :::note
 
-You can only proceed with the QR-Code login, if the organization provided you a welcome sheet. If you do not have a welcome sheet, continue with step below.
+Sie können mit dem QR-Code nur fortfahren, wenn die Organisation Ihnen ein Willkommensblatt zur Verfügung gestellt hat. Wenn Sie kein Begrüßungsblatt haben, fahren Sie mit den weiter unten stehenden Schritten fort.
 
 :::
 
-1. In the app, click on the top square button with the magnifying glass.
-2. Allow access to the camera.
-3. Point the camera at the QR code on your welcome sheet.
-4. Set a new password.
+1. Klicken Sie in der App auf den oberen eckigen Button mit der Lupe.
+2. Erlauben Sie den Zugriff auf die Kamera.
+3. Zeigen Sie die Kamera auf den QR-Code auf Ihrem Willkommensblatt.
+4. Legen Sie ein neues Passwort fest.
 
-## 2b. Manual login
+## 2b. Manuelle Anmeldung
 
-1. Click on the "Login URL" input field.
-2. Enter the login address and click **Next**.
+1. Klicken Sie auf das Eingabefeld "Login-URL".
+2. Geben Sie die Login-Adresse ein und klicken Sie **Weiter**.
 
 :::caution
 
-The login information is on the welcome sheet or was given to you by your administrator. Spaces are to be separated by underscores, e.g. `max_musterfrau`.
+Die Login-Informationen befinden sich auf dem Willkommensblatt oder wurden Ihnen von Ihrem Administrator mitgeteilt. Leerzeichen sind durch Unterstriche zu trennen, z.B. `max_musterfrau`.
 
 :::
 
-3. Enter your password and press Log in.
-4. Set a new password.
+3. Geben Sie Ihr Passwort ein und drücken Sie Anmelden.
+4. Legen Sie ein neues Passwort fest.
 
-## 3. Finish login
+## 3. Anmeldung abschließen
 
-1. Set profile picture by clicking on the + to the right of the large gray circle.
-2. Select from which source you want to import the image.
-3. (Optional) Give permission to "Share bug reports and usage data with Famedly".
-4. (Optional) Give permission to be visible for people outside your healtcare organization.
+1. Legen Sie das Profilbild fest indem Sie auf das + rechts neben dem großen grauen Kreis klicken.
+2. Wählen Sie aus, aus welcher Quelle Sie das Bild importieren möchten.
+3. (Optional) Erteilen Sie die Berechtigung "Fehlerberichte und Nutzungsdaten mit Famedlyteilen".
+4. (Optional) Erteilen Sie die Erlaubnis, für Personen außerhalb Ihrer Gesundheitsorganisation sichtbar zu sein.
