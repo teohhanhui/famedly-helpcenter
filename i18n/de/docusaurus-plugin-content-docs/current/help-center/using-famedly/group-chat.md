@@ -62,17 +62,17 @@ Um einem Gruppenchat beizutreten, müssen Sie von einem Mitglied dieses Gruppenc
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
+    <li>Alle Einladungen befinden sich am oberen Ende der Chats Liste.</li>
     <li>Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.</li>
-    <li>Accept the invitation.</li>
+    <li>Akzeptieren Sie die Einladung.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
     <ol>
     <li>Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
+    <li>Alle Einladungen befinden sich am oberen Ende der Chats Liste.</li>
     <li>Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.</li>
-    <li>Accept the invitation.</li>
+    <li>Akzeptieren Sie die Einladung.</li>
   </ol>
   </TabItem>
 </Tabs>

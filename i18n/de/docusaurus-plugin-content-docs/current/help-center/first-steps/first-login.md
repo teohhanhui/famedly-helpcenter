@@ -3,7 +3,7 @@ sidebar_label: Erste Anmeldung
 sidebar_position: 3
 ---
 
-#
+<h1></h1>
 
 ## Allgemein
 

@@ -1,6 +1,6 @@
 ---
-sidebar_label: Messages
-title: Messages
+sidebar_label: Nachrichten
+title: Nachrichten
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 3
 ---
@@ -12,249 +12,249 @@ import TabItem from '@theme/TabItem';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Messages</h2>
-    <p class="hero__subtitle">What is a message?</p>
-    <p>As you already learned, Famedly organises conversations in Group Chats or Private Chats. To start and join conversations, you need to learn how to send and read messages. Messages can be more than just words. As you’re typing your message, you can select the icons below the message field to add attachments, formatting and more:</p>
+    <h2 class="hero__title">Nachrichten</h2>
+    <p class="hero__subtitle">Was ist eine Nachricht?</p>
+    <p>Wie Sie bereits gelernt haben, organisiert Famedly Unterhaltungen in Gruppenchats oder privaten Chats. Um Unterhaltungen zu beginnen und ihnen beizutreten, müssen Sie lernen, wie man Nachrichten sendet und liest. Nachrichten können aus mehr als nur Wörtern bestehen. Während Sie Ihre Nachricht schreiben, können Sie die Symbole unter dem Nachrichtenfeld auswählen, um Anhänge, Formatierungen und mehr hinzuzufügen:</p>
     <ul>
-        <li>Add a file</li>
-        <li>Record an audio clip</li>
-        <li>Add an emoji</li>
-        <li>Mention someone</li>
-        <li>Format messages</li>
+        <li>Eine Datei hinzufügen</li>
+        <li>Eine Sprachnachricht aufnehmen</li>
+        <li>Ein Emoji hinzufügen</li>
+        <li>Jemanden erwähnen</li>
+        <li>Nachrichten formatieren</li>
     </ul>
   </div>
 </div>
 
-## Send messages
+## Nachrichten senden
 
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Open a group chat or private chat that you’d like to send a message to.</li>
-    <li>Click on the message input field.</li>
-    <li>Type your message and add any emoji, mentions or formatting that you want.</li>
-    <li>Press <b>Enter</b> or click → to send it.</li>
+    <li>Öffnen Sie den Gruppenchat oder Privatchat, an den Sie eine Nachricht senden möchten.</li>
+    <li>Klicken Sie auf das Nachrichtenfeld.</li>
+    <li>Geben Sie Ihre Nachricht ein und fügen Sie alle gewünschten Emoji, Erwähnungen oder Formatierungen hinzu.</li>
+    <li>Drücken Sie <b>Enter</b> oder klicken Sie →, um sie zu senden.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Open a group chat or private chat that you’d like to send a message to.</li>
-    <li>Tap on the message input field.</li>
-    <li>Type your message and add any emoji, mentions or formatting that you want.</li>
-    <li>Tap → to send it.</li>
+    <li>Öffnen Sie den Gruppenchat oder Privatchat, an den Sie eine Nachricht senden möchten.</li>
+    <li>Tippen Sie auf das Nachrichtenfeld.</li>
+    <li>Geben Sie Ihre Nachricht ein und fügen Sie alle gewünschten Emoji, Erwähnungen oder Formatierungen hinzu.</li>
+    <li>Tippen Sie → um es zu senden.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::tip
 
-With shift + enter, you can jump in a new line.
+Mit Shift + Eingabe können Sie in eine neue Zeile springen.
 
 :::
 
 ---
 
-## Read new messages
+## Neue Nachrichten lesen
 
-A <b>bold</b> group chat or private chat in your chat list means that there are unread messages in the conversation. Click on or tap the bold conversation name to view the unread messages.
+Wird ein Gruppenchat oder Privatchat Chat-Liste <b>fett</b> angezeigt, bedeutet das, dass es in der Unterhaltung ungelesene Nachrichten gibt. Klicken oder tippen Sie auf den fetten Konversationsnamen, um die ungelesenen Nachrichten anzuzeigen.
 
-Because mistakes happen, it’s possible to edit and delete messages in Famedly.
+Weil sich gelegentlich Fehler einschleichen, ist es in Famedly möglich, Nachrichten zu bearbeiten und zu löschen.
 
 ---
 
-## Edit a message
+## Nachrichten bearbeiten
 
-By default, any member can edit their messages.
+Standardmäßig können alle Mitglieder ihre Nachrichten bearbeiten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Move the cursor over the message you want to edit.</li>
-    <li>Click on the ✎ <b>pencil icon</b>.</li>
-    <li>Edit your message in the text field.</li>
-    <li>Click on the → <b>Send icon</b> to finish.</li>
+    <li>Bewegen Sie den Cursor über die Nachricht, die Sie bearbeiten möchten.</li>
+    <li>Klicken Sie auf das ✎ <b>Bleistift-Symbol</b>.</li>
+    <li>Bearbeiten Sie Ihre Nachricht im Textfeld.</li>
+    <li>Klicken Sie auf das →<b>Senden Symbol</b>.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the message you want to edit.</li>
-    <li>Tap <b>Edit</b> to make changes.</li>
-    <li>Edit your message in the text field.</li>
-    <li>Tap the ✔️ <b>checkmark icon</b> to complete the process.</li>
+    <li>Tippen Sie auf die Nachricht, die Sie bearbeiten möchten.</li>
+    <li>Tippen Sie <b>Bearbeiten</b> um Änderungen vorzunehmen.</li>
+    <li>Bearbeiten Sie Ihre Nachricht im Textfeld.</li>
+    <li>Tippen Sie auf das ✔️ <b>Häkchen Symbol</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Delete a message
+## Nachrichten löschen
 
-By default, any member can delete their messages.
+Standardmäßig können alle Mitglieder ihre Nachrichten löschen.
 
 :::info
 
-Deleting a message is permanent, so please proceed with care.
+Das Löschen einer Nachricht ist permanent, also überlegen Sie es sich vorher gut.
 
 :::
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Hover over the message you want to delete.</li>
-    <li>Click the 🗑 <b>bin icon</b>.</li>
-    <li>Click <b>Yes</b> to confirm.</li>
+    <li>Bewegen Sie den Mauszeiger über die Nachricht, die Sie bearbeiten möchten.</li>
+    <li>Klicken Sie auf das 🗑 <b>Papierkorb-Symbol</b>.</li>
+    <li>Klicken Sie auf <b>Ja</b>, um zu bestätigen.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the message you want to delete.</li>
-    <li>Tap <b>Delete</b> to delete the message.</li>
-    <li>Tap <b>Yes</b> to confirm.</li>
+    <li>Tippen Sie auf die Nachricht, die Sie löschen möchten.</li>
+    <li>Tippen Sie auf <b>Löschen</b>, um die Nachricht zu löschen.</li>
+    <li>Klicken Sie auf <b>Ja</b>, um zu bestätigen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Reply to messages
+## Auf Nachrichten antworten
 
-The reply function allows you to reply to a specific message in group chat or private chat.
+Mit der Antwortfunktion können Sie in Gruppenchat oder Privatchat auf eine bestimmte Nachricht antworten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Hover over the message you want to answer.</li>
-    <li>Click the ↪ <b>reply icon</b>.</li>
-    <li>Enter your reply in the textfield.</li>
-    <li>Press <b>Enter</b> or click the → <b>Send icon</b> to send reply.</li>
+    <li>Bewegen Sie den Mauszeiger über die Nachricht, die Sie beantworten möchten.</li>
+    <li>Klicken Sie auf das ↪ <b>Antwort-Symbol</b>.</li>
+    <li>Geben Sie Ihre Antwort in das Textfeld ein.</li>
+    <li>Drücken Sie <b>Enter</b> oder klicken Sie auf das → <b>Senden-Symbol</b>, um eine Antwort zu senden.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the message you want to answer.</li>
-    <li>Tap <b>Answer</b>.</li>
-    <li>Enter your reply in the textfield.</li>
-    <li>Tap the → <b>Send icon</b> to send reply.</li>
+    <li>Tippen Sie auf die Nachricht, die Sie beantworten möchten.</li>
+    <li>Tippen Sie auf <b>Antwort</b>.</li>
+    <li>Geben Sie Ihre Antwort in das Textfeld ein.</li>
+    <li>Klicken Sie auf das → <b>Senden Symbol</b>, um die Antwort zu senden.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ---
 
-## Add emojis to your messages
+## Emojis zu Ihren Nachrichten hinzufügen
 
-Emojis are a reference to common emoticons. In Famedly, emojis are both entertaining and practical for more efficient work: Use emojis to enhance their messages or add emoji reactions to a message for quick response.
+Emojis sind eine Anspielung auf häufige Emoticons. In Famedly sind Emojis sowohl unterhaltsam als auch praktisch für effizienteres Arbeiten: Verwenden Sie Emojis, um ihre Nachrichten zu verbessern oder fügen Sie Emoji-Reaktionen einer Nachricht zu, um schnell darauf zu reagieren.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click 🙂 the <b>smiley icon</b> in the message box to open the menu.</li>
-    <li>Use the icons at the top of the menu to browse through the categories.</li>
-    <li>Click on an emoji to add it to your message.</li>
+    <li>Klicken Sie auf das 🙂 <b>Smiley-Symbol</b> im Nachrichtenfeld, um das Menü zu öffnen.</li>
+    <li>Benutzen Sie die Symbole im oberen Bereich des Menüs, um die Kategorien zu durchsuchen.</li>
+    <li>Klicken Sie auf ein Emoji, um es zu ihrer Nachricht hinzuzufügen.</li>
   </ol>
     </TabItem>
     <TabItem value="ios" label="iOS">
   <ol>
-    <li>Tap the message box to open their keyboard.</li>
-    <li>Tap the 🙂 <b>Emoji</b> or 🌐 <b>Globe</b> button on the keyboard.</li>
-    <li>Tap on an emoji to add it to your message.</li>
+    <li>Tippen Sie auf das Nachrichtenfeld, um ihre Tastatur zu öffnen.</li>
+    <li>Tippe auf das 🙂 <b>Emoji</b> oder den 🌐 <b>Globus</b> Button auf der Tastatur.</li>
+    <li>Klicken Sie auf ein Emoji, um es zu ihrer Nachricht hinzuzufügen.</li>
   </ol>
     </TabItem>
     <TabItem value="android" label="Android">
   <ol>
-    <li>Tap 🙂 the <b>smiley icon</b> in the message field to open the menu.</li>
-    <li>Tap an emoji to add it to your message.</li>
+    <li>Klicken Sie auf das 🙂 <b>Smiley-Symbol</b> im Nachrichtenfeld, um das Menü zu öffnen.</li>
+    <li>Klicken Sie auf ein Emoji, um es zu ihrer Nachricht hinzuzufügen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::tip
 
-Use the 🔎 to find the right emojis faster.
+Nutzen Sie die 🔎 um die passenden Emojis schneller zu finden.
 
 :::
 
 ---
 
-## Respond to a message with an emoji
+## Reagieren Sie mit einem Emoji auf eine Nachricht
 
-Often another message can be replaced by an emoji reaction. You can hover over reactions in a conversation or tap and hold them to see who added them.
+Oftmals kann eine weitere Nachricht durch eine Emoji-Reaktion ersetzt werden. Sie können mit dem Mauszeiger über Reaktionen in einer Unterhaltung fahren oder sie antippen und halten, um zu sehen, wer sie hinzugefügt hat.
 
-### Add reactions
+### Reaktionen hinzufügen
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Move the cursor over the message you want to add a reaction to.</li>
-    <li>Click 🙂 the <b>smiley icon</b> and select an option.</li>
+    <li>Bewegen Sie den Mauszeiger über die Nachricht, zu der Sie eine Reaktion hinzufügen möchten.</li>
+    <li>Klicken Sie auf das 🙂 <b>Smiley-Symbol</b> und wählen Sie eine Option.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the message to which you want to add a reaction.</li>
-    <li>select a frequently used reaction from the menu, or tap the ＋ **Plus** **symbol** to search for another one.</li>
+    <li>Tippen Sie auf die Nachricht, zu der Sie eine Reaktion hinzufügen möchten.</li>
+    <li>Wählen Sie eine häufig verwendete Reaktion aus dem Menü aus oder tippen Sie auf das <b>+ Plus Symbol</b>, um nach einer anderen zu suchen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
-### Remove reactions
+### Reaktionen entfernen
 
-Simply click or tap on the reaction to remove it from the message again.
+Klicken oder tippen Sie einfach auf die Reaktion, um sie wieder aus der Nachricht zu entfernen.
 
 :::info
 
-You can only remove your own reactions.
+Sie können nur Ihre eigenen Reaktionen löschen.
 
 :::
 
 ---
 
-## Mention someone in a message
+## Jemanden in einer Nachricht erwähnen
 
-Mentions allow you to directly notify people about something that requires their attention in Famedly. Learn how to mention people in your messages.
+Mit Erwähnungen können Sie Personen direkt über etwas benachrichtigen, dass ihre Aufmerksamkeit in Famedly erfordert. Erfahren Sie, wie sie Personen in ihren Nachrichten erwähnen können.
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>While you are writing a message, type the <b>@</b> <b>symbol</b>.</li>
-    <li>Enter a member's name or select a member from the member list. You can repeat this step for each person you want to mention in your message.</li>
-    <li>Send your message.</li>
+    <li>Während Sie eine Nachricht schreiben, geben Sie das <b>@</b> <b>Symbol</b> ein.</li>
+    <li>Geben Sie den Namen eines Mitglieds ein oder wählen Sie ein Mitglied aus der Mitgliederliste. Sie können diesen Schritt für jede Person wiederholen, die Sie in Ihrer Nachricht erwähnen möchten.</li>
+    <li>Senden Sie Ihre Nachricht.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>While you are writing a message, type the <b>@</b> <b>symbol</b>.</li>
-    <li>Enter a member's name or select a member from the member list. You can repeat this step for each person you want to mention in your message.</li>
-    <li>Send your message.</li>
+    <li>Während Sie eine Nachricht schreiben, geben Sie das <b>@</b> <b>Symbol</b> ein.</li>
+    <li>Geben Sie den Namen eines Mitglieds ein oder wählen Sie ein Mitglied aus der Mitgliederliste. Sie können diesen Schritt für jede Person wiederholen, die Sie in Ihrer Nachricht erwähnen möchten.</li>
+    <li>Senden Sie Ihre Nachricht.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::info
 
-Only members of a group chat or the person within the private chat can be mentioned. If you want to mention a person who is not a member of the group, this person must first be added to the group.
+Es können nur Mitglieder eines Gruppenchats, oder die Person innerhalb des Privatchats erwähnt werden. Möchten Sie eine Person erwähnen, welche nicht Mitglied der Gruppe ist, muss diese Person zunächst der Gruppe hinzugefügt werden.
 
 :::
 
 ---
 
-## Format your messages
+## Nachrichten formatieren
 
-Formatting helps add detail and clarity to your messages in Famedly. You can use markup language and surround text with special characters.
+Mit Hilfe der Formatierung können Sie Ihre Nachrichten in Famedly detaillierter und klarer gestalten. Sie können Auszeichnungssprache verwenden und Text mit Sonderzeichen umgeben.
 
-When using Famedly on your desktop or mobile, you can format your messages with these markup commands.
+Wenn Sie Famedly auf Ihrem Computer oder mobil verwenden, können Sie Nachrichten mit diesen Befehlen formatieren.
 
-| Format          | Description                                                |
-| --------------- | ---------------------------------------------------------- |
-| Bold            | Surround text with asterisks: **your text**                |
-| Italicize       | Surround text with underscores:_your text_                 |
-| Strikethrough   | Surround text with tildes:~your text~                      |
-| Code            | Surround text with backticks:`your text`                   |
-| Block quote     | Add an angled bracket in front of text:>your text          |
-| Code block      | Add three backticks in front and after of text:`your text` |
-| Header 1        | Add # then press Space in front of text                    |
-| Header 2        | Add ## then press Space in front of text                   |
-| Header 3        | Add ### then press Space in front of text                  |
-| 1. Ordered list | Add 1 and a full stop, then press Space in front of text.  |
-| - Bulleted list | Add an asterisk, then press Space in front of text.        |
+| Formatierung       | Beschreibung                                                                        |
+| ------------------ | ----------------------------------------------------------------------------------- |
+| Fett               | Text mit Sternen umgeben:** Ihr Text**                                              |
+| Kursivschrift      | Text mit Unterstrichen umgeben: _Ihr Text_                                          |
+| Durchgestrichen    | Text mit Tilden umgeben: ~Ihr Text~                                                 |
+| Code               | Surround-Text mit Backticks:`Ihr Text`                                              |
+| Anführungszeichen  | Fügen Sie eine spitze Klammer vor den Text: >Ihr Text                               |
+| Code-Block         | Fügen Sie drei Backticks vor und nach dem Text hinzu: ```Ihren Text```        |
+| Überschrift 1      | Fügen Sie # ein und drücken Sie die Leertaste vor dem Text                          |
+| Überschrift 2      | Fügen Sie ## hinzu und drücken Sie dann die Leertaste vor dem Text                  |
+| Überschrift 3      | Fügen Sie ### hinzu und drücken Sie dann die Leertaste vor dem Text                 |
+| 1. Geordnete Liste | Fügen Sie 1 und einen Punkt hinzu, und drücken Sie dann die Leertaste vor dem Text. |
+| - Aufzählungsliste | Fügen Sie ein Sternchen hinzu und drücken Sie dann die Leertaste vor dem Text.      |
 

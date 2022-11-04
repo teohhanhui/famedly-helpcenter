@@ -7,105 +7,105 @@ sidebar_position: 1
 
 ## Ein Profilbild hochladen oder bearbeiten
 
-Ihr Profilbild hilft Sie in Famedly zu identifizieren. And if your photo is clear, it'll be easier for someone to pick you out in a crowd or a meeting!
+Ihr Profilbild hilft Sie in Famedly zu identifizieren. Und wenn Ihr Foto klar ist, wird es einfacher für jemanden sein, Sie in einer Menge oder einem Meeting zu erkennen!
 
-### Add profile picture
+### Profilbild hinzufügen
 
-- Desktop
-    1. Click on the icon with your initials to get to the sittings
-    2. Click on the ＋ next to the round pannel
-    3. Choose a photo from your files
-- Mobile
-    1. Click on the icon with your initials to get to the sittings
-    2. Click on the ＋ next to the round pannel
-    3. Choose a photo from your files or make a new one
+- Computer
+    1. Klicken Sie auf das Symbol mit Ihren Initialen um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf das + neben dem runden Feld
+    3. Wählen Sie ein Foto aus Ihren Dateien
+- Mobil
+    1. Klicken Sie auf das Symbol mit Ihren Initialen um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf das + neben dem runden Feld
+    3. Wählen Sie ein Foto aus Ihren Dateien oder nehmen Sie ein neues auf
 
-### Remove profile picture
+### Profilbild entfernen
 
-- Mobile
-    1. Click on the icon with your initials to get to the sittings
-    2. Click on the + next to the round field
-    3. Choose the option **Remove profile photo**
-
----
-
-## Manage notifications
-
-Enable or disable notifications only for this device
-
-- Desktop
-    1. Click on the icon with your initials or profile picture to go to the settings.
-    2. Click on the **Notifications** field.
-    3. Click on the switch to enable or disable the notifications
-- Mobile
-    1. Click on the icon with your initials or profile picture to go to the settings.
-    2. Click on the **Notifications** field.
-    3. Click on the switch to enable or disable the notifications
+- Mobil
+    1. Klicken Sie auf das Symbol mit Ihren Initialen um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf das + neben dem runden Feld
+    3. Wählen Sie die Option **Profilbild entfernen**
 
 ---
 
-## Style (change design)
+## Benachrichtigungen verwalten
 
-Dark mode helps make working in Famedly easier on your eyes. Additionally you can choose a background style.
+Nur für dieses Gerät Benachrichtigungen aktivieren oder deaktivieren
 
-- Desktop
-    1. Click on the icon with your initials to get to the settings
-    2. Click on **Style**
-    3. Choose under **Theme** the style you prefer
-    4. Choose under **Background** the background style you want to use
-- Mobile
-    1. Click on the icon with your initials to get to the settings
-    2. Click on **Style**
-    3. Choose under **Theme** the style you prefer
-    4. Choose under B**ackground** the background style you want to use
+- Computer
+    1. Klicken Sie auf das Symbol mit Ihren Initialen oder Profilbild, um zu den Einstellungen zu gelangen.
+    2. Klicken Sie auf das Feld **Benachrichtigungen**.
+    3. Klicken Sie auf den Schalter, um die Benachrichtigungen zu aktivieren oder zu deaktivieren
+- Mobil
+    1. Klicken Sie auf das Symbol mit Ihren Initialen oder Profilbild, um zu den Einstellungen zu gelangen.
+    2. Klicken Sie auf das Feld **Benachrichtigungen**.
+    3. Klicken Sie auf den Schalter, um die Benachrichtigungen zu aktivieren oder zu deaktivieren
 
 ---
 
-## Linked devices
+## Style (Design ändern)
+
+Der dunkle Modus macht das Arbeiten in Famedly für Ihre Augen angenehmer. Zusätzlich können Sie einen Hintergrundstil wählen.
+
+- Computer
+    1. Dark mode helps make working in Famedly easier on your eyes
+    2. Klicken Sie auf **Stil**
+    3. Wählen Sie unter **Theme** den Stil, den Sie bevorzugen
+    4. Wählen Sie unter **Hintergrund** den Hintergrund-Stil aus, den Sie verwenden möchten
+- Mobil
+    1. Klicken Sie auf das Symbol mit Ihren Initialen oder Profilbild, um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf **Stil**
+    3. Wählen Sie unter **Theme** den Stil, den Sie bevorzugen
+    4. Wählen Sie unter **Chat Hintergrund** den Hintergrund-Stil, den Sie verwenden möchten
 
 ---
 
-## Archive
-
-Archiving a Chat that you no longer need at the moment can help to keep a good overview.
-
-- Desktop
-    1. Open the chat that you want to archive
-    2. Click on ⠇ in the top right corner
-    3. Choose **archive**
-    4. You can see your archived chats in the settings under **Archive**
-- Mobile
-    1. Open the chat that you want to archive
-    2. Click on ⠇ in the top right corner
-    3. Choose a**rchive**
-    4. You can see your archived chats in the settings under **Archive**
+## Verknüpfte Geräte
 
 ---
 
-## User directory
+## Archiv
 
-If you check this box, you can be found and contacted by users of other organizations. Users of the same organization always see each other automatically in the people directory without having to do anything.
+Die Archivierung eines Chats, den Sie im Moment nicht mehr benötigen, kann helfen, den Überblick zu behalten.
+
+- Computer
+    1. Öffnen Sie den Chat, den Sie archivieren wollen
+    2. Klicken Sie auf ⠇ in der rechten oberen Ecke
+    3. Wählen Sie **Archiv**
+    4. Sie können Ihre archivierten Chats in den Einstellungen unter **Archiv** sehen
+- Mobil
+    1. Öffnen Sie den Chat, den sie archivieren wollen
+    2. Klicken Sie auf ⠇ in der rechten oberen Ecke
+    3. Wählen Sie **Archiv**
+    4. Sie können Ihre archivierten Chats in den Einstellungen unter **Archiv** ansehen
 
 ---
 
-## Lockscreen
+## Benutzerverzeichnis
 
-Activating the lockscreen gives you additional security.
+Wenn Sie dieses Kontrollkästchen aktivieren, können Sie von Benutzern anderer Organisationen gefunden und kontaktiert werden. Benutzer derselben Organisation sehen sich immer automatisch im Personen-Verzeichnis ohne etwas tun zu müssen.
 
-- Mobile
-    1. Click on the icon with your initials to get to the settings
-    2. Click on **Lock screen**
-    3. Set a PIN code or choose to unlock the app with your biometrical data
+---
 
-## Sign out
+## Sperrbildschirm
 
-You are able to sign out of Famedly, if you want to sign in with a different account.
+Die Aktivierung des Sperrbildschirms gibt Ihnen zusätzliche Sicherheit.
 
-- Desktop
-    1. Click on the icon with your initials to get to the sittings
-    2. Click on the power symbol
-    3. Confirm the sign out by clicking **sign** **out**
-- Mobile
-    1. Click on the icon with your initials to get to the sittings
-    2. Click on the power symbol
-    3. Confirm the sign out by clicking **sign** **out**
+- Mobil
+    1. Klicken Sie auf das Symbol mit Ihren Initialen oder Profilbild, um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf **Sperrbildschirm**
+    3. Legen Sie einen PIN-Code fest oder entsperren Sie die App mit Ihren Biometrischen Daten
+
+## Ausloggen
+
+Sie können sich bei Famedly abmelden, wenn Sie sich mit einem anderen Konto anmelden möchten.
+
+- Computer
+    1. Klicken Sie auf das Symbol mit Ihren Initialen oder Profilbild, um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf das Power-Symbol
+    3. Bestätigen Sie, indem Sie auf **Ausloggen** klicken
+- Mobil
+    1. Klicken Sie auf das Symbol mit Ihren Initialen oder Profilbild, um zu den Einstellungen zu gelangen
+    2. Klicken Sie auf das Power-Symbol
+    3. Bestätigen Sie, indem Sie auf **Ausloggen** klicken

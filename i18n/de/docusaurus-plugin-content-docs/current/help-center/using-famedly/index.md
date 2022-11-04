@@ -4,9 +4,9 @@ import DocCardList from '@theme/DocCardList';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Learn more about us</h2>
-    <p class="hero__subtitle">What does Famedly mean?</p>
-    <p>Fa-med-ly is a made-up word and the combination of Family and Medicine and was born from the idea of creating a safe and trustworthy communication environment for medical professionals.</p>
+    <h2 class="hero__title">Erfahren Sie mehr über uns</h2>
+    <p class="hero__subtitle">Was bedeutet Famedly?</p>
+    <p>Fa-med-ly ist ein Kunstwort und die Kombination aus Family und Medicine und wurde aus der Idee heraus geboren, eine sichere und vertrauenswürdige Kommunikationsumgebung für medizinische Fachkräfte zu schaffen.</p>
   </div>
   
 </div>
