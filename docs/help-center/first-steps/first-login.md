@@ -1,9 +1,11 @@
 ---
 sidebar_label: First login
+title: First login
+hide_title: true
+displayed_sidebar: helpcenterSidebar
 sidebar_position: 3
 ---
 
-<h1></h1>
 
 ## General
 

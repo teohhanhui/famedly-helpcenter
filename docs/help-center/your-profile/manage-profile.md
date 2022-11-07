@@ -1,5 +1,8 @@
 ---
 sidebar_label: Manage your profile
+title: Manage your profile
+hide_title: true
+displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
 ---
 

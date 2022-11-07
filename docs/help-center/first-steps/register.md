@@ -1,9 +1,11 @@
 ---
 sidebar_label: Register
+title: Register
+hide_title: true
+displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
 ---
 
-# 
 
 <div class="hero hero--primary">
   <div class="container">
