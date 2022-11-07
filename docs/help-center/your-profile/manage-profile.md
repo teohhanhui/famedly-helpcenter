@@ -9,8 +9,13 @@ sidebar_position: 1
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-
-# Manage your profile
+<div class="hero hero--primary">
+  <div class="container">
+    <h2 class="hero__title">Manage your Profile</h2>
+    <p class="hero__subtitle">Why is managing your profile important?</p>
+    <p>A customized profile helps to identify you more easily for others in Famedly. Furthermore adjusting different settings to your personal preference allows you to have a better and more unique experience with the app.</p>
+  </div>
+</div>
 
 ## Upload or edit a profile picture
 

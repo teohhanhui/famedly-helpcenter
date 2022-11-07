@@ -14,6 +14,6 @@ import TabItem from '@theme/TabItem';
   <div class="container">
     <h2 class="hero__title">Roles</h2>
     <p class="hero__subtitle">What are Roles?</p>
-    <p>Famedly provides the possibilty to connect members with their according role</p>
+    <p>Famedly provides the possibilty to connect members with their according role.</p>
   </div>
 </div>
