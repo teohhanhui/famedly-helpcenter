@@ -1,6 +1,7 @@
 ---
 sidebar_label: Group Chat
 title: Group Chat
+hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
 ---
@@ -8,7 +9,6 @@ sidebar_position: 1
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# &nbsp;
 
 <div class="hero hero--primary">
   <div class="container">
