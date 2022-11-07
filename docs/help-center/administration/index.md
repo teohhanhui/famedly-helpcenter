@@ -1,8 +1,17 @@
----
-title: Administration
-hide_title: true
-displayed_sidebar: helpcenterSidebar
-sidebar_position: 1
+import DocCardList from '@theme/DocCardList';
+
+# 
+
+<div class="hero hero--primary">
+  <div class="container">
+    <h2 class="hero__title">Learn more about us</h2>
+    <p class="hero__subtitle">What does Famedly mean?</p>
+    <p>Fa-med-ly is a made-up word and the combination of Family and Medicine and was born from the idea of creating a safe and trustworthy communication environment for medical professionals.</p>
+  </div>
+  
+</div>
+<br></br>
+
 ---
 
-# Administration
+<DocCardList />
