@@ -36,7 +36,7 @@ Group chats are the best way to keep conversations about various projects, topi
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap <b>Chats</b> at the bottom of the screen.</li>
-    <li>Tap the <b>+New</b> button at the bottom right of your screen.</li>
+    <li>Tap the <b>+ New</b> button at the bottom right of your screen.</li>
     <li>Tap <b>Start Chat</b>.</li>
     <li>Tap <b>New Group</b>.</li>
     <li>Enter a group chat subject.</li>
@@ -96,7 +96,7 @@ The room subject appears in the group header, and admins of the group can modify
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details</li>
     <li>Click on <b>Set Chat Name</b>.</li>
     <li>Enter a name.</li>
     <li>Click <b>Done</b> to finish the process.</li>
@@ -107,7 +107,7 @@ The room subject appears in the group header, and admins of the group can modify
     <li>Tap the header of a group to open the group details.</li>
     <li>Tap ⠇ in the top right corner of the screen.</li>
     <li>Tap <b>Change subject</b>.</li>
-    <li>Enter a subject</li>
+    <li>Enter a subject.</li>
     <li>Tap <b>Done</b> to finish the process.</li>
   </ol>
   </TabItem>
@@ -120,7 +120,7 @@ From both your desktop and mobile devices, you can see group descriptions when v
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click <b>Set chat description</b>.</li>
     <li>Enter a description.</li>
     <li>Click <b>Done</b> to finish the process.</li>
@@ -148,7 +148,7 @@ The group picture appears in the chat list and helps people to identify groups.
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click on <b>＋</b> next to the Group initials.</li>
     <li>Select picture from your file system.</li>
     <li>Click <b>Open</b>.</li>
@@ -169,8 +169,8 @@ The group picture appears in the chat list and helps people to identify groups.
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on ✎ next to the group picture.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Click on <b>✎</b> next to the group picture.</li>
     <li>Select picture from your file system.</li>
     <li>Click <b>Open</b>.</li>
   </ol>
@@ -178,7 +178,7 @@ The group picture appears in the chat list and helps people to identify groups.
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the header of a group to open the group details.</li>
-    <li>Tap on ✎ next to the group picture.</li>
+    <li>Tap on <b>✎</b> next to the group picture.</li>
     <li>Select picture from your file system.</li>
     <li>Click <b>Open</b>.</li>
   </ol>
@@ -194,7 +194,7 @@ Groups are the best way to keep conversations about various projects, topics or
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click on <b>Members</b>.</li>
     <li>Click <b>＋</b> in the upper right corner.</li>
     <li>Click on the person you want to add.</li>
@@ -219,7 +219,7 @@ If you remove a person from a group, that person can no longer participate in th
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click on <b>Members</b>.</li>
     <li>Click on <b>Remove User</b>.</li>
   </ol>
@@ -249,7 +249,7 @@ Famedly organises conversations between multiple people in groups. Groups provid
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click on Leave <b>Group</b>.</li>
     <li>Click <b>Exit</b>.</li>
   </ol>
@@ -258,7 +258,7 @@ Famedly organises conversations between multiple people in groups. Groups provid
   <ol>
     <li>Tap the header of a group to open the group details.</li>
     <li>Tap <b>Exit Chat</b> at the bottom of the page.</li>
-    <li>Select <b>Yes</b></li>
+    <li>Select <b>Yes</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -283,14 +283,14 @@ It is currently not possible to delete a group for all members as an administrat
 
 :::note
 
-Note: Loading the archive may take some time.
+Loading the archive may take some time.
 
 :::
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to the right of the filter field to open the settings.</li>
+    <li>Click on your <b>Profile Picture or Name Initials</b> to the right of the filter field to open the settings.</li>
     <li>Click on <b>Archive</b>.</li>
     <li>Click ☑ in the top right corner of the screen.</li>
     <li>Select one or more groups you want to delete.</li>
@@ -300,10 +300,10 @@ Note: Loading the archive may take some time.
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap <b>Profile Picture or Name Initials</b> at the top right of the screen to open the settings.</li>
+    <li>Tap your <b>Profile Picture or Name Initials</b> at the top right of the screen to open the settings.</li>
     <li>Tap <b>Archive</b>.</li>
     <li>Tap <b>Empty archive</b>.</li>
-    <li>Tap <b>Delete</b> to remove all Private Messages & groups.</li>
+    <li>Tap <b>Delete</b> to remove all Private Messages & Groups.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -317,7 +317,7 @@ It is possible to mute notifications for groups. This can be helpful if many mem
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click on 🔔 to mute the group.</li>
   </ol>
   </TabItem>
@@ -360,7 +360,7 @@ Groups can be set so that only administrators can send messages. This can be par
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click ℹ in the top right corner of a group's screen to open the group details.</li>
+    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
     <li>Click on <b>Members</b>.</li>
     <li>Click on <b>Promote to Administrator</b>.</li>
   </ol>
