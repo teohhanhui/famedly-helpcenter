@@ -193,7 +193,7 @@ Often a message can be replaced by an emoji reaction. You can hover over reactio
     <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the message to which you want to add a reaction.</li>
-    <li>select a frequently used reaction from the menu, or tap the <b>＋ Plus symbol</b> to search for another one.</li>
+    <li>Select a frequently used reaction from the menu, or tap the <b>＋ Plus symbol</b> to search for another one.</li>
   </ol>
   </TabItem>
 </Tabs>
