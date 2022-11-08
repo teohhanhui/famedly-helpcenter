@@ -71,7 +71,7 @@ By default, any member can edit their messages.
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Move the cursor over the message you want to edit.</li>
-    <li>Click on the ✎ <b>pencil icon</b>.</li>
+    <li>Click on the ✎ <b>Pencil icon</b>.</li>
     <li>Edit your message in the text field.</li>
     <li>Click on the → <b>Send icon</b> to finish.</li>
   </ol>
@@ -102,7 +102,7 @@ Deleting a message is permanent, so please proceed with care.
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Hover over the message you want to delete.</li>
-    <li>Click the 🗑 <b>bin icon</b>.</li>
+    <li>Click the 🗑 <b>Bin icon</b>.</li>
     <li>Click <b>Yes</b> to confirm.</li>
   </ol>
     </TabItem>
@@ -125,7 +125,7 @@ The reply function allows you to reply to a specific message in group chat or pr
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Hover over the message you want to answer.</li>
-    <li>Click the ↪ <b>reply icon</b>.</li>
+    <li>Click the ↪ <b>Reply icon</b>.</li>
     <li>Enter your reply in the textfield.</li>
     <li>Press <b>Enter</b> or click the → <b>Send icon</b> to send reply.</li>
   </ol>
@@ -149,7 +149,7 @@ Emojis are a reference to common emoticons. In Famedly, emojis are both entertai
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click 🙂 the <b>smiley icon</b> in the message box to open the menu.</li>
+    <li>Click 🙂 the <b>Smiley icon</b> in the message box to open the menu.</li>
     <li>Use the icons at the top of the menu to browse through the categories.</li>
     <li>Click on an emoji to add it to your message.</li>
   </ol>
@@ -163,7 +163,7 @@ Emojis are a reference to common emoticons. In Famedly, emojis are both entertai
     </TabItem>
     <TabItem value="android" label="Android">
   <ol>
-    <li>Tap 🙂 the <b>smiley icon</b> in the message field to open the menu.</li>
+    <li>Tap 🙂 the <b>Smiley icon</b> in the message field to open the menu.</li>
     <li>Tap an emoji to add it to your message.</li>
   </ol>
   </TabItem>
@@ -187,7 +187,7 @@ Often a message can be replaced by an emoji reaction. You can hover over reactio
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Move the cursor over the message you want to add a reaction to.</li>
-    <li>Click 🙂 the <b>smiley icon</b> and select an option.</li>
+    <li>Click 🙂 the <b>Smiley icon</b> and select an option.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
