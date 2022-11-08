@@ -91,7 +91,7 @@ With a group subject, people can find out what the purpose of the group is. With
 
 ### Edit a group subject
 
-The room subject appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. ✨ However we suggest to keep the subject short. Can be up to 250 characters in length and can include emoji. 
+The room subject appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. However we suggest to keep the subject short. Can be up to 250 characters in length and can include emoji. 
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
@@ -115,7 +115,7 @@ The room subject appears in the group header, and admins of the group can modify
 
 ### Add or edit a group description
 
-From both your desktop and mobile devices, you can see group descriptions when viewing group details. There is no limitation in the subject length and it can include emoji. ✨
+From both your desktop and mobile devices, you can see group descriptions when viewing group details. There is no limitation in the subject length and it can include emoji.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
