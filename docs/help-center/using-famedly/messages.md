@@ -59,7 +59,7 @@ With shift + enter, you can jump in a new line.
 
 A <b>bold</b> group chat or private chat in your chat list means that there are unread messages in the conversation. Click on or tap the bold conversation name to view the unread messages.
 
-Because mistakes happen, it’s possible to edit and delete messages in Famedly.
+Because mistakes happen, it is possible to edit and delete messages in Famedly.
 
 ---
 
@@ -177,9 +177,9 @@ Use the 🔎 to find the right emojis faster.
 
 ---
 
-## Respond to a message with an emoji
+## React to a message with an emoji
 
-Often another message can be replaced by an emoji reaction. You can hover over reactions in a conversation or tap and hold them to see who added them.
+Often a message can be replaced by an emoji reaction. You can hover over reactions in a conversation or tap and hold them to see who added them.
 
 ### Add reactions
 
@@ -193,7 +193,7 @@ Often another message can be replaced by an emoji reaction. You can hover over r
     <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap the message to which you want to add a reaction.</li>
-    <li>select a frequently used reaction from the menu, or tap the ＋ **Plus** **symbol** to search for another one.</li>
+    <li>select a frequently used reaction from the menu, or tap the <b>＋ Plus symbol</b> to search for another one.</li>
   </ol>
   </TabItem>
 </Tabs>
