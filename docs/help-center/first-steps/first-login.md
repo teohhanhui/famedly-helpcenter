@@ -9,7 +9,7 @@ sidebar_position: 3
 <div class="hero hero--primary">
   <div class="container">
     <h2 class="hero__title">First login</h2>
-    <p class="hero__subtitle">Follow the steps below to login to Famedly the first time</p>
+    <p class="hero__subtitle">Follow the steps below to login to Famedly the first time.</p>
     <p>After your first login in you do not have to login each time you want to use Famedly.</p>
   </div>
 </div>
