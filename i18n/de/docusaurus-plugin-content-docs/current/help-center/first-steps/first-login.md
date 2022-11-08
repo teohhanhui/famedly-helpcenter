@@ -1,6 +1,6 @@
 ---
 sidebar_label: Erste Anmeldung
-title: First login
+title: Erste Anmeldung
 hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 3
@@ -8,9 +8,9 @@ sidebar_position: 3
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">First login</h2>
-    <p class="hero__subtitle">Follow the steps below to login to Famedly the first time.</p>
-    <p>After your first login in you do not have to login each time you want to use Famedly.</p>
+    <h2 class="hero__title">Erste Anmeldung</h2>
+    <p class="hero__subtitle">Folgen Sie den untenstehenden Schritten, um sich das erste Mal bei Famedly anzumelden.</p>
+    <p>Nach dem ersten Einloggen müssen Sie sich nicht jedes Mal neu anmelden, wenn Sie Famedly nutzen möchten.</p>
   </div>
 </div>
 
