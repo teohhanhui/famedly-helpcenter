@@ -11,9 +11,9 @@ import TabItem from '@theme/TabItem';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Manage your Profile</h2>
-    <p class="hero__subtitle">Why is managing your profile important?</p>
-    <p>A customized profile helps to identify you more easily for others in Famedly. Furthermore adjusting different settings to your personal preference allows you to have a better and more unique experience with the app.</p>
+    <h2 class="hero__title">Ihr Profil verwalten</h2>
+    <p class="hero__subtitle">Warum ist die Verwaltung Ihres Profils wichtig?</p>
+    <p>Ein individuelles Profil hilft, Sie für andere in Famedly leichter zu identifizieren. Darüber hinaus können Sie verschiedene Einstellungen an Ihre persönlichen Präferenzen anpassen, um ein besseres und einzigartiges Erlebnis mit der App zu haben.</p>
   </div>
 </div>
 
@@ -24,16 +24,16 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on the <b>＋</b> next to the round pannel.</li>
-    <li>Choose a photo from your files.</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicke auf das <b>+</b> neben dem runden Feld.</li>
+    <li>Wählen Sie ein Foto aus Ihren Dateien.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on the <b>＋</b> next to the round pannel.</li>
-    <li>Choose a photo from your files or make a new one.</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicke auf das <b>+</b> neben dem runden Feld.</li>
+    <li>Wählen Sie ein Foto aus Ihren Dateien oder nehmen Sie ein neues auf.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -43,30 +43,30 @@ import TabItem from '@theme/TabItem';
 <Tabs>
   <TabItem value="mobile" label="Mobile" default>
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on the <b>＋</b> next to the round pannel.</li>
-    <li>Choose the option <b>Remove profile photo</b>.</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicke auf das <b>+</b> neben dem runden Feld.</li>
+    <li>Wählen Sie die Option <b>Profilbild entfernen</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 ## Benachrichtigungen verwalten
 
-Enable or disable notifications only for this device.
+Nur für dieses Gerät Benachrichtigungen aktivieren oder deaktivieren.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on the <b>Notifications</b> field.</li>
-    <li>Click on the switch to enable or disable the notifications.</li>
+    <li>Klicken Sie auf Ihr <b>Profilbild oder Namensinitials</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicken Sie auf das Feld <b>Benachrichtigungen</b>.</li>
+    <li>Klicken Sie auf den Schalter, um die Benachrichtigungen zu aktivieren oder zu deaktivieren.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on the <b>Notifications</b> field.</li>
-    <li>Click on the switch to enable or disable the notifications.</li>
+    <li>Klicken Sie auf Ihr <b>Profilbild oder Namensinitials</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicken Sie auf das Feld <b>Benachrichtigungen</b>.</li>
+    <li>Klicken Sie auf den Schalter, um die Benachrichtigungen zu aktivieren oder zu deaktivieren.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -78,18 +78,18 @@ Der dunkle Modus macht das Arbeiten in Famedly für Ihre Augen angenehmer. Zusä
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on <b>Style</b>.</li>
-    <li>Choose under <b>Theme</b> the style you prefer.</li>
-    <li>Choose under <b>Background</b> the background style you want to use.</li>
+    <li>Klicken Sie auf Ihr <b>Profilbild oder Namensinitials</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicken Sie auf <b>Style</b>.</li>
+    <li>Wählen Sie unter <b>Theme</b> den Stil, den Sie bevorzugen.</li>
+    <li>Wählen Sie unter <b>Hintergrund</b> den Hintergrund-Stil aus, den Sie verwenden möchten.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on <b>Style</b>.</li>
-    <li>Choose under <b>Theme</b> the style you prefer.</li>
-    <li>Choose under <b>Background</b> the background style you want to use.</li>
+    <li>Klicken Sie auf Ihr <b>Profilbild oder Namensinitials</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicken Sie auf <b>Style</b>.</li>
+    <li>Wählen Sie unter <b>Theme</b> den Stil, den Sie bevorzugen.</li>
+    <li>Wählen Sie unter <b>Hintergrund</b> den Hintergrund-Stil aus, den Sie verwenden möchten.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -102,18 +102,18 @@ Die Archivierung eines Chats, den Sie im Moment nicht mehr benötigen, kann helf
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Open the chat that you want to archive.</li>
-    <li>Click on ⠇ in the top right corner.</li>
-    <li>Choose <b>Archive</b>.</li>
-    <li>You can see your archived chats in the settings under <b>Archive</b>.</li>
+    <li>Öffnen Sie den Chat, den sie archivieren wollen.</li>
+    <li>Klicken Sie auf ⠇ in der rechten oberen Ecke.</li>
+    <li>Klicken Sie auf <b>Archiv</b>.</li>
+    <li>Sie können Ihre archivierten Chats in den Einstellungen unter <b>Archiv</b> ansehen.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Open the chat that you want to archive.</li>
-    <li>Click on ⠇ in the top right corner.</li>
-    <li>Choose <b>Archive</b>.</li>
-    <li>You can see your archived chats in the settings under <b>Archive</b>.</li>
+    <li>Öffnen Sie den Chat, den sie archivieren wollen.</li>
+    <li>Klicken Sie auf ⠇ in der rechten oberen Ecke.</li>
+    <li>Klicken Sie auf <b>Archiv</b>.</li>
+    <li>Sie können Ihre archivierten Chats in den Einstellungen unter <b>Archiv</b> ansehen.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -126,9 +126,9 @@ Die Aktivierung des Sperrbildschirms gibt Ihnen zusätzliche Sicherheit.
 <Tabs>
   <TabItem value="mobile" label="Mobile" default>
   <ol>
-    <li>Click on your <b>profile picture or name initials</b> to get to the settings.</li>
-    <li>Click on <b>Lock screen</b>.</li>
-    <li>Set a PIN code or choose to unlock the app with your biometrical data.</li>
+    <li>Klicken Sie auf Ihr <b>Profilbild oder Namensinitials</b> um die Einstellungen zu öffnen.</li>
+    <li>Klicken Sie auf <b>Sperrbildschirm</b>.</li>
+    <li>Legen Sie einen PIN-Code fest oder entsperren Sie die App mit Ihren Biometrischen Daten.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -140,16 +140,16 @@ Sie können sich bei Famedly abmelden, wenn Sie sich mit einem anderen Konto anm
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Open the chat that you want to archive.</li>
-    <li>Click on the <b>power symbol</b>.</li>
-    <li>Confirm the sign out by clicking <b>Sign out</b>.</li>
+    <li>Öffnen Sie den Chat, den sie archivieren wollen.</li>
+    <li>Klicken Sie auf das <b>Power-Symbol</b>.</li>
+    <li>Bestätigen Sie die Abmeldung, indem Sie <b>Abmelden</b> klicken.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Open the chat that you want to archive.</li>
-    <li>Click on the <b>power symbol</b>.</li>
-    <li>Confirm the sign out by clicking <b>Sign out</b>.</li>
+    <li>Öffnen Sie den Chat, den sie archivieren wollen.</li>
+    <li>Klicken Sie auf das <b>Power-Symbol</b>.</li>
+    <li>Bestätigen Sie die Abmeldung, indem Sie <b>Abmelden</b> klicken.</li>
   </ol>
   </TabItem>
 </Tabs>
