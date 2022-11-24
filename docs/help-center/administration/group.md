@@ -76,7 +76,7 @@ You can create sub-groups in order to refine the structure of the group.
   <ol>
     <li>Go to the <b>Sub-group</b> section.</li>
     <li>Click on <b>＋ Add sub-group</b>.</li>
-    <li>Find the group that you want to add as a sub-group and select <b>Add</b>/li>
+    <li>Find the group that you want to add as a sub-group and select <b>Add</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -107,6 +107,20 @@ You can edit the rooms you created.
     <li>Find the Room that you want to edit and klick on <b>Edit</b>.</li>
     <li>Edit room name, description, exclude certain subgroups from the room.</li>
     <li>After you are done editing click on <b>Save</b>.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+## Delete groups
+
+Delete a group that you no longer need.
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Go to the <b>Groups</b> section.</li>
+    <li>Find the group and select <b>Delete</b> under <b>Actions</b>.</li>
+    <li>Confirm the pop-up-notification.</li>
   </ol>
   </TabItem>
 </Tabs>
