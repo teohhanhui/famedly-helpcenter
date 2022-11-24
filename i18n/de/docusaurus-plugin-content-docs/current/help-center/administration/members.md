@@ -1,7 +1,56 @@
 ---
 sidebar_label: Manage members
 title: Manage members
+hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+
+<div class="hero hero--primary">
+  <div class="container">
+    <h2 class="hero__title">Members</h2>
+    <p class="hero__subtitle">What are Members?</p>
+    <p>Members are all persons that are working wihin your organization.</p>
+  </div>
+</div>
+
+## Add mebers
+
+Add a new member to your organization.
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Go to the <b>Members</b> section.</li>
+    <li>Click on <b>+ Add Member</b>.</li>
+    <li>Fill out the necessary information.</li>
+    <li>Click on Create.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+:::note
+
+By clicking Create QR-code for login a welcome-page will be created for the new user. It contains al necessary information for a seemles start (name of the organization, server address, username, onetime start password, QR-code for the use off the app).
+
+:::
+
+
+## Search members
+
+You are able to search for members in admin panel.
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Go to the <b>Members</b> section.</li>
+    <li>Click on <b>🔍 Search …</b>.</li>
+    <li>Begin to type in the name, username or E-mail address of the person you are searching for.</li>
+    <li>While typing all possible search results are displayed below.</li>
+  </ol>
+  </TabItem>
+</Tabs>
