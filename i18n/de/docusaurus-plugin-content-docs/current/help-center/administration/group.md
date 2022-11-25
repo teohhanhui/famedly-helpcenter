@@ -12,101 +12,101 @@ import TabItem from '@theme/TabItem';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Groups</h2>
-    <p class="hero__subtitle">What is a Group?</p>
-    <p>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work. As Famedly relies on the Matrix Communication protocol it is posible to add people to Group Chats which uses Matrix Clients from other vendors.</p>
+    <h2 class="hero__title">Gruppen</h2>
+    <p class="hero__subtitle">Was ist eine Gruppe?</p>
+    <p>Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben. Da Famedly sich auf das Matrix-Kommunikationsprotokoll stützt, kann man Personen zu Gruppenchats hinzufügen, die Matrix-Clients von anderen Anbietern verwenden.</p>
   </div>
 </div>
 
-## Create groups
+## Gruppen erstellen
 
-Create a new group within your organization.
+Erstellen Sie eine neue Gruppe innerhalb Ihrers Unternehmens.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Groups</b> section.</li>
-    <li>Click on <b>+ Create new Group</b>.</li>
-    <li>Type in the group name and click on the <b>paper plane icon</b>.</li>
+    <li>Gehen Sie zum Bereich <b>Gruppen</b>.</li>
+    <li>Klicken Sie auf <b>+ Neue Gruppe erstellen</b>.</li>
+    <li>Geben Sie den Gruppennamen ein und klicken Sie auf das <b>Papierflugzeugsymbol</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
-## Edit groups
+## Gruppen bearbeiten
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Groups</b> section.</li>
-    <li>With Groups you can see the number of members of a group or subgroup as well as their moderators.</li>
-    <li>Find the group you would like to edit and select <b>Edit</b> in the <b>Actions</b> column:</li>
+    <li>Gehen Sie zum Bereich <b>Gruppen</b>.</li>
+    <li>Bei Gruppen können Sie die Anzahl der Mitglieder einer Gruppe oder Untergruppe sowie deren Moderatoren sehen.</li>
+    <li>Finden Sie die Gruppe, die Sie bearbeiten möchten, und wählen <b>Bearbeiten</b> in der Spalte <b>Aktionen</b>:</li>
   </ol>
   </TabItem>
 </Tabs>
 
-### Add new members
+### Neue Mitglieder hinzufügen
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Members</b> section.</li>
-    <li>Click on <b>＋ Add member</b>.</li>
-    <li>Find the person you want to add an click on <b>Add</b>.</li>
+    <li>Gehen Sie zum Bereich <b>Mitglieder</b>.</li>
+    <li>Klicken Sie auf <b>+ Mitglied hinzufügen</b>.</li>
+    <li>Finden Sie die Person, die Sie hinzufügen möchten, und klicken Sie auf <b>Hinzufügen</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
-### Remove members
+### Mitglieder entfernen
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Members</b> section.</li>
-    <li>Find the person you want to remove and click on <b>Remove</b>.</li>
+    <li>Gehen Sie zum Bereich <b>Mitglieder</b>.</li>
+    <li>Finden Sie die Person, die Sie entfernen möchten, und klicken Sie auf <b>Entfernen</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
 
-### Create sub-groups
+### Untergruppen erstellen
 
-You can create sub-groups in order to refine the structure of the group.
+Sie können Untergruppen erstellen, um die Struktur der Gruppe zu verfeinern.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Sub-group</b> section.</li>
-    <li>Click on <b>＋ Add sub-group</b>.</li>
-    <li>Find the group that you want to add as a sub-group and select <b>Add</b>/li>
+    <li>Gehen Sie zum Bereich <b>Untergruppen</b>.</li>
+    <li>Klicken Sie auf <b>+ Untergruppe hinzufügen</b>.</li>
+    <li>Finden Sie die Gruppe, die Sie als Untergruppe hinzufügen möchten und wählen Sie <b>Hinzufügen</b>
   </ol>
   </TabItem>
 </Tabs>
 
-### Create rooms
+### Räume erstellen
 
-Create rooms for messaging.
+Räume für Nachrichten erstellen.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Rooms</b> section.</li>
-    <li>Click on <b>＋ Add new room</b>.</li>
-    <li>Type in the name of the room and click on the <b>paper plane icon</b>.</li>
-    <li>Chat rooms to which all members of a group are mandatorily assigned (e.g. announcements). These rooms cannot be left.</li>
+    <li>Gehen Sie zum Bereich <b>Räume</b>.</li>
+    <li>Klicken Sie auf <b>+ Raum hinzufügen</b>.</li>
+    <li>Geben Sie den Namen des Raums ein und klicken Sie auf das <b>Papierflugzeugsymbol</b>.</li>
+    <li>Chaträume, denen alle Mitglieder einer Gruppe obligatorisch zugeordnet sind (z.B. Ankündigungen). Diese Räume können nicht verlassen werden.</li>
   </ol>
   </TabItem>
 </Tabs>
 
-### Edit rooms
+### Räume bearbeiten
 
-You can edit the rooms you created.
+Sie können die von Ihnen erstellten Räume bearbeiten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Rooms</b> section.</li>
-    <li>Find the Room that you want to edit and klick on <b>Edit</b>.</li>
-    <li>Edit room name, description, exclude certain subgroups from the room.</li>
-    <li>After you are done editing click on <b>Save</b>.</li>
+    <li>Gehen Sie zum Bereich <b>Räume</b>.</li>
+    <li>Suchen Sie den Raum, den Sie bearbeiten möchten, und klicken Sie auf <b>Bearbeiten</b>.</li>
+    <li>Bearbeiten Sie den Raumnamen, die Beschreibung und schließen Sie bestimmte Untergruppen aus dem Raum aus.</li>
+    <li>Wenn Sie fertig sind, klicken Sie auf <b>Speichern</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
