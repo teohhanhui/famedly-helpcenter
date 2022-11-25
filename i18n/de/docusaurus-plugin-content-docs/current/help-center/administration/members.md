@@ -1,6 +1,6 @@
 ---
-sidebar_label: Manage members
-title: Manage members
+sidebar_label: Mitglieder verwalten
+title: Mitglieder verwalten
 hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
@@ -12,45 +12,45 @@ import TabItem from '@theme/TabItem';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Members</h2>
-    <p class="hero__subtitle">What are Members?</p>
-    <p>Members are all persons that are working wihin your organization.</p>
+    <h2 class="hero__title">Mitglieder</h2>
+    <p class="hero__subtitle">Was sind Mitglieder?</p>
+    <p>Mitglieder sind alle Personen, die in Ihrem Unternehmen arbeiten.</p>
   </div>
 </div>
 
-## Add mebers
+## Mitglieder hinzufügen
 
-Add a new member to your organization.
+Ein neues Mitglied Ihrem Unternehmen hinzufügen.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Members</b> section.</li>
-    <li>Click on <b>+ Add Member</b>.</li>
-    <li>Fill out the necessary information.</li>
-    <li>Click on Create.</li>
+    <li>Gehen Sie zum Bereich <b>Mitglieder</b>.</li>
+    <li>Klicken Sie auf <b>+ Mitglied hinzufügen</b>.</li>
+    <li>Füllen Sie die erforderlichen Informationen aus.</li>
+    <li>Klicken Sie auf Erstellen.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::note
 
-By clicking Create QR-code for login a welcome-page will be created for the new user. It contains al necessary information for a seemles start (name of the organization, server address, username, onetime start password, QR-code for the use off the app).
+Durch Klicken auf QR-Code erstellen für die Anmeldung wird eine Willkommensseite für den neuen Benutzer erstellt. Es enthält alle notwendigen Informationen für einen reibungslosen Start (Name der Organisation, Server Adresse, Benutzername, Einmalstart Passwort, QR-Code für die Verwendung der App).
 
 :::
 
 
-## Search members
+## Mitglieder suchen
 
-You are able to search for members in admin panel.
+Sie können Mitglieder im Admin-Panel suchen.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Members</b> section.</li>
-    <li>Click on <b>🔍 Search …</b>.</li>
-    <li>Begin to type in the name, username or E-mail address of the person you are searching for.</li>
-    <li>While typing all possible search results are displayed below.</li>
+    <li>Gehen Sie zum Bereich <b>Mitglieder</b>.</li>
+    <li>Klicken Sie auf <b>🔍 Suche …</b>.</li>
+    <li>Beginnen Sie, den Namen, den Benutzernamen oder die E-Mail-Adresse der gesuchten Person einzugeben.</li>
+    <li>Während der Eingabe werden alle möglichen Suchergebnisse unten angezeigt.</li>
   </ol>
   </TabItem>
 </Tabs>
