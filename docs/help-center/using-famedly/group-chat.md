@@ -139,6 +139,9 @@ From both your desktop and mobile devices, you can see group descriptions when v
   </TabItem>
 </Tabs>
 
+![Create a groupchat](/img/edit-groupsubject-description.gif)
+
+
 ---
 
 ## Set or change group picture
