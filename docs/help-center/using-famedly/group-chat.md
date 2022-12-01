@@ -47,7 +47,7 @@ Group chats are the best way to keep conversations about various projects, topi
 </Tabs>
 <img src="/img/create-groupchat.gif" width="50%" height="50%"/>
 
-![Create a groupchat](/img/create-groupchat.gif)
+![Create a groupchat](/img/create-groupchat.gif | width=100)
 
 :::info
 
