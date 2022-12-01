@@ -46,6 +46,8 @@ Group chats are the best way to keep conversations about various projects, topi
   </TabItem>
 </Tabs>
 
+![Create a groupchat](/img/create-groupchat.gif)
+
 :::info
 
 You can also create a group chat without members and use it as a secure notepad.
