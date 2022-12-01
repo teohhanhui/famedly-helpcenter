@@ -42,7 +42,9 @@ Group chats are the best way to keep conversations about various projects, topi
     <li>Enter a group chat subject.</li>
     <li>Add members to the group chat.</li>
     <li>Tap ✔️ in the top right corner to create the group.</li>
+    ![Create a groupchat](/img/create-groupchat.gif)
   </ol>
+  ![Create a groupchat](/img/create-groupchat.gif)
   </TabItem>
 </Tabs>
 
