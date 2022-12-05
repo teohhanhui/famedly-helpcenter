@@ -46,7 +46,7 @@ Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, 
   </TabItem>
 </Tabs>
 
-<img src="https://gitlab.com/famedly/company/helpcenter/-/blob/main/static/img/create-groupchat.gif" />
+<img src="./static/img/create-groupchat.gif" />
 
 ![Create a groupchat](/img/create-groupchat.gif)
 
