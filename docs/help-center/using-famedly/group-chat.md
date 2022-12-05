@@ -46,7 +46,7 @@ Group chats are the best way to keep conversations about various projects, topi
   </TabItem>
 </Tabs>
 
-<img src="https://gitlab.com/famedly/company/helpcenter/-/blob/main/static/img/create-groupchat.gif"/>
+<img src="https://gitlab.com/famedly/company/helpcenter/-/blob/main/static/img/create-groupchat.gif">
 
 ![Create a groupchat](/img/create-groupchat.gif)
 
