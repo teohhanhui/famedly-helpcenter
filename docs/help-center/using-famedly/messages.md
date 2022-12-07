@@ -71,9 +71,9 @@ By default, any member can edit their messages.
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Move the cursor over the message you want to edit.</li>
-    <li>Click on the ✎ <b>Pencil icon</b>.</li>
+    <li>Click on the <b>Pencil icon</b>.</li>
     <li>Edit your message in the text field.</li>
-    <li>Click on the → <b>Send icon</b> to finish.</li>
+    <li>Click on the <b>Send icon</b> to finish.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
@@ -81,7 +81,7 @@ By default, any member can edit their messages.
     <li>Tap the message you want to edit.</li>
     <li>Tap <b>Edit</b> to make changes.</li>
     <li>Edit your message in the text field.</li>
-    <li>Tap the ✔️ <b>checkmark icon</b> to complete the process.</li>
+    <li>Tap the <b>Checkmark icon</b> to complete the process.</li>
   </ol>
   </TabItem>
 </Tabs>
