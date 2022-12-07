@@ -34,7 +34,7 @@ import TabItem from '@theme/TabItem';
     <li>Open a group chat or private chat that you’d like to send a message to.</li>
     <li>Click on the message input field.</li>
     <li>Type your message and add any emoji, mentions or formatting that you want.</li>
-    <li>Press <b>Enter</b> or click → to send it.</li>
+    <li>Press <b>Enter</b> or click the <b>Arrow</b> to send it.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
@@ -42,7 +42,7 @@ import TabItem from '@theme/TabItem';
     <li>Open a group chat or private chat that you’d like to send a message to.</li>
     <li>Tap on the message input field.</li>
     <li>Type your message and add any emoji, mentions or formatting that you want.</li>
-    <li>Tap → to send it.</li>
+    <li>Tap the <b>Arrow</b> to send it.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -102,7 +102,7 @@ Deleting a message is permanent, so please proceed with care.
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Hover over the message you want to delete.</li>
-    <li>Click the 🗑 <b>Bin icon</b>.</li>
+    <li>Click the <b>Bin icon</b>.</li>
     <li>Click <b>Yes</b> to confirm.</li>
   </ol>
     </TabItem>
@@ -125,9 +125,9 @@ The reply function allows you to reply to a specific message in group chat or pr
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Hover over the message you want to answer.</li>
-    <li>Click the ↪ <b>Reply icon</b>.</li>
+    <li>Click the <b>Reply icon</b>.</li>
     <li>Enter your reply in the textfield.</li>
-    <li>Press <b>Enter</b> or click the → <b>Send icon</b> to send reply.</li>
+    <li>Press <b>Enter</b> or click the <b>Arrow</b> to send reply.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
@@ -135,7 +135,7 @@ The reply function allows you to reply to a specific message in group chat or pr
     <li>Tap the message you want to answer.</li>
     <li>Tap <b>Answer</b>.</li>
     <li>Enter your reply in the textfield.</li>
-    <li>Tap the → <b>Send icon</b> to send reply.</li>
+    <li>Tap the <b>Arrow icon</b> to send reply.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -149,7 +149,7 @@ Emojis are a reference to common emoticons. In Famedly, emojis are both entertai
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click 🙂 the <b>Smiley icon</b> in the message box to open the menu.</li>
+    <li>Click the <b>Smiley icon</b> in the message box to open the menu.</li>
     <li>Use the icons at the top of the menu to browse through the categories.</li>
     <li>Click on an emoji to add it to your message.</li>
   </ol>
@@ -157,13 +157,13 @@ Emojis are a reference to common emoticons. In Famedly, emojis are both entertai
     <TabItem value="ios" label="iOS">
   <ol>
     <li>Tap the message box to open their keyboard.</li>
-    <li>Tap the 🙂 <b>Emoji</b> or 🌐 <b>Globe</b> button on the keyboard.</li>
+    <li>Tap the <b>Emoji</b> or <b>Globe</b> button on the keyboard.</li>
     <li>Tap on an emoji to add it to your message.</li>
   </ol>
     </TabItem>
     <TabItem value="android" label="Android">
   <ol>
-    <li>Tap 🙂 the <b>Smiley icon</b> in the message field to open the menu.</li>
+    <li>Tap the <b>Smiley icon</b> in the message field to open the menu.</li>
     <li>Tap an emoji to add it to your message.</li>
   </ol>
   </TabItem>
@@ -171,7 +171,7 @@ Emojis are a reference to common emoticons. In Famedly, emojis are both entertai
 
 :::tip
 
-Use the 🔎 to find the right emojis faster.
+Use the <b>magnifying glass</b> to find the right emojis faster.
 
 :::
 
@@ -187,7 +187,7 @@ Often a message can be replaced by an emoji reaction. You can hover over reactio
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Move the cursor over the message you want to add a reaction to.</li>
-    <li>Click 🙂 the <b>Smiley icon</b> and select an option.</li>
+    <li>Click the <b>Smiley icon</b> and select an option.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
@@ -223,7 +223,7 @@ Mentions allow you to directly notify people about something that requires their
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>While you are writing a message, type the <b>@</b> <b>symbol</b>.</li>
+    <li>While you are writing a message, type the <b>@ symbol</b>.</li>
     <li>Enter a member's name or select a member from the member list. You can repeat this step for each person you want to mention in your message.</li>
     <li>Send your message.</li>
   </ol>

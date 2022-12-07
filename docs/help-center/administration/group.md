@@ -27,7 +27,7 @@ Create a new group within your organization.
   <ol>
     <li>Go to the <b>Groups</b> section.</li>
     <li>Click on <b>+ Create new Group</b>.</li>
-    <li>Type in the group name and click on the <b>paper plane icon</b>.</li>
+    <li>Type in the group name and click on the <b>Paper plane icon</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -90,7 +90,7 @@ Create rooms for messaging.
   <ol>
     <li>Go to the <b>Rooms</b> section.</li>
     <li>Click on <b>＋ Add new room</b>.</li>
-    <li>Type in the name of the room and click on the <b>paper plane icon</b>.</li>
+    <li>Type in the name of the room and click on the <b>Paper plane icon</b>.</li>
     <li>Chat rooms to which all members of a group are mandatorily assigned (e.g. announcements). These rooms cannot be left.</li>
   </ol>
   </TabItem>
