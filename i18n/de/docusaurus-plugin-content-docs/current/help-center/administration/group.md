@@ -27,7 +27,7 @@ Erstellen Sie eine neue Gruppe innerhalb Ihrers Unternehmens.
   <ol>
     <li>Gehen Sie zum Bereich <b>Gruppen</b>.</li>
     <li>Klicken Sie auf <b>+ Neue Gruppe erstellen</b>.</li>
-    <li>Type in the group name and click on the <b>Paper plane icon</b>.</li>
+    <li>Geben Sie den Gruppennamen ein und klicken Sie auf das <b>Papierflugzeugsymbol</b>.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -76,7 +76,7 @@ Sie können Untergruppen erstellen, um die Struktur der Gruppe zu verfeinern.
   <ol>
     <li>Gehen Sie zum Bereich <b>Untergruppen</b>.</li>
     <li>Klicken Sie auf <b>+ Untergruppe hinzufügen</b>.</li>
-    <li>Find the group that you want to add as a sub-group and select <b>Add</b>.</li>
+    <li>Finden Sie die Gruppe, die Sie als Untergruppe hinzufügen möchten und wählen Sie <b>Hinzufügen</b></li>
   </ol>
   </TabItem>
 </Tabs>
@@ -90,7 +90,7 @@ Räume für Nachrichten erstellen.
   <ol>
     <li>Gehen Sie zum Bereich <b>Räume</b>.</li>
     <li>Klicken Sie auf <b>+ Raum hinzufügen</b>.</li>
-    <li>Type in the name of the room and click on the <b>Paper plane icon</b>.</li>
+    <li>Geben Sie den Namen des Raums ein und klicken Sie auf das <b>Papierflugzeugsymbol</b>.</li>
     <li>Chaträume, denen alle Mitglieder einer Gruppe obligatorisch zugeordnet sind (z.B. Ankündigungen). Diese Räume können nicht verlassen werden.</li>
   </ol>
   </TabItem>
@@ -111,16 +111,16 @@ Sie können die von Ihnen erstellten Räume bearbeiten.
   </TabItem>
 </Tabs>
 
-## Delete groups
+## Gruppen löschen
 
-Delete a group that you no longer need.
+Löschen Sie eine Gruppe, die Sie nicht mehr benötigen.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Go to the <b>Groups</b> section.</li>
-    <li>Find the group and select <b>Delete</b> under <b>Actions</b>.</li>
-    <li>Confirm the pop-up-notification.</li>
+    <li>Gehen Sie zum Bereich <b>Gruppen</b>.</li>
+    <li>Finden Sie die Gruppe und wählen Sie <b>Löschen</b> unter <b>Aktionen</b>.</li>
+    <li>Bestätigen Sie die Pop-up-Benachrichtigung.</li>
   </ol>
   </TabItem>
 </Tabs>
