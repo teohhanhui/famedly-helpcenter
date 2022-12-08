@@ -34,7 +34,7 @@ import TabItem from '@theme/TabItem';
     <li>Öffnen Sie den Gruppenchat oder Privatchat, an den Sie eine Nachricht senden möchten.</li>
     <li>Klicken Sie auf das Nachrichtenfeld.</li>
     <li>Geben Sie Ihre Nachricht ein und fügen Sie alle gewünschten Emoji, Erwähnungen oder Formatierungen hinzu.</li>
-    <li>Press <b>Enter</b> or click the <b>Arrow</b> to send it.</li>
+    <li>Drücken Sie <b>Enter</b> oder klicken Sie auf den <b>Pfeil</b>, um diese zu senden.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
@@ -42,7 +42,7 @@ import TabItem from '@theme/TabItem';
     <li>Öffnen Sie den Gruppenchat oder Privatchat, an den Sie eine Nachricht senden möchten.</li>
     <li>Tippen Sie auf das Nachrichtenfeld.</li>
     <li>Geben Sie Ihre Nachricht ein und fügen Sie alle gewünschten Emoji, Erwähnungen oder Formatierungen hinzu.</li>
-    <li>Tap the <b>Arrow</b> to send it.</li>
+    <li>Tippen Sie auf den <b>Pfeil</b>, um sie zu senden.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -102,7 +102,7 @@ Das Löschen einer Nachricht ist permanent, also überlegen Sie es sich vorher g
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Bewegen Sie den Mauszeiger über die Nachricht, die Sie bearbeiten möchten.</li>
-    <li>Click the <b>Bin icon</b>.</li>
+    <li>Klicken Sie auf das <b>Papierkorb-Symbol</b>.</li>
     <li>Klicken Sie auf <b>Ja</b>, um zu bestätigen.</li>
   </ol>
     </TabItem>
@@ -125,9 +125,9 @@ Mit der Antwortfunktion können Sie in Gruppenchat oder Privatchat auf eine best
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Bewegen Sie den Mauszeiger über die Nachricht, die Sie beantworten möchten.</li>
-    <li>Click the <b>Reply icon</b>.</li>
+    <li>Klicken Sie auf das <b>Antwort-Symbol</b>.</li>
     <li>Geben Sie Ihre Antwort in das Textfeld ein.</li>
-    <li>Press <b>Enter</b> or click the <b>Arrow</b> to send reply.</li>
+    <li>Drücken Sie <b>Enter</b> oder klicken Sie auf den <b>Pfeil</b>, um die Antwort zu senden.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
@@ -135,7 +135,7 @@ Mit der Antwortfunktion können Sie in Gruppenchat oder Privatchat auf eine best
     <li>Tippen Sie auf die Nachricht, die Sie beantworten möchten.</li>
     <li>Tippen Sie auf <b>Antwort</b>.</li>
     <li>Geben Sie Ihre Antwort in das Textfeld ein.</li>
-    <li>Tap the <b>Arrow icon</b> to send reply.</li>
+    <li>Klicken Sie auf das <b>Senden Symbol</b>, um die Antwort zu senden.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -149,7 +149,7 @@ Emojis sind eine Anspielung auf häufige Emoticons. In Famedly sind Emojis sowoh
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click the <b>Smiley icon</b> in the message box to open the menu.</li>
+    <li>Klicken Sie auf das <b>Smiley-Symbol</b> im Nachrichtenfeld, um das Menü zu öffnen.</li>
     <li>Benutzen Sie die Symbole im oberen Bereich des Menüs, um die Kategorien zu durchsuchen.</li>
     <li>Klicken Sie auf ein Emoji, um es zu ihrer Nachricht hinzuzufügen.</li>
   </ol>
@@ -157,13 +157,13 @@ Emojis sind eine Anspielung auf häufige Emoticons. In Famedly sind Emojis sowoh
     <TabItem value="ios" label="iOS">
   <ol>
     <li>Tippen Sie auf das Nachrichtenfeld, um ihre Tastatur zu öffnen.</li>
-    <li>Tap the <b>Emoji</b> or <b>Globe</b> button on the keyboard.</li>
+    <li>Tippe auf das <b>Emoji</b> oder den <b>Globus</b> Button auf der Tastatur.</li>
     <li>Klicken Sie auf ein Emoji, um es zu ihrer Nachricht hinzuzufügen.</li>
   </ol>
     </TabItem>
     <TabItem value="android" label="Android">
   <ol>
-    <li>Tap the <b>Smiley icon</b> in the message field to open the menu.</li>
+    <li>Klicken Sie auf das <b>Smiley-Symbol</b> im Nachrichtenfeld, um das Menü zu öffnen.</li>
     <li>Klicken Sie auf ein Emoji, um es zu ihrer Nachricht hinzuzufügen.</li>
   </ol>
   </TabItem>
@@ -171,7 +171,7 @@ Emojis sind eine Anspielung auf häufige Emoticons. In Famedly sind Emojis sowoh
 
 :::tip
 
-Use the <b>magnifying glass</b> to find the right emojis faster.
+Verwenden Sie die <b>Lupe</b> um schneller die richtigen Emojis zu finden.
 
 :::
 
@@ -187,13 +187,13 @@ Oftmals kann eine weitere Nachricht durch eine Emoji-Reaktion ersetzt werden. Si
   <TabItem value="desktop" label="Desktop" default>
   <ol>
     <li>Bewegen Sie den Mauszeiger über die Nachricht, zu der Sie eine Reaktion hinzufügen möchten.</li>
-    <li>Click the <b>Smiley icon</b> and select an option.</li>
+    <li>Klicken Sie auf das <b>Smiley-Symbol</b> und wählen Sie eine Option.</li>
   </ol>
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tippen Sie auf die Nachricht, zu der Sie eine Reaktion hinzufügen möchten.</li>
-    <li>Select a frequently used reaction from the menu, or tap the <b>＋ Plus symbol</b> to search for another one.</li>
+    <li>Wählen Sie eine häufig verwendete Reaktion aus dem Menü aus oder tippen Sie auf das <b>+ Plus Symbol</b>, um nach einer anderen zu suchen.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -223,7 +223,7 @@ Mit Erwähnungen können Sie Personen direkt über etwas benachrichtigen, dass i
     </TabItem>
     <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>While you are writing a message, type the <b>@ symbol</b>.</li>
+    <li>Während Sie eine Nachricht schreiben, geben Sie das <b>@ Symbol</b> ein.</li>
     <li>Geben Sie den Namen eines Mitglieds ein oder wählen Sie ein Mitglied aus der Mitgliederliste. Sie können diesen Schritt für jede Person wiederholen, die Sie in Ihrer Nachricht erwähnen möchten.</li>
     <li>Senden Sie Ihre Nachricht.</li>
   </ol>
