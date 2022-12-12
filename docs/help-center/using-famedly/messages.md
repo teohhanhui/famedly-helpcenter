@@ -8,6 +8,7 @@ sidebar_position: 3
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 <div class="hero hero--primary">
@@ -207,6 +208,8 @@ Simply click or tap on the reaction to remove it from the message again.
 You can only remove your own reactions.
 
 :::
+
+<img alt="Message functions" src={useBaseUrl('/img/message-functions.PNG')} width="200px"/>
 
 ---
 

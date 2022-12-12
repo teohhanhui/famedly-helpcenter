@@ -7,6 +7,7 @@ sidebar_position: 2
 ---
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 
 <div class="hero hero--primary">
@@ -66,3 +67,5 @@ It is always useful to check if the end-to-end encryption is activated properly 
   </ol>
   </TabItem>
 </Tabs>
+
+<img alt="Check encryption" src={useBaseUrl('/img/check-encryption.gif')} width="200px"/>

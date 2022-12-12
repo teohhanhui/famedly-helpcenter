@@ -5,6 +5,9 @@ hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 3
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div class="hero hero--primary">
   <div class="container">
@@ -56,3 +59,7 @@ The login information is on the welcome sheet or was given to you by your admini
 2. Select from which source you want to import the image.
 3. (Optional) Give permission to "Share bug reports and usage data with Famedly".
 4. (Optional) Give permission to be visible for people outside your healtcare organization.
+
+<img alt="First login Web" src={useBaseUrl('/img/first-login-web.gif')} width="200px"/>
+
+<img alt="First login mobile" src={useBaseUrl('/img/first-login-mobile.gif')} width="200px"/>
