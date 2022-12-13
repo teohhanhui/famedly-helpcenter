@@ -209,7 +209,9 @@ You can only remove your own reactions.
 
 :::
 
+<p align="center">
 <img alt="Message functions" src={useBaseUrl('/img/message-functions.PNG')} width="200px"/>
+</p>
 
 ---
 

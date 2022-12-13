@@ -68,4 +68,6 @@ It is always useful to check if the end-to-end encryption is activated properly 
   </TabItem>
 </Tabs>
 
+<p align="center">
 <img alt="Check encryption" src={useBaseUrl('/img/check-encryption.gif')} width="200px"/>
+</p>
