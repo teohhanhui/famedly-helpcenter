@@ -36,7 +36,7 @@ Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, 
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tippen Sie auf <b>Chats</b> am unteren Bildschirmrand.</li>
-    <li>Tap the <b>+ New</b> button at the bottom right of your screen.</li>
+    <li>Tippen Sie auf die <b>+Neu</b> Schaltfläche unten rechts auf Ihrem Bildschirm.</li>
     <li>Tippen Sie <b>Chat starten</b>.</li>
     <li>Tippen Sie <b>Neue Gruppe</b>.</li>
     <li>Geben Sie einen Gruppennamen ein.</li>
@@ -45,10 +45,6 @@ Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, 
   </ol>
   </TabItem>
 </Tabs>
-
-<img src="./static/img/create-groupchat.gif" />
-
-![Create a groupchat](/img/create-groupchat.gif)
 
 :::info
 
@@ -95,12 +91,12 @@ Mit einem Gruppenthema können die Teilnehmer herausfinden, was der Zweck der Gr
 
 ### Gruppenbetreff bearbeiten
 
-Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Administratoren der Gruppe geändert werden. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. However we suggest to keep the subject short. Kann bis zu 250 Zeichen lang sein und kann Emoji enthalten.
+Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Administratoren der Gruppe geändert werden. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨ Wir empfehlen jedoch, den Gruppenbetreff kurz zu halten. Kann bis zu 250 Zeichen lang sein und kann Emoji enthalten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen</li>
     <li>Klicken Sie auf <b>Chat-Name festlegen</b>.</li>
     <li>Geben Sie einen Namen ein.</li>
     <li>Klicken Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
@@ -111,7 +107,7 @@ Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Admini
     <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicken Sie auf ⠇ oben rechts auf dem Bildschirm.</li>
     <li>Tippen Sie <b>Betreff ändern</b>.</li>
-    <li>Enter a subject.</li>
+    <li>Geben Sie einen Betreff ein</li>
     <li>Tippen Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
@@ -119,12 +115,12 @@ Der Gruppenbetreff erscheint in der Kopfzeile der Gruppe und kann von den Admini
 
 ### Gruppenbeschreibung hinzufügen oder bearbeiten
 
-Sowohl auf Ihrem Desktop als auch auf mobilen Geräten können Sie Gruppenbeschreibungen sehen, wenn Sie Gruppendetails ansehen. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden.
+Sowohl auf Ihrem Desktop als auch auf mobilen Geräten können Sie Gruppenbeschreibungen sehen, wenn Sie Gruppendetails ansehen. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. ✨
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicken Sie auf <b>Chatbeschreibung festlegen</b>.</li>
     <li>Geben Sie eine Beschreibung ein.</li>
     <li>Klicken Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
@@ -141,9 +137,6 @@ Sowohl auf Ihrem Desktop als auch auf mobilen Geräten können Sie Gruppenbeschr
   </TabItem>
 </Tabs>
 
-![Edit the groupsubject or description](/img/edit-groupsubject-description.gif)
-
-
 ---
 
 ## Gruppenbild festlegen oder ändern
@@ -155,7 +148,7 @@ Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicken Sie auf <b>+</b> neben den Initialen der Gruppe.</li>
     <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
     <li>Klicken Sie auf <b>Öffnen</b>.</li>
@@ -176,8 +169,8 @@ Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on <b>✎</b> next to the group picture.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf ✎ neben dem Gruppenbild.</li>
     <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
     <li>Klicken Sie auf <b>Öffnen</b>.</li>
   </ol>
@@ -185,7 +178,7 @@ Das Gruppenbild erscheint in der Chatliste und hilft Personen besser von Gruppen
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
-    <li>Tap on <b>✎</b> next to the group picture.</li>
+    <li>Tippe auf ✎ neben dem Gruppenbild.</li>
     <li>Wählen Sie ein Bild aus Ihrem Dateisystem.</li>
     <li>Klicken Sie auf <b>Öffnen</b>.</li>
   </ol>
@@ -201,7 +194,7 @@ Gruppen sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Theme
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicken Sie auf <b>Mitglieder</b>.</li>
     <li>Klicken Sie auf <b>+</b> in der oberen rechten Ecke.</li>
     <li>Klicken Sie auf die Person, die Sie hinzufügen möchten.</li>
@@ -226,7 +219,7 @@ Wenn Sie eine Person aus einer Gruppe entfernen, kann diese Person nicht mehr an
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicke auf <b>Speichern</b>.</li>
     <li>Klicken Sie auf <b>Benutzer entfernen</b>.</li>
   </ol>
@@ -256,7 +249,7 @@ Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. G
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicken Sie auf <b>Gruppe verlassen</b>.</li>
     <li>Klicken Sie auf <b>Beenden</b>.</li>
   </ol>
@@ -265,7 +258,7 @@ Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. G
   <ol>
     <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Tippen Sie auf <b>Chat verlassen</b> am unteren Ende der Seite.</li>
-    <li>Select <b>Yes</b>.</li>
+    <li>Wählen Sie <b>Ja</b></li>
   </ol>
   </TabItem>
 </Tabs>
@@ -290,14 +283,14 @@ Es ist momentan nicht möglich, eine Gruppe für alle Mitglieder als Administrat
 
 :::note
 
-Loading the archive may take some time.
+Das Laden des Archivs kann einige Zeit in Anspruch nehmen.
 
 :::
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on your <b>Profile Picture or Name Initials</b> to the right of the filter field to open the settings.</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
     <li>Klicken Sie auf <b>Archiv</b>.</li>
     <li>Klicken Sie auf ☑ oben rechts auf dem Bildschirm.</li>
     <li>Wählen Sie eine oder mehrere Gruppen aus, die Sie löschen möchten.</li>
@@ -307,10 +300,10 @@ Loading the archive may take some time.
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap your <b>Profile Picture or Name Initials</b> at the top right of the screen to open the settings.</li>
+    <li>Tippen Sie rechts neben dem Filterfeld auf Ihr <b>Profilbild oder Namens Initialen</b> um die Einstellungen zu öffnen.</li>
     <li>Tippen Sie <b>Archiv</b>.</li>
     <li>Tippen Sie <b>Archiv leeren</b>.</li>
-    <li>Tap <b>Delete</b> to remove all Private Messages & Groups.</li>
+    <li>Tippen Sie <b>Löschen</b> um alle privaten Chats & Gruppen zu entfernen.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -324,7 +317,7 @@ Es ist möglich, Benachrichtigungen für Gruppenchats stumm zu schalten. Dies ka
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Tippen Sie auf 🔔, um die Gruppe stumm zu schalten.</li>
   </ol>
   </TabItem>
@@ -367,7 +360,7 @@ Gruppen können so eingestellt werden, dass nur Administratoren Nachrichten send
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click <b>ℹ</b> in the top right corner of a group's screen to open the group details.</li>
+    <li>Klicken Sie auf ℹ in der rechten oberen Ecke des Bildschirms einer Gruppe, um die Gruppendetails zu öffnen.</li>
     <li>Klicken Sie auf <b>Mitglieder</b>.</li>
     <li>Klicken Sie auf <b>Zum Administrator ernennen</b>.</li>
   </ol>
