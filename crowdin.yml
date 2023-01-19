@@ -1,3 +1,6 @@
+project_id: '543342'
+api_token_env: $CROWDIN_PERSONAL_TOKEN
+preserve_hierarchy: true
 files:
   - source: /docs/**/*
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
