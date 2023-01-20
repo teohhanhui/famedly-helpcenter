@@ -2,7 +2,7 @@ include:
   - project: 'dependabot-gitlab/dependabot-standalone'
     file: '.gitlab-ci.yml'
 
-image: node:16.19.0
+image: node:latest
 
 stages:
   - dependabot
