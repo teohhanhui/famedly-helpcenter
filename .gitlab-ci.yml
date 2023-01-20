@@ -8,7 +8,6 @@ stages:
   - dependabot
   - deploy
 
-
 # allow caching for faster deployment
 cache:
   paths:
