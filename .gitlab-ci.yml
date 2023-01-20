@@ -2,12 +2,11 @@ include:
   - project: 'dependabot-gitlab/dependabot-standalone'
     file: '.gitlab-ci.yml'
 
-image: node:latest
+image: node:16.19.0
 
 stages:
   - dependabot
   - deploy
-
 
 # allow caching for faster deployment
 cache:
