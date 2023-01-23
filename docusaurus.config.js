@@ -120,7 +120,7 @@ const config = {
     }),
 
     i18n: {
-      defaultLocale: 'de',
+      defaultLocale: 'en',
       locales: ['en', 'de'],
       localeConfigs: {
         en: {
