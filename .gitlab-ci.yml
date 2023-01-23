@@ -19,6 +19,8 @@ pages:
   stage: deploy
   script:
     - npm install
+    - npm run write-translations
+    - npm run write-translations -- --locale de
     - npm run crowdin:sync
     - npm run build:gitlab
   artifacts:
