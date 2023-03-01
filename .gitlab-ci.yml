@@ -21,7 +21,7 @@ pages:
     - npm install
     #- npm run crowdin:sync
     - npm run build
-    - mv ./build ../public
+    - mv .build public
   artifacts:
     paths:
     - public
