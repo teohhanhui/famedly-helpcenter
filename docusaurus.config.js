@@ -26,7 +26,7 @@ const config = {
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
             let items = await defaultSidebarItemsGenerator(args);
-            items = items.filter((e) => !(e.type === 'doc' && e.id.endsWith('folder')));
+            items = items.filter((e) => !(e.type === 'doc' && e.id.endsWith('index')));
             return items;
           },
         },
@@ -56,13 +56,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'help-center/first-steps/folder',
+            docId: 'help-center/first-steps/index',
             position: 'left',
             label: 'Help Center',
           },
           {
             type: 'doc',
-            docId: 'api/folder',
+            docId: 'api/index',
             position: 'left',
             label: 'API',
           },
