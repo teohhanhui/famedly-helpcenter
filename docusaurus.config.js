@@ -26,7 +26,7 @@ const config = {
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
             let items = await defaultSidebarItemsGenerator(args);
-            items = items.filter((e) => !(e.type === 'doc' && e.id.endsWith('index')));
+            items = items.filter((e) => !(e.type === 'doc' && e.id.endsWith('_index_')));
             return items;
           },
         },
