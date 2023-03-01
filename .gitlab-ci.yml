@@ -12,7 +12,7 @@ stages:
 cache:
   paths:
     - node_modules/
-    - public/
+    #- public/
     - .cache/
 
 pages:
