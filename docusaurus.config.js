@@ -22,7 +22,14 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://gitlab.com/famedly/company/helpcenter/-/tree/main',
+          editUrl: ({locale, versionDocsDirPath, docPath}) => {
+            // Link to Crowdin for German docs
+            if (locale !== DefaultLocale) {
+              return `https://crowdin.com/project/famedly-helpcenter/${locale}`;
+            }
+            // Link to GitHub for English docs
+            return 'https://gitlab.com/famedly/company/helpcenter/-/tree/main';
+          },
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
             let items = await defaultSidebarItemsGenerator(args);
