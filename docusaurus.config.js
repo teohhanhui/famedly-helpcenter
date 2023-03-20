@@ -4,23 +4,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const defaultLocale = 'en';
-
-function getLocalizedConfigValue(/** @type {string} */ key) {
-  const currentLocale = process.env.DOCUSAURUS_CURRENT_LOCALE ?? defaultLocale;
-  const values = ConfigLocalized[key];
-  if (!values) {
-    throw new Error(`Localized config key=${key} not found`);
-  }
-  const value = values[currentLocale] ?? values[defaultLocale];
-  if (!value) {
-    throw new Error(
-      `Localized value for config key=${key} not found for both currentLocale=${currentLocale} or defaultLocale=${defaultLocale}`,
-    );
-  }
-  return value;
-}
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Famedly Help Center',
@@ -42,7 +25,7 @@ const config = {
           editUrl: ({locale, versionDocsDirPath, docPath}) => {
             // Link to Crowdin for German docs
             if (locale !== DefaultLocale) {
-              return 'https://crowdin.com/project/famedly-helpcenter/${locale}';
+              return 'https://crowdin.com/project/famedly-helpcenter/de';
             }
             // Link to GitHub for English docs
             return 'https://gitlab.com/famedly/company/helpcenter/-/tree/main';
