@@ -8,7 +8,7 @@ const DefaultLocale = 'en';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Famedly Help Center',
-  tagline: 'We are here to make youe work easier',
+  tagline: 'We are here to make your work easier',
   url: 'https://docs.famedly.com',
   baseUrl: '/company/helpcenter/',
   onBrokenLinks: 'throw',
@@ -124,6 +124,16 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        appId: 'PASQKGULKP',
+        apiKey: '2a242c6732a15fa20f66651cfb9d0435',
+        indexName: 'famedly',
+        contextualSearch: true,
+        replaceSearchResultPathname: {
+          from: '/docs/', // or as RegExp: /\/docs\//
+          to: '/',
+        },
       },
     }),
 
