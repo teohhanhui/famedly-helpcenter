@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const defaultLocale = 'en';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Famedly Help Center',
@@ -25,7 +27,7 @@ const config = {
           editUrl: ({locale, versionDocsDirPath, docPath}) => {
             // Link to Crowdin for German docs
             if (locale !== DefaultLocale) {
-              return 'https://crowdin.com/project/famedly-helpcenter/de';
+              return 'https://crowdin.com/project/famedly-helpcenter';
             }
             // Link to GitHub for English docs
             return 'https://gitlab.com/famedly/company/helpcenter/-/tree/main';
