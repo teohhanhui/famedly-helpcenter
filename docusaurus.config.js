@@ -126,9 +126,10 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        appId: 'PASQKGULKP',
-        apiKey: '2a242c6732a15fa20f66651cfb9d0435',
-        indexName: 'famedly',
+        appId: 'FFJ2EFU29K',
+        apiKey: '9190656e6d77ef676a3f4e582fe172db',
+        indexName: 'famedly-gitlab',
+        container: 'div#',
         contextualSearch: true,
         replaceSearchResultPathname: {
           from: '/docs/', // or as RegExp: /\/docs\//
