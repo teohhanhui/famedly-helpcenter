@@ -3,8 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
-const defaultLocale = 'en';
+const DefaultLocale = 'en';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
