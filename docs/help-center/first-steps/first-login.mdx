@@ -3,7 +3,7 @@ sidebar_label: First login
 title: First login
 hide_title: true
 displayed_sidebar: helpcenterSidebar
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 import Tabs from '@theme/Tabs';
@@ -38,9 +38,44 @@ Using Famedly alone in the web browser is not recommended, as only a manual chat
 
 Install the Famedly app on your smartphone. Enter the URL and your credentials to log in there. Then perform the verification between the two devices.
 
+<div class="row">
+  <div class="column">
+    <img alt="Emoji verification desktop" src={useBaseUrl('img/emoji_verification_desktop.png')} width="50%"/>
+  </div>
+  <div class="column">
+    <img alt="Emoji verification mobile" src={useBaseUrl('img/emoji_verification.PNG.png')} width="50%"/>
+  </div>
+</div>
+
 ### Option 2
 
 Can't or don't want to use a mobile device? Activate your chat backup and keep the passphrase safe! You will need it when you log in again to access your old messages.
+
+<img alt="Passphrase" src={useBaseUrl('img/passphrase.PNG.png')} width="50%"/>
+
+:::info
+
+**How can I create a passphrase?**
+
+If you have not yet created a chat backup and have not yet received a passphrase you can set one up the first time you log in to the web browser.
+
+**When do I need the passphrase?**
+
+You only need the passphrase if you are logged out on all devices and the verification between two devices is therefore not possible. In this case the passphrase must be entered so that all old messages are decrypted after login.
+
+**What happens if I have lost the passphrase and am logged out on all devices? on all devices?**
+
+If you have not kept your passphrase or can no longer find it, and you are also are logged out on all devices, you can only reset your account. Your contacts and groups remain, but previous message content can no longer be decrypted. 
+
+:::
+
+:::caution
+
+With the passphrase, you have access to all your encrypted data and previous chat histories. You need this passphrase to recover your chat history if you have been
+logged out on all devices.
+The passphrase cannot be recovered if lost!
+
+:::
 
 ### Option 3
 
@@ -53,4 +88,4 @@ Using Famedly on the web browser alone without a manual chat backup is not recom
 2. Enter the <b>login URL</b> and log in with your <b>username</b> and <b>password</b>.
 3. If you log out without having activated your chat backup via the settings first <b>or</b> if you are still logged in on another device, please activate it before logging out. Otherwise you would irrevocably lose your old messages!
 
----
+<img alt="Passphrase" src={useBaseUrl('img/settings_overview_1.PNG.png')} width="50%"/>
