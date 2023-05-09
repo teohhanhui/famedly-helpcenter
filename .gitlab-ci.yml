@@ -19,7 +19,7 @@ pages:
   stage: deploy
   script:
     - npm install
-    - npm run crowdin:sync
+    #- npm run crowdin:sync
     - npm run build
     - mv build public
   artifacts:
