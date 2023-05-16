@@ -1,6 +1,6 @@
 ---
-sidebar_label: Group Chat
-title: Group Chat
+sidebar_label: Chats
+title: Chats
 hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
@@ -13,67 +13,95 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Group Chat</h2>
-    <p class="hero__subtitle">What is a Group Chat?</p>
-    <p>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work. As Famedly relies on the Matrix Communication protocol it is posible to add people to Group Chats which uses Matrix Clients from other vendors.</p>
+    <h2 class="hero__title">Chats</h2>
+    <p class="hero__subtitle">What is a chat?</p>
+    <p>
+    Famedly offers chat functionality for organizing conversations among multiple people. It helps create order and clarity in work by allowing topic-based chats or chats dedicated to teams. Chat enables better organization, task distribution, quicker decision-making, and progress in work. Famedly's compatibility with the Matrix Communication protocol allows adding people using Matrix Clients from different vendors to chats. 
+    </p>
   </div>
 </div>
 
-## Create a group chat
+## Start direct chat
 
-Group chats are the best way to keep conversations about various projects, topics or teams organised in Famedly. There’s no limit to how many group chats you can have in Famedly – go ahead, create as many as you like! To create a group chat, follow the steps below or see how it works.
+Direct chats in Famedly are equipped with robust end-to-end encryption, ensuring that only the participants within the chat room can decrypt and access the messages exchanged. This heightened security measure provides a secure environment for confidential conversations.
+
+To initiate a direct chat with other individuals in Famedly, follow these steps:
     
 <Tabs>
-  <TabItem value="desktop" label="Desktop" default>
+  <TabItem value="web" label="Web" default>
   <ol>
-    <li>Click on the <b>+ Button</b> in the top left corner.</li>
-    <li>Click on <b>New Group</b>.</li>
-    <li>Enter a group chat name.</li>
-    <li>Add members to the group chat.</li>
-    <li>Click <b>Create Group</b> to complete the process.</li>
+    <li>Make sure you are in the "Chats" section.</li>
+    <li>Click on the <b>+ Button</b> next to the filter in the top left area of your screen.</li>
+    <li>Select or search the person you want to invite to the chat.</li>
+    <li>Click <b>Start Chat</b> to start a chat.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap <b>Chats</b> at the bottom of the screen.</li>
-    <li>Tap the <b>+ Button</b>.</li>
-    <li>Tap <b>New Group</b>.</li>
-    <li>Enter a group chat name and optionally a group chat description.</li>
-    <li>Add members to the group chat.</li>
-    <li>Tap the <b>Hook icon</b> in the top right corner to create the group.</li>
+    <li>Make sure you are in the "Chats" section.</li>
+    <li>Tap <b>+ Button</b> in the top right area of the screen.</li>
+    <li>Select or search the person you want to invite to the chat.</li>
+    <li>Tap the <b>Start Chat</b> to start a chat.</li>
   </ol>
   </TabItem>
 </Tabs>
-
-:::info
-
-You can also create a group chat without members and use it as a secure notepad.
-
-:::
 
 <img alt="Create Groupchat" src={useBaseUrl('/img/chat_overview.PNG.png')} width="40%"/>
 <img alt="Create Groupchat" src={useBaseUrl('/img/new_chat_private.PNG.png')} width="40%"/>
 
 ---
 
-## Join group chat
+## Start group chat
 
-To join a group chat, you must be added to it by a member of that group chats.
+<Tabs>
+  <TabItem value="web" label="Web" default>
+  <ol>
+    <li>Make sure you are in the "Chats" section.</li>
+    <li>Click on the <b>+ Button</b> next to the filter in the top left area of your screen.</li>
+    <li>Click on <b>New Group</b> in the top right corner.</li>
+    <li>Name the group accordingly.</li>
+    <li>Select or search the person you want to invite to the group chat.</li>
+    <li>Click <b>Create</b> to create a group chat.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Make sure you are in the "Chats" section.</li>
+    <li>Tap <b>+ Button</b> in the top right area of the screen.</li>
+    <li>Tap on <b>New Group</b> in the top right corner.</li>
+    <li>Name the group accordingly.</li>
+    <li>Select or search the person you want to invite to the group chat.</li>
+    <li>Tap the <b>Create</b> to create a group chat.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+:::info
+
+Expert tip: Looking for a end-to-end encrypted notepad? Just create a group chat only with yourself, name it "notepad" and you have a secure place to store files and text.
+
+:::
+
+---
+
+## Join chat
+
+To join a chat, you must be invited by a member of that chat.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>You can only join a group chat if you have received an invitation.</li>
+    <li>You can only join a chat if you have received an invitation.</li>
     <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the group chat you have been invited to.</li>
+    <li>Click on the chat you have been invited to.</li>
     <li>Accept the invitation.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
     <ol>
-    <li>You can only join a group chat if you have received an invitation.</li>
+    <li>You can only join a chat if you have received an invitation.</li>
     <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the group chat you have been invited to.</li>
+    <li>Click on the chat you have been invited to.</li>
     <li>Accept the invitation.</li>
   </ol>
   </TabItem>
@@ -87,9 +115,102 @@ If you decline the invitation, you will have to ask the inviting person again to
 
 ---
 
-## Set a group subject or description
+## Mute chat
 
-With a group name, people can find out what the purpose of the group is. With the group description, members can get more information and important general information can be shared. Only administrators of a group can edit the subject or description.
+It is possible to mute notifications for chats. This can be helpful if many members communicate in a group and you do not necessarily want to be informed about new messages.
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Click on the <b>three dots</b> in the top right corner inside the chat you want to mute.</li>
+    <li>Click on the <b>Mute chat</b> to mute the chat.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Tap on the <b>three dots</b> in the top right corner inside the chat you want to mute.</li>
+    <li>Tap the <b>Mute chat</b> to mute the chat.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+:::tip
+
+You can unmute the chat again, by following the same steps and selecting <b>Unmute chat</b>.
+
+:::
+
+---
+
+## Leave chat
+
+You can leave chat rooms at any time and thus end the conversation. If you left a chat, the history of the chat is still available in the archive.
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Click on the <b>three dots</b> in the top right corner of a chat's screen.</li>
+    <li>Click on <b>Leave chat</b>.</li>
+    <li>Click <b>Leave chat</b>.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Tap the <b>three dots</b> in the top right corner of a chat's screen.</li>
+    <li>Tap <b>Leave chat</b>.</li>
+    <li>Tap <b>Leave chat</b>.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+:::note
+
+The chat has been archived for you. You can find the archive in the settings and thus read older content.
+
+:::
+
+---
+
+## Delete left chats
+
+To save disk space on your device, you can clear the archive and delete all archived chats. To be able to delete a chat on the device, you must first leave it.
+
+:::note
+
+It is currently not possible to delete a chat for all members as an administrator.
+
+:::
+
+:::note
+
+Loading the archive may take some time.
+
+:::
+
+<Tabs>
+  <TabItem value="desktop" label="Desktop" default>
+  <ol>
+    <li>Click on your <b>Profile Picture</b> or <b>Name Initials</b> in the top left corner of the screen to open the settings.</li>
+    <li>Click on <b>Archive</b>.</li>
+    <li>Click the <b>three dots</b> in the top right corner of the screen.</li>
+    <li>Click <b>Clear archive</b>.</li>
+    <li>Click <b>Delete</b></li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Tap on your <b>Profile Picture</b> or <b>Name Initials</b> in the top left corner of the screen to open the settings.</li>
+    <li>Tap on <b>Archive</b>.</li>
+    <li>Tap the <b>three dots</b> in the top right corner of the screen.</li>
+    <li>Tap <b>Clear archive</b>.</li>
+    <li>Tap <b>Delete</b></li>
+  </ol>
+  </TabItem>
+</Tabs>
+
+---
+
+## Group chat settings
 
 ### Edit a group name
 
@@ -116,6 +237,8 @@ The room name appears in the group header, and admins of the group can modify it
 </Tabs>
 
 <img alt="Edit group name" src={useBaseUrl('/img/chatroom_group_details_editname.PNG.png')} width="40%"/>
+
+---
 
 ### Add or edit a group description
 
@@ -144,10 +267,6 @@ From both your desktop and mobile devices, you can see group descriptions when v
 <img alt="Edit group name" src={useBaseUrl('/img/chatroom_group_details_description.PNG.png')} width="40%"/>
 
 ---
-
-## Set or change group picture
-
-The group picture appears in the chat list and helps people to identify groups.
 
 ### Set group picture
 
@@ -193,7 +312,7 @@ The group picture appears in the chat list and helps people to identify groups.
 
 ---
 
-## Add people to a group
+### Add people to a group
 
 Groups are the best way to keep conversations about various projects, topics or teams organised in Famedly. Add people to groups to bring the right people and information together in one place. You can add an unlimited number of people to a group. The larger the groups become, the more confusing the collaboration can become. We therefore recommend consciously considering which people are added.
    
@@ -218,7 +337,7 @@ Groups are the best way to keep conversations about various projects, topics or
 
 ---
 
-## Remove people from a group
+### Remove people from a group
 
 Famedly organises conversations between several people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to encourage collaboration. If a person no longer needs to be part of a group, the person can be removed. Administrators of a group can remove people from the group.
 
@@ -250,104 +369,7 @@ You cannot remove the person if they are also an administrator. In this case, yo
 
 :::
 
----
-
-## Leave a group
-
-Famedly organises conversations between multiple people in groups. Groups provide order and clarity for work. Create topic-based groups or groups for teams to promote collaboration. If a group is no longer relevant, you can leave it at any time.
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
-    <li>Click on the <b>three dots</b> in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on Leave <b>Group</b>.</li>
-    <li>Click <b>Exit</b>.</li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap <b>Exit Chat</b> at the bottom of the page.</li>
-    <li>Select <b>Yes</b>.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
-:::note
-
-The group has been archived for you. You can find the archive in the settings and thus read older content.
-
-:::
-
----
-
-## Delete a group
-
-To save disk space on your device, you can delete archived groups. To be able to delete a group on the device, you must first leave it.
-
-:::note
-
-It is currently not possible to delete a group for all members as an administrator.
-
-:::
-
-:::note
-
-Loading the archive may take some time.
-
-:::
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
-    <li>Click on your <b>Profile Picture or Name Initials</b> to the right of the filter field to open the settings.</li>
-    <li>Click on <b>Archive</b>.</li>
-    <li>Click the <b>Hook icon</b> in the top right corner of the screen.</li>
-    <li>Select one or more groups you want to delete.</li>
-    <li>Click the <b>Bin icon</b>.</li>
-    <li>Click <b>Yes.</b></li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>Tap your <b>Profile Picture or Name Initials</b> at the top right of the screen to open the settings.</li>
-    <li>Tap <b>Archive</b>.</li>
-    <li>Tap <b>Empty archive</b>.</li>
-    <li>Tap <b>Delete</b> to remove all Private Messages & Groups.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
----
-
-## Mute a group
-
-It is possible to mute notifications for groups. This can be helpful if many members communicate in a group and you do not necessarily want to be informed about new messages.
-
-<Tabs>
-  <TabItem value="desktop" label="Desktop" default>
-  <ol>
-    <li>Click on the <b>three dots</b> in the top right corner of a group's screen to open the group details.</li>
-    <li>Click on the <b>Bell icon</b> to mute the group.</li>
-  </ol>
-  </TabItem>
-  <TabItem value="mobile" label="Mobile">
-  <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap the <b>Bell icon</b> to mute the group.</li>
-  </ol>
-  </TabItem>
-</Tabs>
-
-:::tip
-
-You can unmute the group again, by following the same steps and clicking the crossed out <b>Bell icon</b>.
-
-:::
-
----
-
-## Restrict messaging to group admins
+### Restrict messaging to group admins
 
 Groups can be set so that only administrators can send messages. This can be particularly useful for groups with many people in which announcements are to be shared. In this case, only admins of a group can send announcements.
     
@@ -367,7 +389,7 @@ Groups can be set so that only administrators can send messages. This can be par
 
 ---
 
-## Promote members to group admin
+### Promote members to group admin
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
@@ -395,11 +417,14 @@ You cannot devote other admins of a group.
 
 ---
 
-## Group chat tips and best practices
+## External label
+
+To ensure that no information is unintentionally shared with outside organisations, we have introduced an "external" label. If you invite people to chat rooms, or if chat rooms with external people already exist, they will be marked with the "External" label accordingly.
+
+---
+
+## Chat tips and best practices
 
 - Make sure that the group chats you create or maintain have a clear topic and description so that people understand what they’re used for.
 - Make your group chats unique by setting up a profile picture for your group chat
 - Archive group chats when they’re no longer needed.
-
-Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work.
-
