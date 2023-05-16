@@ -1,6 +1,6 @@
 ---
-sidebar_label: Group Chat
-title: Group Chat
+sidebar_label: Gruppenchat
+title: Gruppenchat
 hide_title: true
 displayed_sidebar: helpcenterSidebar
 sidebar_position: 1
@@ -12,21 +12,22 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Group Chat</h2>
-    <p class="hero__subtitle">What is a Group Chat?</p>
-    <p>Famedly organises conversations between multiple people in group chats. Group chats provide order and clarity for work. Create topic-based group chats or group chats for teams to promote collaboration - group chats help you to better organise the daily work routine, distribute tasks, make decisions faster and thus advance the work. As Famedly relies on the Matrix Communication protocol it is posible to add people to Group Chats which uses Matrix Clients from other vendors.</p>
+    <h2 class="hero__title">Gruppenchat</h2>
+    <p class="hero__subtitle">Was ist ein Gruppenchat?</p>
+    <p>Famedly organisiert Unterhaltungen zwischen mehreren Personen in Gruppenchats. Gruppenchats sorgen für Ordnung und Übersichtlichkeit bei der Arbeit. Erstellen Sie themenbasierte Gruppenchats oder Gruppenchats für Teams, um die Zusammenarbeit zu fördern - Gruppenchats helfen Ihnen den Arbeitsalltag besser zu organisieren, Aufgaben zu verteilen, Entscheidungen schneller zu treffen und somit die Arbeit voranzutreiben. Da Famedly sich auf das Matrix-Kommunikationsprotokoll stützt, kann man Personen zu Gruppenchats hinzufügen, die Matrix-Clients von anderen Anbietern verwenden.</p>
   </div>
 </div>
 
-## Create a group chat
+## Gruppenchat erstellen
 
-Group chats are the best way to keep conversations about various projects, topics or teams organised in Famedly. There’s no limit to how many group chats you can have in Famedly – go ahead, create as many as you like! To create a group chat, follow the steps below or see how it works.
+Gruppenchats sind der beste Weg, um Unterhaltungen über verschiedene Projekte, Themen oder Teams in Famedly zu organisieren. Es gibt keine Begrenzung, wie viele Gruppenchats Sie in Famedly haben können - erstellen Sie so viele, wie Sie möchten! Um einen Gruppenchat zu erstellen, folgen Sie den unten stehenden Schritten.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on the <b>+ Button</b> in the top left corner.</li>
-    <li>Click on <b>New Group</b>.</li>
+    <li>Click on the Start Chat button in the top left corner.</li>
+    <li>Click on <b>Start Chat</b>.</li>
+    <li>Click on <b>New Group</b>.</li>
     <li>Enter a group chat name.</li>
     <li>Add members to the group chat.</li>
     <li>Click <b>Create Group</b> to complete the process.</li>
@@ -35,9 +36,10 @@ Group chats are the best way to keep conversations about various projects, topi
   <TabItem value="mobile" label="Mobile">
   <ol>
     <li>Tap <b>Chats</b> at the bottom of the screen.</li>
-    <li>Tap the <b>+ Button</b>.</li>
+    <li>Tap the <b>+ New</b> button at the bottom right of your screen.</li>
+    <li>Tap <b>Start Chat</b>.</li>
     <li>Tap <b>New Group</b>.</li>
-    <li>Enter a group chat name and optionally a group chat description.</li>
+    <li>Enter a group chat subject.</li>
     <li>Add members to the group chat.</li>
     <li>Tap the <b>Hook icon</b> in the top right corner to create the group.</li>
   </ol>
@@ -50,66 +52,67 @@ You can also create a group chat without members and use it as a secure notepad.
 
 :::
 
-<img alt="Create Groupchat" src={useBaseUrl('/img/chat_overview.PNG.png')} width="40%"/>
-<img alt="Create Groupchat" src={useBaseUrl('/img/new_chat_private.PNG.png')} width="40%"/>
+<p align="center">
+<img alt="Create Groupchat" src={useBaseUrl('/img/create-groupchat.gif')} width="200px"/>
+</p>
 
 * * *
 
-## Join group chat
+## Gruppenchat beitreten
 
-To join a group chat, you must be added to it by a member of that group chats.
+Um einem Gruppenchat beizutreten, müssen Sie von einem Mitglied dieses Gruppenchats hinzugefügt werden.
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>You can only join a group chat if you have received an invitation.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the group chat you have been invited to.</li>
-    <li>Accept the invitation.</li>
+    <li>Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.</li>
+    <li>Alle Einladungen befinden sich am oberen Ende der Chats Liste.</li>
+    <li>Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.</li>
+    <li>Akzeptieren Sie die Einladung.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
     <ol>
-    <li>You can only join a group chat if you have received an invitation.</li>
-    <li>All invitations can be found at the top of the chats list.</li>
-    <li>Click on the group chat you have been invited to.</li>
-    <li>Accept the invitation.</li>
+    <li>Sie können einem Gruppenchat nur beitreten, wenn Sie eine Einladung erhalten haben.</li>
+    <li>Alle Einladungen befinden sich am oberen Ende der Chats Liste.</li>
+    <li>Klicken Sie auf den Gruppenchat zu dem Sie eingeladen wurden.</li>
+    <li>Akzeptieren Sie die Einladung.</li>
   </ol>
   </TabItem>
 </Tabs>
 
 :::danger
 
-If you decline the invitation, you will have to ask the inviting person again to invite you again.
+Sollten Sie die Einladung ablehnen, müssen Sie die einladenden Person bitten, Sie erneut einzuladen.
 
 :::
 
 * * *
 
-## Set a group subject or description
+## Gruppenbetreff oder Beschreibung festlegen
 
-With a group name, people can find out what the purpose of the group is. With the group description, members can get more information and important general information can be shared. Only administrators of a group can edit the subject or description.
+With a group subject, people can find out what the purpose of the group is. Mit der Gruppenbeschreibung können Mitglieder mehr Informationen erhalten und wichtige allgemeine Informationen weitergegeben werden. Nur Administratoren einer Gruppe können den Betreff oder die Beschreibung bearbeiten.
 
-### Edit a group name
+### Edit a group subject
 
-The room name appears in the group header, and admins of the group can modify it. There is no limitation in the subject length and it can include emoji. However we suggest to keep the subject short. Can be up to 250 characters in length and can include emoji. 
+The room subject appears in the group header, and admins of the group can modify it. Es gibt keine Beschränkung der Zeichenlänge und es können Emoji verwendet werden. Wir empfehlen jedoch, den Gruppenbetreff kurz zu halten. Kann bis zu 250 Zeichen lang sein und kann Emoji enthalten. 
 
 <Tabs>
   <TabItem value="desktop" label="Desktop" default>
   <ol>
-    <li>Click on the <b>three dots</b> in the top right corner of a group's screen to open the group details</li>
-    <li>Click on <b>Set Chat Name</b>.</li>
-    <li>Enter a name.</li>
-    <li>Click <b>Done</b> to finish the process.</li>
+    <li>Klicken Sie auf <b>ℹ</b> in der rechten oberen Ecke des Bildschirms eines Privatchats, um die Details zu öffnen</li>
+    <li>Klicken Sie auf <b>Chat-Name festlegen</b>.</li>
+    <li>Geben Sie einen Namen ein.</li>
+    <li>Klicken Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
   <TabItem value="mobile" label="Mobile">
   <ol>
-    <li>Tap the header of a group to open the group details.</li>
-    <li>Tap ⠇ in the top right corner of the screen.</li>
-    <li>Tap <b>Change subject</b>.</li>
-    <li>Enter a subject.</li>
-    <li>Tap <b>Done</b> to finish the process.</li>
+    <li>Tippen Sie auf die Kopfzeile einer Gruppe, um die Gruppendetails zu öffnen.</li>
+    <li>Klicken Sie auf ⠇ oben rechts auf dem Bildschirm.</li>
+    <li>Tippen Sie <b>Betreff ändern</b>.</li>
+    <li>Geben Sie einen Betreff ein.</li>
+    <li>Tippen Sie auf <b>Fertig</b> um den Prozess abzuschließen.</li>
   </ol>
   </TabItem>
 </Tabs>
@@ -140,7 +143,9 @@ From both your desktop and mobile devices, you can see group descriptions when v
   </TabItem>
 </Tabs>
 
-<img alt="Edit group name" src={useBaseUrl('/img/chatroom_group_details_description.PNG.png')} width="40%"/>
+<p align="center">
+<img alt="Edit the group subject or description" src={useBaseUrl('/img/edit-groupsubject-description.gif')} width="200px"/>
+</p>
 
 * * *
 
@@ -213,7 +218,9 @@ Groups are the best way to keep conversations about various projects, topics or
   </TabItem>
 </Tabs>
 
-<img alt="Add group members" src={useBaseUrl('/img/chatroom_group_details_addmembers.PNG.png')} width="40%"/>
+<p align="center">
+<img alt="Remove People from a group" src={useBaseUrl('/img/remove-members-group.gif')} width="200px"/>
+</p>
 
 * * *
 
@@ -362,7 +369,9 @@ Groups can be set so that only administrators can send messages. This can be par
   </TabItem>
 </Tabs>
 
-<img alt="Restrict messaging to group admins" src={useBaseUrl('/img/chatroom_group_details_admin.PNG.png')} width="40%"/>
+<p align="center">
+<img alt="Restrict messaging to group admins" src={useBaseUrl('/img/restrict-messaging.jpg')} width="200px"/>
+</p>
 
 * * *
 
