@@ -12,9 +12,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 <div class="hero hero--primary">
   <div class="container">
-    <h2 class="hero__title">Erste Anmeldung</h2>
-    <p class="hero__subtitle">Folgen Sie den untenstehenden Schritten, um sich das erste Mal bei Famedly anzumelden.</p>
-    <p>Nach dem ersten Einloggen müssen Sie sich nicht jedes Mal neu anmelden, wenn Sie Famedly nutzen möchten.</p>
+    <h2 class="hero__title">First login</h2>
+    <p class="hero__subtitle">Follow the steps below to login to Famedly the first time.</p>
   </div>
 </div>
 
@@ -22,62 +21,73 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 Benutzerkonten werden immer durch Ihre Organisation vergeben. Der Arbeitgeber wird Ihnen ein Willkommensblatt zur Verfügung stellen, das Ihnen einen schnellen und einfachen Zugang zu Famedly ermöglicht.
 
-## Web
+### Login
 
-1.  Rufen Sie die Organisations-URL in Ihrem gewünschten Browser auf.
-2.  Geben Sie die Anmelde-URL ein und melden Sie sich mit Ihrem **Benutzernamen** und **Passwort** an.
+<Tabs groupId="operating-systems">
+  <TabItem value="web" label="Web">
+  <ol>
+    <li>Enter the organization URL in your desired browser.</li>
+    <li>Enter <code>username</code> and <code>password</code>.</li>
+    <li>Set your avatar on the welcome screen.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile" default>
+  <ol>
+    <li>Install the Famedly app on your smartphone.</li>
+    <li>Enter the organization URL.</li>
+    <li>Enter <code>username</code> and <code>password</code>.</li>
+    <li>Set your avatar on the welcome screen.</li>
+  </ol>
+  </TabItem>
+</Tabs>
 
-:::caution
+### Activate Chat-backup
 
-Möchten Sie Famedly im Web-Browser nutzen, empfehlen wir die Verwendung in **Kombination mit der Famedly App auf dem Mobilgerät**.
-Die alleinige Nutzung von Famedly im Web-Browser wird nicht empfohlen, da dort nur ein manuelles Chat-Backup durchgeführt werden kann. Dies führt dazu, dass Sie mit jedem Login eine lange Passphrase eingeben müssen, oder ohne das Chat-Backup mit jeder Abmeldung den Zugriff auf alte Nachrichten verlieren.
+It is very important to setup the Chat-Backup. To enable the Chat-Backup, follow these steps.
 
-:::
-
-### Option 1 (empfohlen)
-
-Installieren Sie die Famedly App auf Ihrem Smartphone. Geben Sie die URL und Ihre Anmeldedaten ein, um sich dort anzumelden. Anschließend führen Sie die Verifikation zwischen den beiden Geräten durch.
-
-<img alt="Emoji verification desktop" src={useBaseUrl('/img/emoji_verification_desktop.png')} width="40%"/>
-<img alt="Emoji verification mobile" src={useBaseUrl('/img/emoji_verification.PNG.png')} width="40%"/>
-
-### Option 2
-
-Sie können oder möchten kein Mobilgerät nutzen? Aktivieren Sie Ihr Chat-Backup und bewahren Sie die Passphrase gut auf! Diese benötigen Sie bei einem erneuten Login, um auf Ihre alten Nachrichten zugreifen zu können.
+<Tabs groupId="operating-systems">
+  <TabItem value="web" label="Web">
+  <ol>
+    <li>Click on your avatar to open settings.</li>
+    <li>Click on <b>Chat-Backup.</b></li>
+    <li>Click on <b>Activate Chat-Backup</b>.</li>
+    <li>Store passphrase at a secure place.</li>
+    <li>Click on <b>Activate</b>.</li>    
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile" default>
+  <ol>
+    <li>Tap on your avatar to open settings.</li>
+    <li>Tap on <b>Chat-Backup.</b></li>
+    <li><b>Tap on Chat-Backup</b>.</li>
+    <li>Store passphrase at a secure place.</li>
+    <li>Tap on <b>Activate</b>.</li>
+  </ol>
+  </TabItem>
+</Tabs>
 
 <img alt="Passphrase" src={useBaseUrl('/img/passphrase.PNG.png')} width="40%"/>
 
 :::info
 
-**Wie erstelle ich eine Passphrase?**
+**How can I create a passphrase?**
 
-Wenn Sie noch kein Chat-Backup erstellt haben und noch keine Passphrase erhalten haben, können Sie eine einrichten, wenn Sie sich das erste Mal im Web-Browser anmelden.
+If you have not yet created a chat backup and have not yet received a passphrase you can set one up the first time you log in to the web browser.
 
-**Wann benötige ich die Passphrase?**
+**When do I need the passphrase?**
 
-Sie benötigen die Passphrase nur, wenn Sie auf allen Geräten abgemeldet sind und die Verifikation zwischen zwei Geräten deshalb nicht möglich ist. In diesem Fall muss die Passphrase eingegeben werden, sodass alle alten Nachrichten nach dem Login entschlüsselt werden.
+You only need the passphrase if you are logged out on all devices and the verification between two devices is therefore not possible. In this case the passphrase must be entered so that all old messages are decrypted after login.
 
-**Was passiert, wenn ich die Passphrase verloren habe und auf allen Geräten abgemeldet wurde? on all devices?**
+**What happens if I have lost the passphrase and am logged out on all devices? on all devices?**
 
-Wenn Sie Ihre Passphrase nicht sicher aufgehoben haben oder sie nicht mehr finden können, und Sie von allen Geräten abgemeldet wurden, können Sie Ihr Konto zurücksetzen. Ihre Kontakte und Gruppen bleiben bestehen, aber vorherige Nachrichten können nicht mehr entschlüsselt werden. 
+If you have not kept your passphrase or can no longer find it, and you are also are logged out on all devices, you can only reset your account. Your contacts and groups remain, but previous message content can no longer be decrypted. 
 
 :::
 
 :::caution
 
-Mit der Passphrase haben Sie Zugriff auf alle Ihre verschlüsselten Daten und vorherigen Chat-Verläufe. Sie benötigen diese Passphrase, um Ihren Chatverlauf wiederherzustellen, wenn Sie auf allen Geräten abgemeldet wurden.
-Die Passphrase kann nicht wiederhergestellt werden, wenn Sie sie verloren haben!
+With the passphrase, you have access to all your encrypted data and previous chat histories. You need this passphrase to recover your chat history if you have been
+logged out on all devices.
+The passphrase cannot be recovered if lost!
 
 :::
-
-### Option 3
-
-Die alleinige Nutzung von Famedly im Web Browser ohne manuelles Chat-Backup wird nicht empfohlen. Bei jedem Abmelden verlieren Sie den Zugriff auf Ihre alten Nachrichten. Diese können dann nicht wiederhergestellt werden!
-
-## Mobil
-
-1.  Laden Sie Famedly aus dem App Store oder Google Play Store herunter.
-2.  Geben Sie die <b>Login-URL</b> ein und melden Sie sich mit Ihrem <b>Benutzernamen</b> und <b>Passwort</b> an.
-3.  Sollten Sie sich abmelden, ohne zuvor Ihr Chat-Backup über die Einstellungen aktiviert zu haben  **oder** noch auf einem anderen Gerät eingeloggt zu sein, aktivieren Sie dieses bitte vor dem Logout. Ansonsten würden Sie Ihre alten Nachrichten unwiderruflich verlieren!
-
-<img alt="Passphrase" src={useBaseUrl('/img/settings_overview_1.PNG.png')} width="40%"/>
