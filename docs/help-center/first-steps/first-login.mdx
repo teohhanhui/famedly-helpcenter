@@ -14,7 +14,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
   <div class="container">
     <h2 class="hero__title">First login</h2>
     <p class="hero__subtitle">Follow the steps below to login to Famedly the first time.</p>
-    <p>After your first login in you do not have to login each time you want to use Famedly.</p>
   </div>
 </div>
 
@@ -22,29 +21,50 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 User accounts are always created by the employer. The employer will provide you with a welcome sheet that will give you quick and easy access to Famedly.
 
-## Web
+### Login
 
-1. Open the organization URL in your desired browser.
-2. Enter the login URL and log in with your <b>username</b> and <b>password</b>.
+<Tabs groupId="operating-systems">
+  <TabItem value="web" label="Web">
+  <ol>
+    <li>Enter the organization URL in your desired browser.</li>
+    <li>Enter <code>username</code> and <code>password</code>.</li>
+    <li>Set your avatar on the welcome screen.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile" default>
+  <ol>
+    <li>Install the Famedly app on your smartphone.</li>
+    <li>Enter the organization URL.</li>
+    <li>Enter <code>username</code> and <code>password</code>.</li>
+    <li>Set your avatar on the welcome screen.</li>
+  </ol>
+  </TabItem>
+</Tabs>
 
-:::caution
+### Activate Chat-backup
 
-If you would like to use Famedly in the web browser, we recommend using it in <b>combination with the Famedly app on the mobile device</b>.
-Using Famedly alone in the web browser is not recommended, as only a manual chat backup can be performed there. This will cause you to have to enter a long passphrase with each login, or without the chat backup, lose access to old messages with each logout.
+It is very important to setup the Chat-Backup. To enable the Chat-Backup, follow these steps.
 
-:::
-
-### Option 1 (recommended)
-
-Install the Famedly app on your smartphone. Enter the URL and your credentials to log in there. Then perform the verification between the two devices.
-
-<img alt="Emoji verification desktop" src={useBaseUrl('/img/emoji_verification_desktop.png')} width="40%"/>
-<img alt="Emoji verification mobile" src={useBaseUrl('/img/emoji_verification.PNG.png')} width="40%"/>
-
-
-### Option 2
-
-Can't or don't want to use a mobile device? Activate your chat backup and keep the passphrase safe! You will need it when you log in again to access your old messages.
+<Tabs groupId="operating-systems">
+  <TabItem value="web" label="Web">
+  <ol>
+    <li>Click on your avatar to open settings.</li>
+    <li>Click on <b>Chat-Backup.</b></li>
+    <li>Click on <b>Activate Chat-Backup</b>.</li>
+    <li>Store passphrase at a secure place.</li>
+    <li>Click on <b>Activate</b>.</li>    
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile" default>
+  <ol>
+    <li>Tap on your avatar to open settings.</li>
+    <li>Tap on <b>Chat-Backup.</b></li>
+    <li><b>Tap on Chat-Backup</b>.</li>
+    <li>Store passphrase at a secure place.</li>
+    <li><b>Tap on <b>Activate</b>.</li>
+  </ol>
+  </TabItem>
+</Tabs>
 
 <img alt="Passphrase" src={useBaseUrl('/img/passphrase.PNG.png')} width="40%"/>
 
@@ -71,16 +91,3 @@ logged out on all devices.
 The passphrase cannot be recovered if lost!
 
 :::
-
-### Option 3
-
-Using Famedly on the web browser alone without a manual chat backup is not recommended. Every time you log out, you lose access to your old messages. These cannot be restored then!
-
-
-## Mobile
-
-1. Download Famedly from the App Store or Google Play Store.
-2. Enter the <b>login URL</b> and log in with your <b>username</b> and <b>password</b>.
-3. If you log out without having activated your chat backup via the settings first <b>or</b> if you are still logged in on another device, please activate it before logging out. Otherwise you would irrevocably lose your old messages!
-
-<img alt="Passphrase" src={useBaseUrl('/img/settings_overview_1.PNG.png')} width="40%"/>
