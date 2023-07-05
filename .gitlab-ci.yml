@@ -6,6 +6,7 @@ image: node:latest
 
 stages:
   - dependabot
+  - build
   - deploy
 
 # allow caching for faster deployment
@@ -15,10 +16,18 @@ cache:
     #- public/
     - .cache/
 
-pages:
-  stage: deploy
+build:
+  stage: build
   only:
     - main
+  script:
+    - npm install
+    - npm run build
+
+pages:
+  stage: deploy
+  rules:
+    - if: $CI_COMMIT_BRANCH == "main"
   script:
     - npm install
     - npm run build
