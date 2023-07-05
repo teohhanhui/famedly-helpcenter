@@ -17,6 +17,8 @@ cache:
 
 pages:
   stage: deploy
+  only:
+    - main
   script:
     - npm install
     - npm run build
