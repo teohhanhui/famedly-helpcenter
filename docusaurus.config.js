@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/helpcenter/',
   projectName: 'helpcenter',
   organizationName: 'famedly',
-  deploymentBranch: 'deployment',
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
