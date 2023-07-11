@@ -25,16 +25,11 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: ({locale, versionDocsDirPath, docPath}) => {
-            // Link to Crowdin for German docs
-            if (locale !== DefaultLocale) {
-              return 'https://crowdin.com/project/famedly-helpcenter';
-            }
-            // Link to GitHub for English docs
-            return 'https://github.com/famedly/helpcenter/edit/main/';
-          },
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
+          editUrl: "https://github.com/famedly/helpcenter/edit/main/docs/",
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
             let items = await defaultSidebarItemsGenerator(args);
