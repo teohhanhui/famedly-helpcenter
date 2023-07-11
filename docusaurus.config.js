@@ -9,7 +9,7 @@ const DefaultLocale = 'en';
 const config = {
   title: 'Famedly Help Center',
   tagline: 'We are here to make your work easier',
-  url: 'https://docs.famedly.com',
+  url: 'https://famedly.github.io',
   baseUrl: '/helpcenter/',
   projectName: 'helpcenter',
   organizationName: 'famedly',
