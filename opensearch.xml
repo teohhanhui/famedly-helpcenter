@@ -4,8 +4,8 @@
   <ShortName>Famedly Help Center</ShortName>
   <Description>Search Famedly Help Center</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.famedly.com/helpcenter/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.famedly.com/helpcenter/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.famedly.com/helpcenter/opensearch.xml" />
-  <moz:SearchForm>https://docs.famedly.com/helpcenter/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://famedly.github.io/helpcenter/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://famedly.github.io/helpcenter/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://famedly.github.io/helpcenter/opensearch.xml" />
+  <moz:SearchForm>https://famedly.github.io/helpcenter/</moz:SearchForm>
 </OpenSearchDescription>
