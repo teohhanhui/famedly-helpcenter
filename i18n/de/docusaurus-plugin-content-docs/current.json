@@ -18,9 +18,5 @@
   "sidebar.helpcenterSidebar.category.Administration": {
     "message": "Verwaltung",
     "description": "The label for category Administration in sidebar helpcenterSidebar"
-  },
-  "sidebar.helpcenterSidebar.category.Your account": {
-    "message": "Ihr Konto",
-    "description": "The label for category Your account in sidebar helpcenterSidebar"
   }
 }
