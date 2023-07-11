@@ -29,13 +29,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          editUrl: ({locale, docPath}) => {
+          editUrl: ({locale, versionDocsDirPath, docPath}) => {
             // Link to Crowdin for localized docs
             if (locale !== DefaultLocale) {
               return `https://crowdin.com/project/famedly-helpcenter/${locale}`;
             }
             // Link to GitHub for english docs
-            return `https://github.com/famedly/helpcenter/edit/main/${docPath}`;
+            return `https://github.com/famedly/helpcenter/edit/main/${versionDocsDirPath}/${docPath}`;
           },
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
