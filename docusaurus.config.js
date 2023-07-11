@@ -33,7 +33,7 @@ const config = {
               return 'https://crowdin.com/project/famedly-helpcenter';
             }
             // Link to GitHub for English docs
-            return 'https://github.com/famedly/helpcenter/tree/main';
+            return 'https://github.com/famedly/helpcenter/edit/main/';
           },
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
