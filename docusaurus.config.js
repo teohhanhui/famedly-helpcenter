@@ -33,7 +33,7 @@ const config = {
               return 'https://crowdin.com/project/famedly-helpcenter';
             }
             // Link to GitHub for English docs
-            return 'https://gitlab.com/famedly/company/helpcenter/-/tree/main';
+            return 'https://github.com/famedly/helpcenter/tree/main';
           },
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
@@ -84,8 +84,8 @@ const config = {
             position: 'right',
           },
           {
-            to: 'https://gitlab.com/famedly',
-            label: 'Gitlab',
+            to: 'https://github.com/famedly',
+            label: 'Github',
             position: 'right',
           },
           {
@@ -95,34 +95,6 @@ const config = {
         ],
       },
       footer: {
-        links: [
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Gitlab',
-                href: 'https://gitlab.com/famedly',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Famedly GmbH`,
       },
       prism: {
