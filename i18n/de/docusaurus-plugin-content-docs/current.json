@@ -16,7 +16,7 @@
     "description": "The label for category Administration in sidebar helpcenterSidebar"
   },
   "sidebar.helpcenterSidebar.category.Your account": {
-    "message": "Your account",
+    "message": "Ihr Konto",
     "description": "The label for category Your account in sidebar helpcenterSidebar"
   }
 }
