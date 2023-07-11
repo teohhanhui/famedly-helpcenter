@@ -29,7 +29,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          editUrl: "https://github.com/famedly/helpcenter/edit/main/docs/",
+          editUrl: "https://github.com/famedly/helpcenter/edit/main/",
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
             // Filters index files out of the sidebar
             let items = await defaultSidebarItemsGenerator(args);
