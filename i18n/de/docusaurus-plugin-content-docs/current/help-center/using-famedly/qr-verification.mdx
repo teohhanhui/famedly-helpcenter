@@ -1,0 +1,49 @@
+---
+sidebar_label: QR-Verifikation
+title: QR-Verifikation
+hide_title: true
+displayed_sidebar: helpcenterSidebar
+sidebar_position: 5
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+
+<div class="hero hero--primary">
+  <div class="container">
+    <h2 class="hero__title">QR-Verifikation</h2>
+    <p class="hero__subtitle">Wie Sie ein neues Gerät mittels QR-Verifikation einrichten und was sie tun können, wenn Ihr Gerät den QR-Code nicht scannen kann.</p>
+    <p>Das QR-Verifikations-Feature bietet Ihnen die Möglichkeit, neue Geräte sehr einfach zu verifizieren, indem Sie einfach einen QR-Code scannen.</p>
+  </div>
+</div>
+
+## Nutzung der Verifikation
+
+Im Login-Prozess werden Sie automatisch zur QR-Verifikation weitergeleitet, 
+sofern mindestens eines Ihrer Geräte ein Mobilgerät ist.  
+Falls Sie dennoch stattdessen zur Zahlen- oder Emoji-Verifikation weitergeleitet werden, 
+prüfen Sie bitte, ob für eines Ihrer Geräte ein Update verfügbar ist.  
+
+<Tabs>
+  <TabItem value="web" label="Web" default>
+  <ol>
+    <li>Nehmen Sie die Verifikationsanfrage an, indem Sie auf <b>Fortfahren</b> im <b>Neue Verifikationsanfrage</b>-Dialog klicken.</li>
+    <li>Falls das andere Gerät ein Mobilgerät ist, wird Ihr Browser Tab nun einen QR-Code anzeigen. Andernfalls werden Sie gebeten, stattdessen Zahlen zu vergleichen.</li>
+    <li>Scannen Sie nun den QR-Code, der in Ihrem Browser angezeigt wird mit Ihrem Mobilgerät. Falls beide Geräte Web-Browser sind, vergleichen Sie bitte die Zahlen und bestätigen Sie diese.</li>
+    <li>Falls Sie den QR-Code aus irgendeinem Grund nicht scannen können, tippen Sie bitte auf Ihrem Mobilgerät auf <b>Zahlen vergleichen statt QR-Code</b>.</li>
+    <li>Nachdem Sie den QR-Code gescannt haben, werden Sie gefragt, ob wirklich Sie selbst den QR-Code gescannt haben. Klicken Sie darauf bitte auf <b>Ja, das war ich</b>, um die Verifikation abzuschließen.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Nehmen Sie die Verifikationsanfrage an, indem Sie auf <b>Fortfahren</b> im <b>Neue Verifikationsanfrage</b>-Dialog tippen.</li>
+    <li>Das bereits aktive Gerät wird nun einen QR-Code anzeigen und das Gerät, das Sie verifizieren möchten, wird einen QR-Code-Scanner öffnen.</li>
+    <li>Scannen Sie nun den angezeigten QR-Code.</li>
+    <li>Falls Sie den QR-Code aus irgendeinem Grund nicht scannen können, tippen Sie bitte auf dem Gerät, auf dem sich der Scanner geöffnet hat, auf <b>Zahlen vergleichen statt QR-Code</b>.</li>
+    <li>Nachdem Sie den QR-Code gescannt haben, werden Sie gefragt, ob wirklich Sie selbst den QR-Code gescannt haben. Tippen Sie darauf bitte auf <b>Ja, das war ich</b>, um die Verifikation abzuschließen.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
