@@ -1,0 +1,50 @@
+---
+sidebar_label: QR-Verification
+title: QR-Verification
+hide_title: true
+displayed_sidebar: helpcenterSidebar
+sidebar_position: 5
+---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+
+<div class="hero hero--primary">
+  <div class="container">
+    <h2 class="hero__title">QR-Verification</h2>
+    <p class="hero__subtitle">How to use QR-verification and what to do if your device can't scan the code.</p>
+    <p>With the QR-verification feature you can easily verify new devices by scanning a QR-code.
+    </p>
+  </div>
+</div>
+
+## Usage of Verification
+
+You will get redirected to the verification page automatically in the login-flow, 
+if at least one of the devices you want to use for verification is a mobile device.  
+If you nevertheless get redirected to the number- or emoji-verification instead, 
+please check if there is an update for one of your devices. 
+
+<Tabs>
+  <TabItem value="web" label="Web" default>
+  <ol>
+    <li>Accept the verification request by clicking on <b>Continue</b> in the <b>New verification request</b> dialog.</li>
+    <li>If the other device is a mobile device, the screen on your web tab will display a QR code. If it's another web device, it will fallback to number verification.</li>
+    <li>Scan the QR code displayed on your web browser with your mobile device. If both devices are in web browsers, compare the numbers and confirm them.</li>
+    <li>If by some reason you are not able to scan the QR code, you can tap on <b>Compare numbers instead of QR-Code</b>.</li>
+    <li>After scanning the QR code, you will be asked if it was really you who scanned the QR code on your already active device. Click on <b>Yes, it was me</b> to complete the verification.</li>
+  </ol>
+  </TabItem>
+  <TabItem value="mobile" label="Mobile">
+  <ol>
+    <li>Accept the verification request by tapping on <b>Continue</b> in the <b>New verification request</b> dialog.</li>
+    <li>The already active device will show a QR code and the device you want to verify will open a QR code scanner.</li>
+    <li>Scan the displayed QR code.</li>
+    <li>If by some reason you are not able to scan the QR code, you can tap on <b>Compare numbers instead of QR-Code</b>.</li>
+    <li>After scanning the QR code, you will be asked if it was really you who scanned the QR code on your already active device. Tap on <b>Yes, it was me</b> to complete the verification.</li>
+  </ol>
+  </TabItem>
+</Tabs>
+
