@@ -1,0 +1,41 @@
+name: Deploy Review App
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build_review_app:
+    name: Build Review App
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Adjust docusaurus config for Review
+        run: sed -i -e "s|https://famedly.github.io|https://helpcenter-pr-${{ github.event.pull_request.number }}.web-review.famedly.de/|g" -e "s|'/helpcenter/'|'/'|g" docusaurus.config.js
+
+      - name: Build web
+        run: npm run build
+      - uses: actions/upload-artifact@v3
+        with:
+          name: web
+          path: build
+          retention-days: 1
+
+  
+  review_app:
+    needs: build_review_app
+    secrets: inherit
+    uses: famedly/frontend-ci-templates/.github/workflows/review-app.yml@main
+    with:
+      projectname: "helpcenter"
+      pr: ${{ github.event.pull_request.number }}
+      environment: "review"
