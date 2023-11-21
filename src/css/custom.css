@@ -405,3 +405,7 @@
        url('../fonts/ibm-plex-sans-v14-latin/ibm-plex-sans-v14-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/ibm-plex-sans-v14-latin/ibm-plex-sans-v14-latin-700italic.svg#IBMPlexSans') format('svg'); /* Legacy iOS */
 }
+
+ol ol, ul ol {
+  list-style-type: decimal;
+}
