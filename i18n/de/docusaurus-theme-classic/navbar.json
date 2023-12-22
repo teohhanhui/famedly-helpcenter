@@ -15,6 +15,10 @@
     "message": "Webseite",
     "description": "Navbar item with label Website"
   },
+  "item.label.Gitlab": {
+    "message": "Gitlab",
+    "description": "Navbar item with label Gitlab"
+  },
   "logo.alt": {
     "message": "Famedly Logo",
     "description": "The alt text of navbar logo"
