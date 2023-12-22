@@ -105,15 +105,11 @@ const config = {
       },
       algolia: {
         appId: 'B1OKEYLEHC',
-        apiKey: 'c5698a85503a72bd60573f81514fc7a5',
+        apiKey: '236518c04b694d914ee928e6a0cec749',
         indexName: 'helpcenter',
-        container: 'div#',
-        insights: true,
         contextualSearch: true,
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
+        searchParameters: {},
+        searchPagePath: 'search',
       },
     }),
 
