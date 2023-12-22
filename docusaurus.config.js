@@ -104,10 +104,11 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       algolia: {
-        appId: 'FFJ2EFU29K',
-        apiKey: '9190656e6d77ef676a3f4e582fe172db',
-        indexName: 'famedly-gitlab',
+        appId: 'B1OKEYLEHC',
+        apiKey: 'c5698a85503a72bd60573f81514fc7a5',
+        indexName: 'helpcenter',
         container: 'div#',
+        insights: true,
         contextualSearch: true,
         replaceSearchResultPathname: {
           from: '/docs/', // or as RegExp: /\/docs\//
