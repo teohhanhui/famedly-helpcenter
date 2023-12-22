@@ -104,15 +104,12 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       algolia: {
-        appId: 'FFJ2EFU29K',
-        apiKey: '9190656e6d77ef676a3f4e582fe172db',
-        indexName: 'famedly-gitlab',
-        container: 'div#',
+        appId: 'B1OKEYLEHC',
+        apiKey: '236518c04b694d914ee928e6a0cec749',
+        indexName: 'helpcenter',
         contextualSearch: true,
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
+        searchParameters: {},
+        searchPagePath: 'search',
       },
     }),
 
