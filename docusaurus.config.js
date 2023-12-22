@@ -107,13 +107,9 @@ const config = {
         appId: 'B1OKEYLEHC',
         apiKey: 'c5698a85503a72bd60573f81514fc7a5',
         indexName: 'helpcenter',
-        container: 'div#',
-        insights: true,
         contextualSearch: true,
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
+        searchParameters: {},
+        searchPagePath: 'search',
       },
     }),
 
